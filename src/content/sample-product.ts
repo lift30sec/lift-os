@@ -38,7 +38,9 @@ export const sampleProduct: ProductRecord = {
   content: {
     coverTitle: "新築のときから\n使えばよかった。",
     productLabel: "SAKuRAKu 排気口カバー",
+    problemTitle: "掃除しにくい場所ほど、\n汚れる前に守る。",
     problem: "一度入り込んだ油や食材は、奥まできれいに掃除するのが難しい。新築から約3年たって、その厄介さに気づきました。",
+    changeTitle: "掃除を減らす仕組みに\n変える。",
     change: "カバーを付けてからは、汚れを中へ入れない運用に変わりました。掃除を楽にするより、掃除が必要な状態を作らない商品です。",
     insight: "排気口は、掃除する場所ではなく、\n汚れる前に守る場所だった。",
     cta: "実際に使って感じた注意点も含め、楽天ROOMにまとめています。",
