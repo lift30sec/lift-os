@@ -41,6 +41,9 @@ export interface ProductContent {
 export interface EditorialCover {
   imagePath: string;
   imageAlt: string;
+  contextImagePath?: string;
+  contextImageAlt?: string;
+  separateAffiliateImage?: boolean;
   objectPosition?: string;
   sizing?: "cover" | "square";
   zoom?: number;

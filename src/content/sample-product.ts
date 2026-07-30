@@ -23,7 +23,7 @@ export const sampleProduct: ProductRecord = {
     "https://affiliate.rakuten.co.jp/link/pc/item?type=item&me_id=1255876&item_id=10002372"
   ],
   productImage: {
-    path: "../../assets/products/sakuraku-exhaust-cover/affiliate-main.webp",
+    path: "../../assets/products/sakuraku-exhaust-cover/affiliate-usage.webp",
     sourcePageUrl: "https://affiliate.rakuten.co.jp/link/pc/item?type=item&me_id=1255876&item_id=10002372",
     affiliateLinkUrl: "https://hb.afl.rakuten.co.jp/ichiba/5626ae6e.60c293db.5626ae7b.f2fb36cc/",
     provider: "rakuten_affiliate",
@@ -34,15 +34,18 @@ export const sampleProduct: ProductRecord = {
     allowOverlay: false
   },
   editorialCover: {
-    imagePath: "../../assets/products/sakuraku-exhaust-cover/affiliate-usage.webp",
-    imageAlt: "SAKuRAKu 排気口カバーをコンロへ設置している様子",
+    imagePath: "../../assets/products/sakuraku-exhaust-cover/generated-kitchen-context-v1.png",
+    imageAlt: "落ち着いた色調の清潔なキッチン",
+    contextImagePath: "../../assets/products/sakuraku-exhaust-cover/generated-kitchen-context-v1.png",
+    contextImageAlt: "落ち着いた色調の清潔なキッチン",
+    separateAffiliateImage: true,
     objectPosition: "left top",
     sizing: "square",
     zoom: 1.508,
     contrast: 1.18,
     saturation: 0.88,
-    assetApprovedForEditing: false,
-    prototypeOnly: true
+    assetApprovedForEditing: true,
+    prototypeOnly: false
   },
   content: {
     coverKicker: "もっと早く知りたかった、暮らしの道具",

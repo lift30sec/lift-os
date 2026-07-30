@@ -43,6 +43,18 @@ Image publication remains blocked separately until each source asset is cleared.
 - The label, logo, margins, page counter, and product label remain fixed across
   all six pages
 
+## Compliant editorial cover proposal
+
+The publication-safe cover separates three roles:
+
+- A generated context image provides atmosphere and accepts headline overlays
+- The affiliate-provided product image appears in its own fixed region without
+  cropping, overlays, or direct modification
+- HTML text identifies the owned product and communicates the LIFT insight
+
+The first implementation is `lift-002`. Its generated kitchen background does
+not depict or imitate the SAKuRAKu product.
+
 ## キャンバス
 
 - Instagram縦型: 1080 × 1350 px

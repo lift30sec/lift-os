@@ -38,6 +38,48 @@ function editorialHeader(product: ProductRecord, pageNumber: string): string {
   </header>`;
 }
 
+function renderCompliantCover(
+  product: ProductRecord,
+  title: string,
+  label: string
+): string {
+  const cover = product.editorialCover!;
+  const contextPath = escapeHtml(cover.contextImagePath!);
+  const contextAlt = escapeHtml(cover.contextImageAlt ?? "");
+  const affiliateImage = product.productImage
+    ? `<img class="compliant-product__image" src="${escapeHtml(
+        product.productImage.path
+      )}" alt="${label}">`
+    : "";
+  const kicker = escapeHtml(product.content.coverKicker ?? "");
+  const series = escapeHtml(product.content.coverSeries ?? product.category);
+  const sequence = escapeHtml(product.content.coverSequence ?? "01");
+
+  return `<main class="page compliant-cover">
+    <header class="compliant-header">
+      <div class="editorial-header__label">LIFT / ${series} ${sequence}</div>
+      <img class="editorial-header__logo" src="../../assets/brand/lift-logo-transparent.png" alt="LIFT 30 sec">
+    </header>
+    <section class="compliant-context">
+      <img class="compliant-context__image" src="${contextPath}" alt="${contextAlt}">
+      <div class="compliant-context__shade"></div>
+      <div class="compliant-context__copy">
+        ${kicker ? `<p>${kicker}</p>` : ""}
+        <h1>${title}</h1>
+      </div>
+    </section>
+    <section class="compliant-product">
+      <div class="compliant-product__copy">
+        <div>実際に使ってよかったもの</div>
+        <h2>${label}</h2>
+        <p>使って分かったことを、正直にまとめます。</p>
+      </div>
+      <figure>${affiliateImage}</figure>
+    </section>
+    <footer class="compliant-footer"><span>LIFT / 30 SEC</span><span>毎日を30秒ラクにする。</span></footer>
+  </main>`;
+}
+
 function renderCover(product: ProductRecord, title: string, label: string): string {
   const cover = product.editorialCover;
   if (!cover) {
@@ -45,6 +87,13 @@ function renderCover(product: ProductRecord, title: string, label: string): stri
       ? `<img class="product-image" src="${escapeHtml(product.productImage.path)}" alt="${label}">`
       : "";
     return `<main class="page cover">${brandMark}<div class="eyebrow">LIFT 01</div><h1>${title}</h1><figure class="product-figure">${image}<figcaption class="label">${label}</figcaption></figure><div class="swipe">SWIPE →</div></main>`;
+  }
+  if (
+    cover.contextImagePath &&
+    cover.separateAffiliateImage &&
+    product.productImage
+  ) {
+    return renderCompliantCover(product, title, label);
   }
 
   const series = escapeHtml(product.content.coverSeries ?? product.category);

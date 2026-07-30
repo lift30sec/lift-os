@@ -11,6 +11,11 @@
 - 使用シーン画像: 楽天アフィリエイトの商品リンク作成画面で選択できる
   `srn-403-413_12_2512.jpg`（400 × 400）
 - 用途: 楽天アフィリエイト正式提供画像
+- 公開版の背景: `assets/products/sakuraku-exhaust-cover/generated-kitchen-context-v1.png`
+- 背景の生成日: 2026-07-31
+- 背景の役割: 商品を描写しないキッチンの文脈画像。文字重ね可能
+- 公開版の商品画像: `assets/products/sakuraku-exhaust-cover/affiliate-usage.webp`
+- 商品画像の扱い: 楽天アフィリエイト提供画像を独立領域へ全体表示し、切り取り・文字重ねをしない
 
 ## マーナ 極 冷凍ごはん容器
 

@@ -438,4 +438,104 @@ h2 {
   inset: 0;
   background: rgba(23, 35, 29, .12);
 }
+
+.compliant-cover {
+  padding: 0 56px 32px;
+  background: #f7f4ec;
+}
+.compliant-cover::before,
+.compliant-cover::after { display: none; }
+.compliant-header {
+  flex: 0 0 180px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.compliant-context {
+  position: relative;
+  flex: 0 0 700px;
+  overflow: hidden;
+  background: #243029;
+}
+.compliant-context__image {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 58%;
+}
+.compliant-context__shade {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, rgba(19, 28, 24, .22), rgba(19, 28, 24, .05));
+}
+.compliant-context__copy {
+  position: absolute;
+  left: 72px;
+  right: 72px;
+  top: 50%;
+  transform: translateY(-48%);
+  color: #fff;
+}
+.compliant-context__copy p {
+  margin: 0 0 28px;
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: .14em;
+}
+.compliant-context__copy h1 {
+  margin: 0;
+  max-width: 790px;
+  font-size: 72px;
+  line-height: 1.3;
+  text-shadow: 0 4px 24px rgba(0, 0, 0, .36);
+}
+.compliant-product {
+  flex: 0 0 324px;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 248px;
+  gap: 32px;
+  align-items: center;
+  padding: 24px 0 20px 24px;
+}
+.compliant-product__copy > div {
+  margin-bottom: 14px;
+  color: #607267;
+  font-size: 17px;
+  font-weight: 700;
+  letter-spacing: .12em;
+}
+.compliant-product__copy h2 {
+  margin: 0;
+  font-size: 34px;
+  line-height: 1.4;
+}
+.compliant-product__copy p {
+  margin: 16px 0 0;
+  color: #4c5e54;
+  font-size: 20px;
+}
+.compliant-product figure {
+  margin: 0;
+  width: 248px;
+  height: 248px;
+  background: #fff;
+}
+.compliant-product__image {
+  display: block;
+  width: 248px;
+  height: 248px;
+  object-fit: contain;
+}
+.compliant-footer {
+  flex: 1 1 auto;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  color: #31483e;
+  font-size: 17px;
+  font-weight: 700;
+  letter-spacing: .1em;
+}
 `;
