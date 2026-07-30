@@ -5,11 +5,13 @@
   "type": "module",
   "scripts": {
     "check": "tsc --noEmit",
-    "render:sample": "tsx scripts/render-sample.ts",
+    "render:sample": "node --experimental-strip-types scripts/render-sample.ts",
+    "render:png": "node --experimental-strip-types scripts/render-png.ts",
     "validate": "node --experimental-strip-types scripts/render-sample.ts"
   },
   "devDependencies": {
     "@types/node": "^22.0.0",
+    "playwright": "^1.54.0",
     "tsx": "^4.19.0",
     "typescript": "^5.7.0"
   }
