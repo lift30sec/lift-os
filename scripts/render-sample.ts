@@ -30,4 +30,18 @@ await writeFile(
   "utf8"
 );
 
+await writeFile(
+  resolve(target, "channel-copy.json"),
+  JSON.stringify(
+    {
+      rakutenRoom: sampleProduct.content.room,
+      instagram: sampleProduct.content.instagramCaption,
+      threads: sampleProduct.content.threads
+    },
+    null,
+    2
+  ),
+  "utf8"
+);
+
 console.log(`Rendered ${renderCarousel(sampleProduct).length} pages to ${target}`);
