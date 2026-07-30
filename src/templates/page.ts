@@ -22,4 +22,4 @@ export function pageShell(content: string): string {
 }
 
 export const brandMark = `
-<div class="brand" aria-label="LIFT 30 sec">LIFT<small>30 sec</small></div>`;
+<img class="brand" src="../../assets/brand/lift-logo-transparent.png" alt="LIFT 30 sec">`;

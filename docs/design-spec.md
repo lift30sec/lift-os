@@ -1,51 +1,36 @@
-# Design Spec v0.1
+# Design Spec v0.2
 
-## Canvas
+## キャンバス
 
-- Instagram portrait: 1080 × 1350 px
-- Grid: 8 px
-- Background: `#F8F8F6`
-- Primary text: `#111111`
-- Secondary text: `#666666`
-- Warm accent: `#D8D2C6`
-- Safe area: 80 px horizontal, 96 px vertical
+- Instagram縦型: 1080 × 1350 px
+- グリッド: 8 px
+- 背景: `#F8F8F6`
+- 文字: `#111111`
+- 補助文字: `#666666`
+- アクセント: `#D8D2C6`
+- 安全余白: 左右80 px、上下96 px
 
-## Typography
+## ロゴ
 
-- Japanese: `"Noto Sans JP", sans-serif`
-- Latin fallback: `Montserrat, sans-serif`
-- Cover title: 76 px, 700, line-height 1.15, maximum 2 lines
-- Page heading: 48 px, 700, line-height 1.25
-- Body: 32 px, 400, line-height 1.6
-- Label: 24 px, 600
+承認済みの透過PNG `assets/brand/lift-logo-transparent.png` を使います。右上へ152 × 152 pxで配置し、縦横比を維持します。ロゴを再生成しません。
 
-Font availability must be verified in the rendering environment. The current renderer declares web-safe fallbacks and does not bundle unverified font files.
+## 商品画像
 
-## Components
+- 個人撮影画像は必須にしない
+- 楽天市場の商品は楽天アフィリエイトのリンク作成画面から取得した画像だけを使う
+- 通常の商品ページ画像を転載しない
+- `object-fit: contain` で全体を表示する
+- 切り抜き、変形、画像上への文字・装飾の重ね置きをしない
+- 文章、背景、装飾は商品画像の外側へ配置する
+- 画像ごとに提供元、取得日、対応するアフィリエイトリンクを保存する
 
-- `brand-mark`: text-based mark at the upper right; replaceable by an approved transparent logo asset.
-- `eyebrow`: short category or sequence label.
-- `headline`: one message per page.
-- `product-image`: `contain` fit; never synthesize a look-alike product.
-- `insight`: short editorial observation.
-- `cta`: non-coercive direction to the profile or saved link.
+この制約は表現の自由度を下げますが、実物と異なる生成画像や権利不明の転載画像を避けられます。
 
-## Six-page carousel
+## 6ページ構成
 
-1. Cover: emotional hook + product name.
-2. Problem: recognizable recurring frustration.
-3. Change: what changed in the owner’s routine.
-4. Review: strengths and one or more drawbacks.
-5. Insight: one memorable observation.
-6. CTA: brand promise and gentle direction.
-
-## Image policy
-
-Priority:
-
-1. owner-taken image;
-2. manufacturer image with confirmed reuse rights;
-3. merchant image only when its usage terms permit.
-
-AI-generated look-alike product images are prohibited because small visual differences can mislead.
-
+1. 表紙: 感情的なフック、商品名、公式提供画像
+2. 困りごと
+3. 生活の変化
+4. 良かった点と惜しい点
+5. LIFT Insight
+6. CTA

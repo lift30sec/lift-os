@@ -25,17 +25,17 @@ body {
   right: 80px;
   width: 152px;
   height: 152px;
-  border: 2px solid ${tokens.color.text};
-  border-radius: 50%;
-  display: grid;
-  place-content: center;
-  text-align: center;
-  letter-spacing: .14em;
-  font-family: Montserrat, sans-serif;
-  font-size: 28px;
-  font-weight: 600;
+  object-fit: contain;
 }
-.brand small { display: block; margin-top: 6px; font-size: 16px; letter-spacing: .08em; }
+.product-image {
+  width: 400px;
+  height: 400px;
+  margin-top: 56px;
+  object-fit: contain;
+  object-position: center;
+  align-self: flex-end;
+  background: #fff;
+}
 .eyebrow { color: ${tokens.color.secondary}; font-size: 24px; font-weight: 600; }
 h1 { margin: 104px 0 24px; max-width: 720px; font-size: 76px; line-height: 1.15; white-space: pre-line; }
 h2 { margin: 120px 0 32px; max-width: 840px; font-size: 48px; line-height: 1.25; }

@@ -24,6 +24,18 @@ export interface ProductContent {
   cta: string;
 }
 
+export interface ProductImage {
+  path: string;
+  sourcePageUrl: string;
+  affiliateLinkUrl: string;
+  provider: "rakuten_affiliate";
+  usage: "affiliate_asset";
+  retrievedOn: string;
+  fit: "contain";
+  allowCrop: false;
+  allowOverlay: false;
+}
+
 export interface ProductRecord {
   id: string;
   name: string;
@@ -37,7 +49,7 @@ export interface ProductRecord {
   score: LiftScore;
   sourceUrls: string[];
   startedUsingOn?: string;
-  productImage?: string;
+  productImage?: ProductImage;
   content: ProductContent;
 }
 
@@ -69,7 +81,14 @@ export function validateProduct(product: ProductRecord): string[] {
   if (!product.sourceUrls.length) errors.push("at least one source URL is required");
   if (!product.content.coverTitle.trim()) errors.push("cover title is required");
   if (!product.insight.trim()) errors.push("insight is required");
+  if (product.productImage) {
+    if (!product.productImage.affiliateLinkUrl.trim()) {
+      errors.push("product image requires its affiliate link");
+    }
+    if (product.productImage.allowCrop || product.productImage.allowOverlay) {
+      errors.push("affiliate product images cannot be cropped or overlaid");
+    }
+  }
 
   return errors;
 }
-
