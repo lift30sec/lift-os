@@ -27,8 +27,6 @@ export interface ProductContent {
   threads: string;
 }
 
-export const AFFILIATE_DISCLOSURE = "広告｜楽天アフィリエイトを利用しています";
-
 export interface ProductImage {
   path: string;
   sourcePageUrl: string;
@@ -90,12 +88,6 @@ export function validateProduct(product: ProductRecord): string[] {
     errors.push("Instagram caption is required");
   }
   if (!product.content.threads.trim()) errors.push("Threads copy is required");
-  if (!product.content.instagramCaption.startsWith(AFFILIATE_DISCLOSURE)) {
-    errors.push("Instagram caption must begin with the affiliate disclosure");
-  }
-  if (!product.content.threads.startsWith(AFFILIATE_DISCLOSURE)) {
-    errors.push("Threads copy must begin with the affiliate disclosure");
-  }
   if (!product.insight.trim()) errors.push("insight is required");
   if (product.productImage) {
     if (!product.productImage.affiliateLinkUrl.trim()) {
@@ -108,3 +100,4 @@ export function validateProduct(product: ProductRecord): string[] {
 
   return errors;
 }
+
