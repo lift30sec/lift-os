@@ -36,7 +36,14 @@ LIFT begins with a recurring frustration, not a product category. The preferred 
 small frustration -> useful insight -> suitable product -> honest trade-off
 ```
 
-## Open decisions
+## Approved logo
 
-The exact production logo asset and final typography files are not yet stored in this repository. Until they are supplied and licensed, the renderer uses a text-based LIFT mark.
+The production logo is stored at `assets/brand/lift-logo-transparent.png`.
+It is the owner-supplied transparent PNG containing the circular mark, upward
+arrow, `LIFT`, and `30 sec`. The renderer must use this asset and must not
+re-create the mark from text.
 
+## Open decision
+
+The final bundled Japanese font files have not been selected. The renderer
+currently uses the system font fallback defined in the design specification.
