@@ -22,6 +22,9 @@ export interface ProductContent {
   change: string;
   insight: string;
   cta: string;
+  room: string;
+  instagramCaption: string;
+  threads: string;
 }
 
 export interface ProductImage {
@@ -80,6 +83,11 @@ export function validateProduct(product: ProductRecord): string[] {
   if (!product.drawbacks.length) errors.push("at least one drawback is required");
   if (!product.sourceUrls.length) errors.push("at least one source URL is required");
   if (!product.content.coverTitle.trim()) errors.push("cover title is required");
+  if (!product.content.room.trim()) errors.push("ROOM copy is required");
+  if (!product.content.instagramCaption.trim()) {
+    errors.push("Instagram caption is required");
+  }
+  if (!product.content.threads.trim()) errors.push("Threads copy is required");
   if (!product.insight.trim()) errors.push("insight is required");
   if (product.productImage) {
     if (!product.productImage.affiliateLinkUrl.trim()) {
