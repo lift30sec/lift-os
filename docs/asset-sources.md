@@ -7,6 +7,9 @@
 - 商品ページ: https://item.rakuten.co.jp/kurashi-zakka/srn-403-413/
 - 提供元: 楽天アフィリエイト
 - 保存先: `assets/products/sakuraku-exhaust-cover/affiliate-main.webp`
+- 使用シーン候補: `assets/products/sakuraku-exhaust-cover/affiliate-usage.webp`
+- 使用シーン画像: 楽天アフィリエイトの商品リンク作成画面で選択できる
+  `srn-403-413_12_2512.jpg`（400 × 400）
 - 用途: 楽天アフィリエイト正式提供画像
 
 ## マーナ 極 冷凍ごはん容器

@@ -13,11 +13,39 @@ body {
 }
 .page {
   position: relative;
+  isolation: isolate;
   width: ${tokens.canvas.width}px;
   height: ${tokens.canvas.height}px;
   padding: ${tokens.spacing.safeY}px ${tokens.spacing.safeX}px;
   display: flex;
   flex-direction: column;
+  background:
+    linear-gradient(180deg, rgba(255,255,255,.32), transparent 42%),
+    ${tokens.color.background};
+}
+.page::before {
+  content: "";
+  position: absolute;
+  z-index: -2;
+  width: 700px;
+  height: 980px;
+  right: -280px;
+  bottom: -390px;
+  border-radius: 52% 48% 0 0;
+  background: ${tokens.color.path};
+  transform: rotate(10deg);
+}
+.page::after {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  width: 760px;
+  height: 760px;
+  right: -360px;
+  bottom: -335px;
+  border: 2px solid ${tokens.color.pathLine};
+  border-radius: 50%;
+  opacity: .62;
 }
 .brand {
   position: absolute;
@@ -54,8 +82,17 @@ h2 {
 .body { margin: 0; max-width: 840px; font-size: 30px; line-height: 1.75; }
 .text-block { margin-top: 176px; }
 .product-figure {
+  position: relative;
   width: 424px;
   margin: 56px 0 0 auto;
+}
+.product-figure::before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  inset: -24px 24px 24px -24px;
+  background: rgba(255,255,255,.55);
+  border: 1px solid rgba(167,184,167,.55);
 }
 .label {
   margin-top: 20px;
@@ -63,8 +100,25 @@ h2 {
   font-size: 24px;
   line-height: 1.5;
 }
-.list { display: grid; grid-template-columns: 1fr 1fr; gap: 40px; margin-top: 168px; }
-.panel { padding: 40px; border-top: 8px solid ${tokens.color.accent}; background: #fff; }
+.review-grid {
+  display: grid;
+  grid-template-columns: 1.35fr .85fr;
+  gap: 40px;
+  margin-top: 144px;
+  align-items: start;
+}
+.review-grid--single { grid-template-columns: minmax(0, 720px); }
+.panel {
+  min-height: 400px;
+  padding: 48px;
+  border-top: 8px solid ${tokens.color.accent};
+  background: rgba(255,255,255,.9);
+}
+.panel--drawback {
+  margin-top: 96px;
+  min-height: 304px;
+  border-top-color: ${tokens.color.pathLine};
+}
 .panel h3 { margin: 0 0 24px; font-size: 30px; }
 .panel li { margin: 0 0 16px; font-size: 25px; line-height: 1.45; }
 .quote {
@@ -90,5 +144,111 @@ h2 {
   margin-top: 24px;
   color: ${tokens.color.secondary};
   font-size: 24px;
+}
+.swipe {
+  position: absolute;
+  left: 80px;
+  bottom: 88px;
+  color: ${tokens.color.secondary};
+  font-size: 19px;
+  font-weight: 600;
+  letter-spacing: .16em;
+}
+
+.editorial-cover {
+  padding: 0 56px 56px;
+  background: #f7f4ec;
+}
+.editorial-cover::before,
+.editorial-cover::after { display: none; }
+.editorial-header {
+  height: 220px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.editorial-header__label {
+  color: #31483e;
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: .16em;
+}
+.editorial-header__logo {
+  width: 120px;
+  height: 120px;
+  object-fit: contain;
+}
+.editorial-visual {
+  position: relative;
+  width: 968px;
+  height: 900px;
+  overflow: hidden;
+  background: #d7d4cb;
+}
+.editorial-visual__image {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.editorial-visual::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(180deg, rgba(17, 30, 24, .05), rgba(17, 30, 24, .20)),
+    rgba(26, 39, 33, .04);
+}
+.editorial-story {
+  position: absolute;
+  z-index: 2;
+  left: 80px;
+  right: 80px;
+  top: 50%;
+  transform: translateY(-44%);
+  text-align: center;
+  color: #fff;
+}
+.editorial-story__kicker {
+  margin: 0 0 26px;
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: .13em;
+  text-shadow: 0 2px 18px rgba(10, 20, 15, .35);
+}
+.editorial-story h1 {
+  margin: 0;
+  max-width: none;
+  font-size: 76px;
+  line-height: 1.28;
+  letter-spacing: .02em;
+  text-shadow: 0 4px 24px rgba(10, 20, 15, .50);
+}
+.editorial-story__product {
+  margin-top: 28px;
+  font-size: 23px;
+  font-weight: 600;
+  letter-spacing: .06em;
+  text-shadow: 0 2px 16px rgba(10, 20, 15, .45);
+}
+.editorial-footer {
+  height: 174px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding-bottom: 16px;
+  color: #3d5147;
+}
+.editorial-footer__mark {
+  font-family: Montserrat, Arial, sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  letter-spacing: .18em;
+}
+.editorial-footer__concept {
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: .10em;
 }
 `;

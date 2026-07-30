@@ -1,14 +1,15 @@
 export const tokens = {
   canvas: { width: 1080, height: 1350 },
   color: {
-    background: "#F8F8F6",
+    background: "#F7F4EC",
     text: "#111111",
     secondary: "#666666",
-    accent: "#D8D2C6"
+    accent: "#C9BDA9",
+    path: "#DDE6DC",
+    pathLine: "#A7B8A7"
   },
   spacing: {
     safeX: 80,
     safeY: 96
   }
 } as const;
-

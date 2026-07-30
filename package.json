@@ -8,6 +8,7 @@
     "render:sample": "node --experimental-strip-types scripts/render-sample.ts",
     "render:all": "node --experimental-strip-types scripts/render-sample.ts",
     "render:png": "node --experimental-strip-types scripts/render-png.ts",
+    "render:concept": "node --experimental-strip-types scripts/render-editorial-concept.ts",
     "validate": "node --experimental-strip-types scripts/render-sample.ts"
   },
   "devDependencies": {

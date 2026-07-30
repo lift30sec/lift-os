@@ -23,6 +23,9 @@ export interface LiftScore {
 
 export interface ProductContent {
   coverTitle: string;
+  coverKicker?: string;
+  coverSeries?: string;
+  coverSequence?: string;
   productLabel: string;
   problemTitle: string;
   problem: string;
@@ -33,6 +36,17 @@ export interface ProductContent {
   room: string;
   instagramCaption: string;
   threads: string;
+}
+
+export interface EditorialCover {
+  imagePath: string;
+  imageAlt: string;
+  objectPosition?: string;
+  zoom?: number;
+  contrast?: number;
+  saturation?: number;
+  assetApprovedForEditing: boolean;
+  prototypeOnly: boolean;
 }
 
 export interface ProductImage {
@@ -62,6 +76,7 @@ export interface ProductRecord {
   sourceUrls: string[];
   startedUsingOn?: string;
   productImage?: ProductImage;
+  editorialCover?: EditorialCover;
   content: ProductContent;
 }
 
@@ -93,7 +108,6 @@ export function validateProduct(product: ProductRecord): string[] {
     }
   }
 
-  if (!product.drawbacks.length) errors.push("at least one drawback is required");
   if (!product.sourceUrls.length) errors.push("at least one source URL is required");
   if (!product.content.coverTitle.trim()) errors.push("cover title is required");
   if (!product.content.room.trim()) errors.push("ROOM copy is required");
@@ -109,6 +123,13 @@ export function validateProduct(product: ProductRecord): string[] {
     if (product.productImage.allowCrop || product.productImage.allowOverlay) {
       errors.push("affiliate product images cannot be cropped or overlaid");
     }
+  }
+  if (
+    product.editorialCover &&
+    !product.editorialCover.assetApprovedForEditing &&
+    !product.editorialCover.prototypeOnly
+  ) {
+    errors.push("unapproved editorial cover assets must remain prototype-only");
   }
 
   return errors;

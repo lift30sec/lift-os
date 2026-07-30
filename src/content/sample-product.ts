@@ -14,9 +14,7 @@ export const sampleProduct: ProductRecord = {
     "上部をラックとして使える"
   ],
   drawbacks: [
-    "滑り止めゴムがずれ、定期的に元の位置へ戻す必要がある",
-    "購入前にコンロの幅と高さを確認する必要がある",
-    "カバー本体は定期的に拭く必要がある"
+    "滑り止めゴムがずれ、定期的に元の位置へ戻す必要がある"
   ],
   insight: "排気口は、掃除する場所ではなく、汚れる前に守る場所だった。",
   score: { ease: 30, value: 20, quality: 19, usability: 14, shareability: 15 },
@@ -35,8 +33,21 @@ export const sampleProduct: ProductRecord = {
     allowCrop: false,
     allowOverlay: false
   },
+  editorialCover: {
+    imagePath: "../../assets/products/sakuraku-exhaust-cover/affiliate-usage.webp",
+    imageAlt: "SAKuRAKu 排気口カバーをコンロへ設置している様子",
+    objectPosition: "left top",
+    zoom: 1.508,
+    contrast: 1.18,
+    saturation: 0.88,
+    assetApprovedForEditing: false,
+    prototypeOnly: true
+  },
   content: {
-    coverTitle: "新築のときから\n使えばよかった。",
+    coverKicker: "もっと早く知りたかった、暮らしの道具",
+    coverSeries: "KITCHEN",
+    coverSequence: "01",
+    coverTitle: "新築のときに、\n知りたかった。",
     productLabel: "SAKuRAKu 排気口カバー",
     problemTitle: "掃除しにくい場所ほど、\n汚れる前に守る。",
     problem: "一度入り込んだ油や食材は、奥まできれいに掃除するのが難しい。新築から約3年たって、その厄介さに気づきました。",

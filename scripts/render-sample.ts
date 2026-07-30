@@ -30,6 +30,13 @@ for (const product of products) {
         score: scoreTotal(product.score),
         prDisclosureRequired: requiresPrDisclosure(product),
         imageSource: product.productImage,
+        editorialCover: product.editorialCover
+          ? {
+              prototypeOnly: product.editorialCover.prototypeOnly,
+              assetApprovedForEditing:
+                product.editorialCover.assetApprovedForEditing
+            }
+          : null,
         pages: pages.map((page) => page.filename)
       },
       null,

@@ -2,6 +2,22 @@
 
 Status: approved on 2026-07-30
 
+## Editorial cover v1.0
+
+Approved on 2026-07-31.
+
+- Canvas: 1080 × 1350 px
+- Horizontal outer margin: 56 px
+- Header: 220 px
+- Header logo: 120 × 120 px, vertically centered
+- Header label and logo share one vertical center line
+- Photo area: 968 × 900 px
+- Headline is placed directly over the photo; no text card
+- Footer: 174 px, with its labels aligned toward the bottom
+- Product photos may use crop, contrast adjustment, and an overlay only when
+  the asset license permits editing
+- Unconfirmed assets are marked `prototypeOnly` and must not be published
+
 ## キャンバス
 
 - Instagram縦型: 1080 × 1350 px
