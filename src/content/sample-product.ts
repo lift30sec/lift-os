@@ -6,6 +6,7 @@ export const sampleProduct: ProductRecord = {
   category: "キッチン",
   status: "adopted",
   experienceLevel: "owner",
+  acquisitionType: "normal_purchase",
   problem: "調理中の油や食材が排気口へ入り、掃除しにくい内部が汚れる。",
   strengths: [
     "排気口の内部を汚れる前に守れる",

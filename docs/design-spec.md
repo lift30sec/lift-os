@@ -1,4 +1,6 @@
-# Design Spec v0.2
+# Design Spec v1.0
+
+Status: approved on 2026-07-30
 
 ## キャンバス
 

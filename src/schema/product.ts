@@ -1,4 +1,10 @@
 export type ExperienceLevel = "owner" | "family" | "researched";
+export type AcquisitionType =
+  | "normal_purchase"
+  | "gifted"
+  | "special_coupon"
+  | "sponsored"
+  | "event";
 export type ProductStatus =
   | "candidate"
   | "testing"
@@ -45,6 +51,7 @@ export interface ProductRecord {
   category: string;
   status: ProductStatus;
   experienceLevel: ExperienceLevel;
+  acquisitionType: AcquisitionType;
   problem: string;
   strengths: string[];
   drawbacks: string[];
@@ -54,6 +61,10 @@ export interface ProductRecord {
   startedUsingOn?: string;
   productImage?: ProductImage;
   content: ProductContent;
+}
+
+export function requiresPrDisclosure(product: ProductRecord): boolean {
+  return product.acquisitionType !== "normal_purchase";
 }
 
 export function scoreTotal(score: LiftScore): number {

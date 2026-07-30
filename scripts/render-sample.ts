@@ -2,7 +2,11 @@ import { mkdir, writeFile } from "node:fs/promises";
 import { resolve } from "node:path";
 import { sampleProduct } from "../src/content/sample-product.ts";
 import { renderCarousel } from "../src/render/carousel.ts";
-import { scoreTotal, validateProduct } from "../src/schema/product.ts";
+import {
+  requiresPrDisclosure,
+  scoreTotal,
+  validateProduct
+} from "../src/schema/product.ts";
 
 const errors = validateProduct(sampleProduct);
 if (errors.length) {
@@ -22,6 +26,7 @@ await writeFile(
     {
       productId: sampleProduct.id,
       score: scoreTotal(sampleProduct.score),
+      prDisclosureRequired: requiresPrDisclosure(sampleProduct),
       pages: renderCarousel(sampleProduct).map((page) => page.filename)
     },
     null,
@@ -36,7 +41,8 @@ await writeFile(
     {
       rakutenRoom: sampleProduct.content.room,
       instagram: sampleProduct.content.instagramCaption,
-      threads: sampleProduct.content.threads
+      threads: sampleProduct.content.threads,
+      prDisclosureRequired: requiresPrDisclosure(sampleProduct)
     },
     null,
     2
