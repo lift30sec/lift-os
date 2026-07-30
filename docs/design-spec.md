@@ -31,6 +31,18 @@ Approved on 2026-07-31.
 - `lift-003`: Show the box-opening action. The message is not cutting
   performance; it is no longer having to search for an opening tool
 
+The three cover compositions were approved by the brand owner on 2026-07-31.
+Image publication remains blocked separately until each source asset is cleared.
+
+## Editorial carousel body v2 proposal
+
+- Pages 2 and 3 pair a compact text block with a supporting photo strip
+- Page 4 uses ruled benefit rows and keeps only experience-specific drawbacks
+- Page 5 returns to a full photographic field for the core insight
+- Page 6 combines the brand promise, ROOM direction, and a supporting photo strip
+- The label, logo, margins, page counter, and product label remain fixed across
+  all six pages
+
 ## キャンバス
 
 - Instagram縦型: 1080 × 1350 px
