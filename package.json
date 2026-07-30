@@ -9,6 +9,7 @@
     "render:all": "node --experimental-strip-types scripts/render-sample.ts",
     "render:png": "node --experimental-strip-types scripts/render-png.ts",
     "render:concept": "node --experimental-strip-types scripts/render-editorial-concept.ts",
+    "publish:check": "node --experimental-strip-types scripts/check-publication.ts",
     "validate": "node --experimental-strip-types scripts/render-sample.ts"
   },
   "devDependencies": {

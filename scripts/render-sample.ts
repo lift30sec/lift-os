@@ -27,6 +27,9 @@ for (const product of products) {
     JSON.stringify(
       {
         productId: product.id,
+        contentRevision: 1,
+        templateVersion: "editorial-carousel-v2",
+        templateApprovedOn: "2026-07-31",
         score: scoreTotal(product.score),
         prDisclosureRequired: requiresPrDisclosure(product),
         imageSource: product.productImage,
