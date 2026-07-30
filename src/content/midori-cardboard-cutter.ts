@@ -32,7 +32,20 @@ export const midoriCardboardCutter: ProductRecord = {
     allowCrop: false,
     allowOverlay: false
   },
+  editorialCover: {
+    imagePath: "../../assets/products/midori-cardboard-cutter/official-usage-prototype.jpg",
+    imageAlt: "MIDORI ダンボールカッターで箱を開封している様子",
+    objectPosition: "center center",
+    zoom: 1.18,
+    contrast: 1.1,
+    saturation: 0.88,
+    assetApprovedForEditing: false,
+    prototypeOnly: true
+  },
   content: {
+    coverKicker: "届いたその場で、すぐ開ける",
+    coverSeries: "HOME",
+    coverSequence: "03",
     coverTitle: "開封道具を、\n探さなくなった。",
     productLabel: "MIDORI ダンボールカッター",
     problemTitle: "荷物は玄関にあるのに、\n道具は別の場所。",

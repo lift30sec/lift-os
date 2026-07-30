@@ -17,6 +17,19 @@ Approved on 2026-07-31.
 - Product photos may use crop, contrast adjustment, and an overlay only when
   the asset license permits editing
 - Unconfirmed assets are marked `prototypeOnly` and must not be published
+- Preserve the source image aspect ratio for landscape and square assets
+- Set crop position and zoom per product; crop embedded promotional text out
+  where possible without hiding the product interaction
+
+### Initial three cover references
+
+- `lift-001`: Show one frozen-rice container in use. Do not imply that the
+  product can only be purchased as a six-piece set
+- `lift-002`: Show installation over the exhaust vent. For publication, prefer
+  a source photo with stronger separation between the white cover and its
+  background
+- `lift-003`: Show the box-opening action. The message is not cutting
+  performance; it is no longer having to search for an opening tool
 
 ## キャンバス
 

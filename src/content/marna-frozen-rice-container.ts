@@ -36,7 +36,20 @@ export const marnaFrozenRiceContainer: ProductRecord = {
     allowCrop: false,
     allowOverlay: false
   },
+  editorialCover: {
+    imagePath: "../../assets/products/marna-frozen-rice-container/official-lifestyle-prototype.jpg",
+    imageAlt: "マーナ 極 冷凍ごはん容器 小にごはんを入れた食卓",
+    objectPosition: "center center",
+    zoom: 1.12,
+    contrast: 1.05,
+    saturation: 0.9,
+    assetApprovedForEditing: false,
+    prototypeOnly: true
+  },
   content: {
+    coverKicker: "毎日の小さな手間を、ひとつ減らす",
+    coverSeries: "KITCHEN",
+    coverSequence: "02",
     coverTitle: "ラップで包むのを、\nやめました。",
     productLabel: "マーナ 極 冷凍ごはん容器 小",
     problemTitle: "包む、温める、捨てる。\n毎回の小さな手間。",

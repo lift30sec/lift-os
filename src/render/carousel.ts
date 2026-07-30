@@ -19,7 +19,11 @@ function renderCover(product: ProductRecord, title: string, label: string): stri
   const sequence = escapeHtml(product.content.coverSequence ?? "01");
   const kicker = escapeHtml(product.content.coverKicker ?? "");
   const objectPosition = escapeHtml(cover.objectPosition ?? "center");
-  const imageSize = Math.round(968 * (cover.zoom ?? 1));
+  const zoom = cover.zoom ?? 1;
+  const imageStyle =
+    cover.sizing === "square"
+      ? `width:${Math.round(968 * zoom)}px;height:${Math.round(968 * zoom)}px;object-position:${objectPosition}`
+      : `object-position:${objectPosition};transform:scale(${zoom})`;
   const contrast = cover.contrast ?? 1;
   const saturation = cover.saturation ?? 1;
 
@@ -33,7 +37,7 @@ function renderCover(product: ProductRecord, title: string, label: string): stri
         class="editorial-visual__image"
         src="${escapeHtml(cover.imagePath)}"
         alt="${escapeHtml(cover.imageAlt)}"
-        style="width:${imageSize}px;height:${imageSize}px;object-position:${objectPosition};filter:contrast(${contrast}) saturate(${saturation})"
+        style="${imageStyle};filter:contrast(${contrast}) saturate(${saturation})"
       >
       <div class="editorial-story">
         ${kicker ? `<p class="editorial-story__kicker">${kicker}</p>` : ""}

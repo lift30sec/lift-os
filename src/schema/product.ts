@@ -42,6 +42,7 @@ export interface EditorialCover {
   imagePath: string;
   imageAlt: string;
   objectPosition?: string;
+  sizing?: "cover" | "square";
   zoom?: number;
   contrast?: number;
   saturation?: number;

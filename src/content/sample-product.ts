@@ -37,6 +37,7 @@ export const sampleProduct: ProductRecord = {
     imagePath: "../../assets/products/sakuraku-exhaust-cover/affiliate-usage.webp",
     imageAlt: "SAKuRAKu 排気口カバーをコンロへ設置している様子",
     objectPosition: "left top",
+    sizing: "square",
     zoom: 1.508,
     contrast: 1.18,
     saturation: 0.88,

@@ -22,6 +22,9 @@
 - 取得サイズ: 400 × 400
 - 保存先: `assets/products/marna-frozen-rice-container/affiliate-main.webp`
 - 確認事項: オーナー購入品と画像・リンク用商品はいずれも小サイズ6個セット
+- 表紙試作画像: `assets/products/marna-frozen-rice-container/official-lifestyle-prototype.jpg`
+- 表紙試作画像の出典: https://marna.jp/img/contents/K810_M_TOP-1536x864.jpg
+- 権利状態: 公式サイト掲載画像だが、再利用・加工許諾は未確認。公開不可の試作素材として管理する
 
 ## MIDORI ダンボールカッター
 
@@ -37,3 +40,6 @@
 - 保存先: `assets/products/midori-cardboard-cutter/affiliate-main.webp`
 - 選択画像: 楽天アフィリエイト画面の白背景カット
 - 判断: 同じ色と型番の楽天24掲載商品へ画像とリンクをそろえた
+- 表紙試作画像: `assets/products/midori-cardboard-cutter/official-usage-prototype.jpg`
+- 表紙試作画像の出典: https://image1.shopserve.jp/midori-store.net/pic-labo/35409_5.jpg
+- 権利状態: 公式ストア掲載画像だが、再利用・加工許諾は未確認。公開不可の試作素材として管理する
