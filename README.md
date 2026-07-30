@@ -1,65 +1,49 @@
 # LIFT OS
 
-LIFT OS is the operating system for **LIFT — 毎日を30秒ラクにする。**
+LIFT OSは「毎日を30秒ラクにする。」を掲げるLIFTの運営基盤です。
 
-It turns honest product experience into reusable, channel-specific content while preserving a clear distinction between verified facts, owner experience, assumptions, and estimates.
+実際の使用体験、公式情報、推測、試算を分けて管理し、楽天ROOM・Instagram・Threads向けの文章と画像を同じ商品データから生成します。
 
-## Mission
+## 方針
 
-Help people make fewer disappointing purchases by introducing products that reduce small, recurring frustrations in everyday life.
+- 本当に良いと思える商品だけを紹介する
+- 商品の機能より、解決する困りごとを先に伝える
+- 良かった点と惜しい点を両方記録する
+- 未購入の商品を使用済みとして扱わない
+- 誇張より、予防できた手間と時間を具体的に示す
+- ブランド判断と公開は人が承認する
+- 調査、変換、描画、記録を自動化する
 
-## Principles
+## データとコード
 
-- Recommend only products the brand owner genuinely considers worthwhile.
-- Explain the problem solved before listing product features.
-- Record both strengths and drawbacks.
-- Never present an unpurchased product as personally tested.
-- Prefer prevention and time saved over exaggerated claims.
-- Keep human approval for brand judgment and publishing.
-- Automate repetitive transformation, rendering, and record keeping.
-
-## Sources of truth
-
-Notion is the product knowledge source of truth. This repository is the source of truth for specifications, content rules, rendering code, and automation.
-
-## Architecture
+Notionを商品知識の原本とし、このリポジトリで仕様、文章ルール、描画コード、自動化処理を管理します。
 
 ```text
-Notion / approved input
+Notion / 承認済み入力
         |
         v
-normalized product data
+商品データの正規化・検証
         |
         v
-content generation + validation
+媒体別コンテンツ生成
         |
         v
-HTML/CSS rendering (1080 x 1350)
+HTML/CSS描画（1080 × 1350）
         |
         v
-PNG assets + channel copy
+PNG画像・投稿文
         |
         +--> Instagram
         +--> Threads
-        +--> Rakuten ROOM
-        +--> note (future)
+        +--> 楽天ROOM
+        +--> note（将来）
 ```
 
-## Initial scope
+商品画像は個人撮影を前提にしません。楽天市場の商品は、楽天アフィリエイトのリンク作成画面で正式に提供される画像だけを使い、出典ページと対応するアフィリエイトリンクを記録します。通常の商品ページから画像を転載しません。
 
-Version 0.1 provides:
+## 開発
 
-- versioned brand, design, data, content, and automation specifications;
-- a TypeScript data model with runtime validation;
-- an HTML/CSS Instagram carousel renderer;
-- sample content for the first validated product;
-- deterministic local validation and rendering commands.
-
-Publishing remains approval-gated. Automated posting is not enabled until platform rules, available APIs, credentials, and account permissions are verified.
-
-## Development
-
-Requirements: Node.js 24 or newer.
+Node.js 24以降を使います。
 
 ```bash
 npm install
@@ -67,10 +51,4 @@ npm run check
 npm run render:sample
 ```
 
-Generated pages are written to `output/sample/` as HTML. PNG export is the next renderer milestone; HTML output is intentionally usable and testable before adding a browser dependency.
-
-For a dependency-free smoke test on Node.js 24:
-
-```bash
-npm run validate
-```
+生成結果は `output/sample/` へ保存されます。

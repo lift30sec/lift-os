@@ -43,6 +43,12 @@ Human approval is required for:
 
 No undocumented browser automation is part of v0.1.
 
+## 商品画像の取得
+
+楽天市場の商品は、商品URLを楽天アフィリエイトのリンク作成画面へ渡し、同画面で提供される画像から取得します。画像ファイルだけでなく、出典ページ、取得日、対応するアフィリエイトリンクを一組で保存します。
+
+通常の商品ページ、検索結果、SNS投稿から画像を転載しません。取得後の画像は切り抜きや文字重ねをせず、HTML/CSS側で独立した画像領域へ `contain` 表示します。
+
 ## Idempotency
 
 Generated work is keyed by:
@@ -56,4 +62,3 @@ Running the same approved input twice must not create duplicate publication reco
 ## Secrets
 
 Credentials belong in environment variables or a managed secret store. They must never be committed to Git.
-
