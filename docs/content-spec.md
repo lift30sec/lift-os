@@ -1,51 +1,66 @@
-# Content Spec v0.1
+# Content Spec v0.2
 
-## Shared rules
+## 共通ルール
 
-- Start with the lived problem or the strongest insight.
-- Prefer specific behavior change over generic praise.
-- Include drawbacks without euphemistic omission.
-- Do not claim “best”, “must buy”, savings, popularity, or performance without evidence.
-- Keep one message per carousel page.
+- 実体験と最も強い気付きを起点にする。
+- 一般的な褒め言葉より、生活の動作がどう変わったかを書く。
+- 惜しい点を隠さない。
+- 根拠のない「一番」「必須」「必ず得する」「人気」は使わない。
+- カルーセルは1ページ1メッセージに絞る。
+- 事実、本人の体験、推測、試算を混ぜない。
 
-## Rakuten ROOM
+## 楽天ROOM
 
-Purpose: support a purchase decision.
+目的は、購入判断を助けること。
 
-Structure:
+文章は次の順序を基本とする。
 
-1. honest conclusion;
-2. owner experience;
-3. benefit in daily life;
-4. relevant drawback when space permits.
+1. 正直な結論
+2. 本人の使用体験
+3. 生活で得られた変化
+4. 購入前に知るべき惜しい点
 
-No repeated slogan is required in every post; profile-level branding is sufficient.
+ブランドの合言葉を毎回繰り返す必要はない。プロフィールで伝える。
 
 ## Instagram
 
-Purpose: build recognition and save-worthy understanding.
+目的は、LIFTの認知と保存したくなる理解を作ること。
 
-Six pages:
+カルーセルは6ページで構成する。
 
-1. hook;
-2. problem;
-3. change;
-4. review;
-5. insight;
-6. CTA.
+1. フック
+2. 悩み
+3. 変化
+4. 正直なレビュー
+5. 気付き
+6. CTA
+
+楽天ROOMへ誘導する投稿のキャプションは、冒頭を次の文で固定する。
+
+`広告｜楽天アフィリエイトを利用しています`
 
 ## Threads
 
-Purpose: share one compact realization in a conversational voice.
+目的は、ひとつの気付きを会話に近い短文で伝えること。
 
-Target: 1–4 short paragraphs, usually one insight and one concrete example. Avoid turning every post into a sales link.
+楽天ROOMへ誘導する投稿は、本文の冒頭に次の文を置く。返信欄やツリーだけに表示しない。
 
-## Copy limits
+`広告｜楽天アフィリエイトを利用しています`
 
-- Cover headline: 2 lines, approximately 16 Japanese characters when practical.
-- Insight: 24 Japanese characters when practical.
-- Body page: maximum 120 Japanese characters.
-- CTA: one action only.
+すべての投稿を販売リンクへ直結させない。商品を扱わない日常の気付きには広告表示を付けない。
 
-These are quality guards, not blind truncation rules. Validation should flag overflow for editorial review.
+## 文字数の目安
 
+- 表紙見出し: 原則2行、目安16文字
+- Insight: 目安24文字
+- 本文ページ: 最大120文字
+- CTA: 1アクション
+
+機械的に切り捨てず、超過時は編集確認へ回す。
+
+## 広告表示の根拠
+
+消費者庁「ステルスマーケティングに関するQ&A」は、「広告」「宣伝」「プロモーション」「PR」や「このサイトはアフィリエイト広告を利用しています」など、広告であることが一般消費者に明瞭になる表示例を示している。表示の文字サイズ、色、位置も明瞭さに影響するため、LIFTでは外部SNS投稿の冒頭へ固定する。
+
+- https://www.caa.go.jp/policies/policy/representation/fair_labeling/faq/stealth_marketing/
+- https://www.caa.go.jp/policies/policy/representation/fair_labeling/stealth_marketing/
