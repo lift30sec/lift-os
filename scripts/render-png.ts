@@ -22,6 +22,13 @@ try {
   for (const filename of pages) {
     const htmlPath = resolve(sourceDir, filename);
     await page.goto(pathToFileURL(htmlPath).href, { waitUntil: "networkidle" });
+    await page.evaluate(async () => {
+      await document.fonts.ready;
+      await Promise.all([...document.images].map((image) => image.decode()));
+      await new Promise<void>((done) =>
+        requestAnimationFrame(() => requestAnimationFrame(() => done()))
+      );
+    });
     await page.screenshot({
       path: resolve(sourceDir, filename.replace(/\.html$/, ".png")),
       fullPage: false
@@ -32,3 +39,4 @@ try {
 }
 
 console.log(`Rendered ${pages.length} PNG files to ${sourceDir}`);
+
