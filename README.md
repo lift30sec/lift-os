@@ -49,6 +49,8 @@ Node.js 24以降を使います。
 npm install
 npm run check
 npm run render:sample
+npm run render:png
 ```
 
-生成結果は `output/sample/` へ保存されます。
+HTMLとPNGの生成結果は `output/sample/` へ保存されます。PNG変換は
+ローカルにインストールされたGoogle Chromeをヘッドレスで使用します。
