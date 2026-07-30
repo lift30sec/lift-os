@@ -6,6 +6,7 @@
   "scripts": {
     "check": "tsc --noEmit",
     "render:sample": "node --experimental-strip-types scripts/render-sample.ts",
+    "render:all": "node --experimental-strip-types scripts/render-sample.ts",
     "render:png": "node --experimental-strip-types scripts/render-png.ts",
     "validate": "node --experimental-strip-types scripts/render-sample.ts"
   },

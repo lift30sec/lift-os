@@ -60,4 +60,3 @@
 
 - https://www.caa.go.jp/policies/policy/representation/fair_labeling/faq/stealth_marketing/
 - https://www.caa.go.jp/policies/policy/representation/fair_labeling/stealth_marketing/
-

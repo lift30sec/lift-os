@@ -24,7 +24,9 @@ export interface LiftScore {
 export interface ProductContent {
   coverTitle: string;
   productLabel: string;
+  problemTitle: string;
   problem: string;
+  changeTitle: string;
   change: string;
   insight: string;
   cta: string;
@@ -111,4 +113,3 @@ export function validateProduct(product: ProductRecord): string[] {
 
   return errors;
 }
-

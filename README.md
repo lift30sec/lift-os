@@ -52,5 +52,5 @@ npm run render:sample
 npm run render:png
 ```
 
-HTMLとPNGの生成結果は `output/sample/` へ保存されます。PNG変換は
+HTMLとPNGの生成結果は `output/<商品ID>/` へ保存されます。PNG変換は
 ローカルにインストールされたGoogle Chromeをヘッドレスで使用します。
