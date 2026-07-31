@@ -50,6 +50,7 @@ export interface EditorialCover {
   contrast?: number;
   saturation?: number;
   coverBrightness?: number;
+  coverTone?: "default" | "morning";
   assetApprovedForEditing: boolean;
   prototypeOnly: boolean;
 }

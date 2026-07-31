@@ -40,9 +40,10 @@ The product-specific generated backgrounds and the final headline hierarchy
 were approved by the brand owner on 2026-07-31. These covers are the baseline
 for future LIFT product introductions.
 
-Per-product cover brightness may be adjusted independently from carousel body
-images. The SAKuRAKu cover uses a 1.16 brightness multiplier to shift the mood
-from regret toward calm morning light while retaining white-text contrast.
+Per-product cover brightness and tone may be adjusted independently from
+carousel body images. The SAKuRAKu cover uses a 1.30 brightness multiplier and
+the `morning` overlay, which weakens the dark veil and introduces a restrained
+warm-light wash from the window side.
 
 ## Editorial carousel body v2 proposal
 

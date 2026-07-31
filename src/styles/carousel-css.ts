@@ -633,6 +633,22 @@ h2 {
     linear-gradient(180deg, rgba(14, 22, 18, .16), rgba(14, 22, 18, .10) 36%, rgba(14, 22, 18, .28) 62%, rgba(14, 22, 18, .82) 100%),
     linear-gradient(90deg, rgba(14, 22, 18, .24), rgba(14, 22, 18, .04) 72%);
 }
+.compliant-context--morning .compliant-context__shade {
+  background:
+    linear-gradient(
+      180deg,
+      rgba(14, 22, 18, .03),
+      rgba(14, 22, 18, .01) 38%,
+      rgba(14, 22, 18, .12) 64%,
+      rgba(14, 22, 18, .66) 100%
+    ),
+    linear-gradient(
+      90deg,
+      rgba(255, 244, 218, .16),
+      rgba(255, 248, 232, .04) 48%,
+      rgba(14, 22, 18, .02) 82%
+    );
+}
 .compliant-context__copy {
   position: absolute;
   left: 112px;
@@ -646,13 +662,18 @@ h2 {
   font-size: 20px;
   font-weight: 700;
   letter-spacing: .14em;
+  text-shadow:
+    0 2px 12px rgba(0, 0, 0, .68),
+    0 0 3px rgba(0, 0, 0, .36);
 }
 .compliant-context__copy h1 {
   margin: 0;
   max-width: 760px;
   font-size: 70px;
   line-height: 1.3;
-  text-shadow: 0 4px 24px rgba(0, 0, 0, .36);
+  text-shadow:
+    0 4px 24px rgba(0, 0, 0, .46),
+    0 1px 4px rgba(0, 0, 0, .28);
 }
 .compliant-product {
   position: absolute;
