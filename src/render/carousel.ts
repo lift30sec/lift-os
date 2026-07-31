@@ -173,11 +173,8 @@ export function renderCarousel(product: ProductRecord): RenderedPage[] {
             <p>${change}</p>
           </section>
           <section class="editorial-product-visual">
-            <figure class="editorial-product-visual__context">
-              ${editorialImage(product, "editorial-product-visual__context-image", "supporting")}
-              <figcaption>選んだもの</figcaption>
-            </figure>
-            <figure class="editorial-product-visual__product">${affiliateProductImage(product, label)}</figure>
+            <div class="editorial-product-visual__label">選んだもの</div>
+            <figure>${affiliateProductImage(product, label)}</figure>
           </section>
           <footer class="editorial-page-footer"><span>03 / 06</span><span>${label}</span></footer>
         </main>`
@@ -186,12 +183,14 @@ export function renderCarousel(product: ProductRecord): RenderedPage[] {
       ? `<main class="page editorial-page">
           ${editorialHeader(product, "04")}
           <section class="editorial-review">
-            <div class="editorial-copy__eyebrow">正直レビュー</div>
-            <section class="editorial-strengths"><h2>使って分かった、<br>良かった点。</h2><ul>${strengths}</ul></section>
-            ${drawbackPanel}
             <figure class="editorial-review__context">
               ${editorialImage(product, "editorial-review__context-image", "supporting")}
             </figure>
+            <div class="editorial-review__copy">
+              <div class="editorial-copy__eyebrow">正直レビュー</div>
+              <section class="editorial-strengths"><h2>使って分かった、<br>良かった点。</h2><ul>${strengths}</ul></section>
+              ${drawbackPanel}
+            </div>
           </section>
           <footer class="editorial-page-footer"><span>04 / 06</span><span>${label}</span></footer>
         </main>`
