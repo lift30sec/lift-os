@@ -33,14 +33,17 @@ export const midoriCardboardCutter: ProductRecord = {
     allowOverlay: false
   },
   editorialCover: {
-    imagePath: "../../assets/products/midori-cardboard-cutter/official-usage-prototype.jpg",
+    imagePath: "../../assets/products/midori-cardboard-cutter/generated-entryway-context-v1.png",
     imageAlt: "MIDORI ダンボールカッターで箱を開封している様子",
+    contextImagePath: "../../assets/products/midori-cardboard-cutter/generated-entryway-context-v1.png",
+    contextImageAlt: "段ボールが届いた落ち着いた玄関",
+    separateAffiliateImage: true,
     objectPosition: "center center",
     zoom: 1.18,
     contrast: 1.1,
     saturation: 0.88,
-    assetApprovedForEditing: false,
-    prototypeOnly: true
+    assetApprovedForEditing: true,
+    prototypeOnly: false
   },
   content: {
     coverKicker: "届いたその場で、すぐ開ける",

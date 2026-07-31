@@ -21,14 +21,15 @@ export const marnaFrozenRiceContainer: ProductRecord = {
   insight: "ラップを使うのが当たり前だと思っていた。",
   score: { ease: 30, value: 18, quality: 20, usability: 14, shareability: 15 },
   sourceUrls: [
+    "https://item.rakuten.co.jp/shopmarna/k811/",
     "https://item.rakuten.co.jp/kaguzaku/mn-k748-4set/",
     "https://item.rakuten.co.jp/livingut/458443set2/?variantId=458443set2",
     "https://affiliate.rakuten.co.jp/link/pc/item?me_id=1222208&item_id=10205759"
   ],
   productImage: {
-    path: "../../assets/products/marna-frozen-rice-container/affiliate-main.webp",
-    sourcePageUrl: "https://affiliate.rakuten.co.jp/link/pc/item?me_id=1222208&item_id=10205759",
-    affiliateLinkUrl: "https://hb.afl.rakuten.co.jp/ichiba/562f4e7e.979b7a0d.562f4e7f.cc2dc3a5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flivingut%2F458443set2%2F&link_type=pict",
+    path: "../../assets/products/marna-frozen-rice-container/affiliate-single-option.jpg",
+    sourcePageUrl: "https://affiliate.rakuten.co.jp/link/pc/item?type=item&me_id=1251218&item_id=10006650",
+    affiliateLinkUrl: "https://hb.afl.rakuten.co.jp/ichiba/5626b742.1794bd8e.5626b74b.d3195991/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshopmarna%2Fk811%2F&link_type=pict",
     provider: "rakuten_affiliate",
     usage: "affiliate_asset",
     retrievedOn: "2026-07-30",
@@ -37,14 +38,17 @@ export const marnaFrozenRiceContainer: ProductRecord = {
     allowOverlay: false
   },
   editorialCover: {
-    imagePath: "../../assets/products/marna-frozen-rice-container/official-lifestyle-prototype.jpg",
+    imagePath: "../../assets/products/marna-frozen-rice-container/generated-dining-context-v1.png",
     imageAlt: "マーナ 極 冷凍ごはん容器 小にごはんを入れた食卓",
+    contextImagePath: "../../assets/products/marna-frozen-rice-container/generated-dining-context-v1.png",
+    contextImageAlt: "落ち着いた食卓と炊飯器のあるダイニング",
+    separateAffiliateImage: true,
     objectPosition: "center center",
     zoom: 1.12,
     contrast: 1.05,
     saturation: 0.9,
-    assetApprovedForEditing: false,
-    prototypeOnly: true
+    assetApprovedForEditing: true,
+    prototypeOnly: false
   },
   content: {
     coverKicker: "毎日の小さな手間を、ひとつ減らす",

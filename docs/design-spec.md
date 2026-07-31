@@ -32,7 +32,9 @@ Approved on 2026-07-31.
   performance; it is no longer having to search for an opening tool
 
 The three cover compositions were approved by the brand owner on 2026-07-31.
-Image publication remains blocked separately until each source asset is cleared.
+The publication covers use generated context backgrounds plus separate Rakuten
+affiliate-provided product images. The earlier manufacturer-site prototypes
+remain blocked and are not referenced by the renderer.
 
 ## Editorial carousel body v2 proposal
 
