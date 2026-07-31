@@ -570,8 +570,8 @@ h2 {
 }
 .compliant-product__copy > div {
   margin-bottom: 14px;
-  color: #52675c;
-  font-size: 17px;
+  color: #2f3a34;
+  font-size: 18px;
   font-weight: 700;
   letter-spacing: .12em;
 }
@@ -580,13 +580,14 @@ h2 {
   font-size: 30px;
   font-weight: 600;
   line-height: 1.45;
-  color: #1f3329;
+  color: #151b18;
   text-shadow: none;
 }
 .compliant-product__copy p {
   margin: 16px 0 0;
-  color: #40564a;
+  color: #29322d;
   font-size: 20px;
+  font-weight: 500;
 }
 .compliant-product figure {
   margin: 0;
