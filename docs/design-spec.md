@@ -45,6 +45,9 @@ carousel body images. The SAKuRAKu cover uses a 1.30 brightness multiplier and
 the `morning` overlay, which weakens the dark veil and introduces a restrained
 warm-light wash from the window side.
 
+The SAKuRAKu morning-light cover treatment was approved by the brand owner on
+2026-07-31.
+
 ## Editorial carousel body v2 proposal
 
 - Page 2 pairs the problem statement with a narrow crop of the generated
