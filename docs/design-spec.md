@@ -45,9 +45,13 @@ for future LIFT product introductions.
 - Page 2 pairs the problem statement with a narrow crop of the generated
   lifestyle context. The crop must show a meaningful object or place, not only
   an empty wall
-- Page 3 pairs the change statement with the complete, unmodified Rakuten
-  affiliate-provided product image in a separate white image region
-- Page 4 uses ruled benefit rows and keeps only experience-specific drawbacks
+- Page 3 pairs a cropped lifestyle context with the complete, unmodified
+  Rakuten affiliate-provided product image. The two images have separate
+  regions: context explains the situation; the affiliate image identifies the
+  actual product
+- Page 4 uses ruled benefit rows, keeps only experience-specific drawbacks,
+  and ends with a shallow lifestyle crop. This crop must add product context
+  without competing with the review text
 - Page 5 returns to a full photographic field for the core insight
 - Page 6 combines the brand promise, ROOM direction, and a bottom crop that
   shows the relevant living scene
