@@ -145,6 +145,7 @@ export function renderCarousel(product: ProductRecord): RenderedPage[] {
   const change = escapeHtml(product.content.change);
   const insight = escapeHtml(product.content.insight);
   const cta = escapeHtml(product.content.cta);
+  const roomSearchKeyword = escapeHtml(product.content.roomSearchKeyword);
   const strengths = product.strengths.map((item) => `<li>${escapeHtml(item)}</li>`).join("");
   const drawbacks = product.drawbacks.map((item) => `<li>${escapeHtml(item)}</li>`).join("");
   const drawbackPanel = product.drawbacks.length
@@ -217,7 +218,10 @@ export function renderCarousel(product: ProductRecord): RenderedPage[] {
             <div class="editorial-cta__copy">
               <div class="editorial-cta__brand">毎日を30秒<br>ラクにする。</div>
               <p>${cta}</p>
-              <div class="editorial-cta__link">商品はプロフィールの楽天ROOMから</div>
+              <div class="editorial-cta__search">
+                <span>プロフィールの楽天ROOMで</span>
+                <strong>「${roomSearchKeyword}」と検索</strong>
+              </div>
             </div>
             <figure class="editorial-cta__visual">
               ${editorialImage(product, "editorial-cta__image", "supporting")}
@@ -225,7 +229,7 @@ export function renderCarousel(product: ProductRecord): RenderedPage[] {
           </section>
           <footer class="editorial-page-footer"><span>06 / 06</span><span>LIFT / 30 SEC</span></footer>
         </main>`
-      : `<main class="page">${brandMark}<div class="eyebrow">LIFT</div><section class="cta-block"><div class="cta">毎日を30秒ラクにする。</div><p class="body">${cta}</p><div class="link-hint">プロフィールのリンクから</div></section></main>`
+      : `<main class="page">${brandMark}<div class="eyebrow">LIFT</div><section class="cta-block"><div class="cta">毎日を30秒ラクにする。</div><p class="body">${cta}</p><div class="link-hint">プロフィールの楽天ROOMで「${roomSearchKeyword}」と検索</div></section></main>`
   ];
 
   return pages.map((content, index) => ({

@@ -33,6 +33,7 @@ export interface ProductContent {
   change: string;
   insight: string;
   cta: string;
+  roomSearchKeyword: string;
   room: string;
   instagramCaption: string;
   threads: string;
@@ -116,6 +117,12 @@ export function validateProduct(product: ProductRecord): string[] {
 
   if (!product.sourceUrls.length) errors.push("at least one source URL is required");
   if (!product.content.coverTitle.trim()) errors.push("cover title is required");
+  if (!product.content.roomSearchKeyword.trim()) {
+    errors.push("ROOM search keyword is required");
+  }
+  if (product.content.roomSearchKeyword.length > 8) {
+    errors.push("ROOM search keyword must be 8 characters or fewer");
+  }
   if (!product.content.room.trim()) errors.push("ROOM copy is required");
   if (!product.content.instagramCaption.trim()) {
     errors.push("Instagram caption is required");

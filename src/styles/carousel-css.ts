@@ -519,14 +519,25 @@ h2 {
   font-size: 25px;
   line-height: 1.72;
 }
-.editorial-cta__link {
-  display: inline-block;
+.editorial-cta__search {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
   margin-top: 40px;
-  padding-bottom: 10px;
-  border-bottom: 2px solid #31483e;
   color: #31483e;
   font-size: 20px;
   font-weight: 700;
+}
+.editorial-cta__search span {
+  padding-bottom: 8px;
+  border-bottom: 2px solid #31483e;
+}
+.editorial-cta__search strong {
+  margin-top: 18px;
+  color: #17251f;
+  font-size: 38px;
+  line-height: 1.35;
+  letter-spacing: .04em;
 }
 .editorial-cta__visual {
   position: relative;
