@@ -66,6 +66,11 @@ Revised on 2026-07-31 from the owner's rough composition:
   cream information area
 - The lower section remains visually quiet so the cover reads as editorial
   content rather than a retail banner
+- The affiliate image box is fixed at 224 × 224 px and uses `object-fit:
+  contain`; source images keep their original aspect ratio
+- Text embedded in an affiliate-provided source image is not removed or
+  cropped. A cleaner source image is preferred when the affiliate tool offers
+  one
 
 ## キャンバス
 

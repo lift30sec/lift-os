@@ -468,7 +468,10 @@ h2 {
   width: 112px;
   height: 112px;
   object-fit: contain;
-  filter: invert(1);
+  filter:
+    invert(1)
+    drop-shadow(0 0 0.8px #fff)
+    drop-shadow(0 0 0.8px #fff);
 }
 .compliant-context {
   position: relative;
