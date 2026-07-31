@@ -557,16 +557,16 @@ h2 {
   content: "";
   position: absolute;
   z-index: -1;
-  inset: -38px -72px -28px;
+  inset: -18px -48px -10px;
   background:
     radial-gradient(
-      ellipse at 42% 54%,
-      rgba(247, 244, 236, .90) 0%,
-      rgba(247, 244, 236, .76) 38%,
-      rgba(247, 244, 236, .34) 68%,
+      ellipse at 38% 54%,
+      rgba(247, 244, 236, .66) 0%,
+      rgba(247, 244, 236, .48) 38%,
+      rgba(247, 244, 236, .18) 67%,
       rgba(247, 244, 236, 0) 100%
     );
-  filter: blur(18px);
+  filter: blur(14px);
 }
 .compliant-product__copy > div {
   margin-bottom: 14px;
@@ -577,8 +577,9 @@ h2 {
 }
 .compliant-product__copy h2 {
   margin: 0;
-  font-size: 34px;
-  line-height: 1.4;
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 1.45;
   color: #1f3329;
   text-shadow: none;
 }
