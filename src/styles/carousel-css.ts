@@ -465,18 +465,42 @@ h2 {
   text-shadow: 0 2px 14px rgba(0, 0, 0, .36);
 }
 .compliant-header__logo {
-  width: 112px;
-  height: 112px;
-  object-fit: contain;
-  filter:
-    invert(1)
-    drop-shadow(0 0 0.8px #fff)
-    drop-shadow(0 0 0.8px #fff);
+  width: 132px;
+  height: 132px;
+  border: 2px solid rgba(255, 255, 255, .96);
+  border-radius: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-family: Montserrat, Arial, sans-serif;
+  text-shadow: 0 2px 12px rgba(0, 0, 0, .32);
+}
+.compliant-logo__arrow {
+  margin: -4px 0 2px;
+  font-size: 27px;
+  font-weight: 400;
+  line-height: 1;
+}
+.compliant-logo__word {
+  margin-left: .22em;
+  font-size: 23px;
+  font-weight: 500;
+  line-height: 1.1;
+  letter-spacing: .22em;
+}
+.compliant-logo__time {
+  margin-top: 5px;
+  font-size: 11px;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: .04em;
 }
 .compliant-context {
   position: relative;
   width: 1080px;
-  height: 920px;
+  height: 1350px;
   overflow: hidden;
   background: #243029;
 }
@@ -486,13 +510,13 @@ h2 {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  object-position: center 62%;
+  object-position: center 58%;
 }
 .compliant-context__shade {
   position: absolute;
   inset: 0;
   background:
-    linear-gradient(180deg, rgba(14, 22, 18, .16), rgba(14, 22, 18, .12) 42%, rgba(14, 22, 18, .42)),
+    linear-gradient(180deg, rgba(14, 22, 18, .16), rgba(14, 22, 18, .10) 36%, rgba(14, 22, 18, .28) 62%, rgba(14, 22, 18, .82) 100%),
     linear-gradient(90deg, rgba(14, 22, 18, .24), rgba(14, 22, 18, .04) 72%);
 }
 .compliant-context__copy {
@@ -517,17 +541,21 @@ h2 {
   text-shadow: 0 4px 24px rgba(0, 0, 0, .36);
 }
 .compliant-product {
-  width: 1080px;
-  height: 430px;
+  position: absolute;
+  z-index: 3;
+  left: 72px;
+  right: 72px;
+  bottom: 102px;
+  height: 286px;
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 224px;
-  gap: 48px;
+  grid-template-columns: minmax(0, 1fr) 236px;
+  gap: 56px;
   align-items: center;
-  padding: 32px 72px 86px;
+  padding: 0;
 }
 .compliant-product__copy > div {
   margin-bottom: 14px;
-  color: #607267;
+  color: rgba(255, 255, 255, .82);
   font-size: 17px;
   font-weight: 700;
   letter-spacing: .12em;
@@ -536,34 +564,37 @@ h2 {
   margin: 0;
   font-size: 36px;
   line-height: 1.4;
+  color: #fff;
+  text-shadow: 0 2px 14px rgba(0, 0, 0, .35);
 }
 .compliant-product__copy p {
   margin: 16px 0 0;
-  color: #4c5e54;
+  color: rgba(255, 255, 255, .88);
   font-size: 20px;
 }
 .compliant-product figure {
   margin: 0;
-  width: 224px;
-  height: 224px;
+  width: 236px;
+  height: 236px;
   background: #fff;
+  box-shadow: 0 14px 36px rgba(0, 0, 0, .24);
 }
 .compliant-product__image {
   display: block;
-  width: 224px;
-  height: 224px;
+  width: 236px;
+  height: 236px;
   object-fit: contain;
 }
 .compliant-footer {
   position: absolute;
   left: 64px;
   right: 64px;
-  bottom: 34px;
+  bottom: 28px;
   height: 28px;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  color: #31483e;
+  color: rgba(255, 255, 255, .92);
   font-size: 17px;
   font-weight: 700;
   letter-spacing: .1em;

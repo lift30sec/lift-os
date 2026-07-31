@@ -61,7 +61,11 @@ function renderCompliantCover(
       <div class="compliant-context__shade"></div>
       <header class="compliant-header">
         <div class="compliant-header__label">LIFT / ${series} ${sequence}</div>
-        <img class="compliant-header__logo" src="../../assets/brand/lift-logo-transparent.png" alt="LIFT 30 sec">
+        <div class="compliant-header__logo" role="img" aria-label="LIFT 30 sec">
+          <span class="compliant-logo__arrow">↑</span>
+          <span class="compliant-logo__word">LIFT</span>
+          <span class="compliant-logo__time">30 sec</span>
+        </div>
       </header>
       <div class="compliant-context__copy">
         ${kicker ? `<p>${kicker}</p>` : ""}

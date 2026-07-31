@@ -66,6 +66,18 @@ Revised on 2026-07-31 from the owner's rough composition:
   cream information area
 - The lower section remains visually quiet so the cover reads as editorial
   content rather than a retail banner
+
+### Full-canvas context variant
+
+Proposed on 2026-07-31 from the owner's second rough composition:
+
+- Generated context photography fills the complete 1080 × 1350 canvas
+- Product identification and the untouched affiliate image float over a
+  controlled bottom gradient rather than a separate cream section
+- The LIFT mark is rendered in HTML/CSS at 132 × 132 px instead of enlarging
+  the raster logo. This keeps `LIFT` and `30 sec` sharp in PNG output
+- Header, headline, product block, and footer use one continuous photographic
+  field
 - The affiliate image box is fixed at 224 × 224 px and uses `object-fit:
   contain`; source images keep their original aspect ratio
 - Text embedded in an affiliate-provided source image is not removed or
