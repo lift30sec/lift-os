@@ -38,6 +38,13 @@ function editorialHeader(product: ProductRecord, pageNumber: string): string {
   </header>`;
 }
 
+function affiliateProductImage(product: ProductRecord, alt: string): string {
+  if (!product.productImage) return "";
+  return `<img class="editorial-product-visual__image" src="${escapeHtml(
+    product.productImage.path
+  )}" alt="${alt}">`;
+}
+
 function renderCompliantCover(
   product: ProductRecord,
   title: string,
@@ -142,14 +149,18 @@ export function renderCarousel(product: ProductRecord): RenderedPage[] {
   const pages = [
     renderCover(product, title, label),
     editorialPages
-      ? `<main class="page editorial-page">
+      ? `<main class="page editorial-page editorial-problem">
           ${editorialHeader(product, "02")}
-          <section class="editorial-copy">
-            <div class="editorial-copy__eyebrow">困りごと</div>
-            <h2>${problemTitle}</h2>
-            <p>${problem}</p>
+          <section class="editorial-problem__body">
+            <section class="editorial-copy">
+              <div class="editorial-copy__eyebrow">困りごと</div>
+              <h2>${problemTitle}</h2>
+              <p>${problem}</p>
+            </section>
+            <figure class="editorial-problem__photo">
+              ${editorialImage(product, "editorial-problem__image", "supporting")}
+            </figure>
           </section>
-          <figure class="editorial-strip">${editorialImage(product, "editorial-strip__image", "supporting")}</figure>
           <footer class="editorial-page-footer"><span>02 / 06</span><span>${label}</span></footer>
         </main>`
       : `<main class="page">${brandMark}<div class="eyebrow">困りごと</div><section class="text-block"><h2>${problemTitle}</h2><p class="body">${problem}</p></section></main>`,
@@ -161,7 +172,10 @@ export function renderCarousel(product: ProductRecord): RenderedPage[] {
             <h2>${changeTitle}</h2>
             <p>${change}</p>
           </section>
-          <figure class="editorial-strip editorial-strip--change">${editorialImage(product, "editorial-strip__image", "supporting")}</figure>
+          <section class="editorial-product-visual">
+            <div class="editorial-product-visual__label">選んだもの</div>
+            <figure>${affiliateProductImage(product, label)}</figure>
+          </section>
           <footer class="editorial-page-footer"><span>03 / 06</span><span>${label}</span></footer>
         </main>`
       : `<main class="page">${brandMark}<div class="eyebrow">変わったこと</div><section class="text-block"><h2>${changeTitle}</h2><p class="body">${change}</p></section></main>`,

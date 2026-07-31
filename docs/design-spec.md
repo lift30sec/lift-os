@@ -42,10 +42,15 @@ for future LIFT product introductions.
 
 ## Editorial carousel body v2 proposal
 
-- Pages 2 and 3 pair a compact text block with a supporting photo strip
+- Page 2 pairs the problem statement with a narrow crop of the generated
+  lifestyle context. The crop must show a meaningful object or place, not only
+  an empty wall
+- Page 3 pairs the change statement with the complete, unmodified Rakuten
+  affiliate-provided product image in a separate white image region
 - Page 4 uses ruled benefit rows and keeps only experience-specific drawbacks
 - Page 5 returns to a full photographic field for the core insight
-- Page 6 combines the brand promise, ROOM direction, and a supporting photo strip
+- Page 6 combines the brand promise, ROOM direction, and a bottom crop that
+  shows the relevant living scene
 - The label, logo, margins, page counter, and product label remain fixed across
   all six pages
 
