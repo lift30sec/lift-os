@@ -55,6 +55,18 @@ The publication-safe cover separates three roles:
 The first implementation is `lift-002`. Its generated kitchen background does
 not depict or imitate the SAKuRAKu product.
 
+### Full-bleed context variant
+
+Revised on 2026-07-31 from the owner's rough composition:
+
+- Context image occupies the top 920 px of the 1080 × 1350 canvas
+- Category label and white LIFT mark sit inside the photograph
+- Headline uses the photograph's darker negative space
+- Product identification and the untouched affiliate image sit in a separate
+  cream information area
+- The lower section remains visually quiet so the cover reads as editorial
+  content rather than a retail banner
+
 ## キャンバス
 
 - Instagram縦型: 1080 × 1350 px

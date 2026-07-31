@@ -440,20 +440,40 @@ h2 {
 }
 
 .compliant-cover {
-  padding: 0 56px 32px;
+  display: block;
+  padding: 0;
   background: #f7f4ec;
 }
 .compliant-cover::before,
 .compliant-cover::after { display: none; }
 .compliant-header {
-  flex: 0 0 180px;
+  position: absolute;
+  z-index: 3;
+  top: 38px;
+  left: 64px;
+  right: 64px;
+  height: 120px;
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
+.compliant-header__label {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: .16em;
+  text-shadow: 0 2px 14px rgba(0, 0, 0, .36);
+}
+.compliant-header__logo {
+  width: 112px;
+  height: 112px;
+  object-fit: contain;
+  filter: invert(1);
+}
 .compliant-context {
   position: relative;
-  flex: 0 0 700px;
+  width: 1080px;
+  height: 920px;
   overflow: hidden;
   background: #243029;
 }
@@ -463,19 +483,21 @@ h2 {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  object-position: center 58%;
+  object-position: center 62%;
 }
 .compliant-context__shade {
   position: absolute;
   inset: 0;
-  background: linear-gradient(90deg, rgba(19, 28, 24, .22), rgba(19, 28, 24, .05));
+  background:
+    linear-gradient(180deg, rgba(14, 22, 18, .16), rgba(14, 22, 18, .12) 42%, rgba(14, 22, 18, .42)),
+    linear-gradient(90deg, rgba(14, 22, 18, .24), rgba(14, 22, 18, .04) 72%);
 }
 .compliant-context__copy {
   position: absolute;
-  left: 72px;
-  right: 72px;
-  top: 50%;
-  transform: translateY(-48%);
+  left: 112px;
+  right: 112px;
+  top: 410px;
+  transform: none;
   color: #fff;
 }
 .compliant-context__copy p {
@@ -486,18 +508,19 @@ h2 {
 }
 .compliant-context__copy h1 {
   margin: 0;
-  max-width: 790px;
-  font-size: 72px;
+  max-width: 760px;
+  font-size: 70px;
   line-height: 1.3;
   text-shadow: 0 4px 24px rgba(0, 0, 0, .36);
 }
 .compliant-product {
-  flex: 0 0 324px;
+  width: 1080px;
+  height: 430px;
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 248px;
-  gap: 32px;
+  grid-template-columns: minmax(0, 1fr) 224px;
+  gap: 48px;
   align-items: center;
-  padding: 24px 0 20px 24px;
+  padding: 32px 72px 86px;
 }
 .compliant-product__copy > div {
   margin-bottom: 14px;
@@ -508,7 +531,7 @@ h2 {
 }
 .compliant-product__copy h2 {
   margin: 0;
-  font-size: 34px;
+  font-size: 36px;
   line-height: 1.4;
 }
 .compliant-product__copy p {
@@ -518,20 +541,24 @@ h2 {
 }
 .compliant-product figure {
   margin: 0;
-  width: 248px;
-  height: 248px;
+  width: 224px;
+  height: 224px;
   background: #fff;
 }
 .compliant-product__image {
   display: block;
-  width: 248px;
-  height: 248px;
+  width: 224px;
+  height: 224px;
   object-fit: contain;
 }
 .compliant-footer {
-  flex: 1 1 auto;
+  position: absolute;
+  left: 64px;
+  right: 64px;
+  bottom: 34px;
+  height: 28px;
   display: flex;
-  align-items: flex-end;
+  align-items: center;
   justify-content: space-between;
   color: #31483e;
   font-size: 17px;

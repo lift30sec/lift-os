@@ -56,13 +56,13 @@ function renderCompliantCover(
   const sequence = escapeHtml(product.content.coverSequence ?? "01");
 
   return `<main class="page compliant-cover">
-    <header class="compliant-header">
-      <div class="editorial-header__label">LIFT / ${series} ${sequence}</div>
-      <img class="editorial-header__logo" src="../../assets/brand/lift-logo-transparent.png" alt="LIFT 30 sec">
-    </header>
     <section class="compliant-context">
       <img class="compliant-context__image" src="${contextPath}" alt="${contextAlt}">
       <div class="compliant-context__shade"></div>
+      <header class="compliant-header">
+        <div class="compliant-header__label">LIFT / ${series} ${sequence}</div>
+        <img class="compliant-header__logo" src="../../assets/brand/lift-logo-transparent.png" alt="LIFT 30 sec">
+      </header>
       <div class="compliant-context__copy">
         ${kicker ? `<p>${kicker}</p>` : ""}
         <h1>${title}</h1>
