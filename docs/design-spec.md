@@ -36,6 +36,10 @@ The publication covers use generated context backgrounds plus separate Rakuten
 affiliate-provided product images. The earlier manufacturer-site prototypes
 remain blocked and are not referenced by the renderer.
 
+The product-specific generated backgrounds and the final headline hierarchy
+were approved by the brand owner on 2026-07-31. These covers are the baseline
+for future LIFT product introductions.
+
 ## Editorial carousel body v2 proposal
 
 - Pages 2 and 3 pair a compact text block with a supporting photo strip
