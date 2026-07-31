@@ -51,8 +51,9 @@ for future LIFT product introductions.
   left, while ruled benefit rows and experience-specific drawbacks sit on the
   right. Reversing the image side distinguishes review from problem framing
 - Page 5 returns to a full photographic field for the core insight
-- Page 6 combines the brand promise, ROOM direction, and a bottom crop that
-  shows the relevant living scene
+- Page 6 closes with the brand promise and ROOM direction on the left and a
+  tall lifestyle crop on the right. This restores the alternating visual rhythm
+  of Pages 2, 4, and 6 without repeating their message roles
 - The label, logo, margins, page counter, and product label remain fixed across
   all six pages
 

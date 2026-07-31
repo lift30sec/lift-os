@@ -209,11 +209,15 @@ export function renderCarousel(product: ProductRecord): RenderedPage[] {
       ? `<main class="page editorial-page editorial-cta">
           ${editorialHeader(product, "06")}
           <section class="editorial-cta__body">
-            <div class="editorial-cta__brand">毎日を30秒<br>ラクにする。</div>
-            <p>${cta}</p>
-            <div class="editorial-cta__link">商品はプロフィールの楽天ROOMから</div>
+            <div class="editorial-cta__copy">
+              <div class="editorial-cta__brand">毎日を30秒<br>ラクにする。</div>
+              <p>${cta}</p>
+              <div class="editorial-cta__link">商品はプロフィールの楽天ROOMから</div>
+            </div>
+            <figure class="editorial-cta__visual">
+              ${editorialImage(product, "editorial-cta__image", "supporting")}
+            </figure>
           </section>
-          <figure class="editorial-cta__strip">${editorialImage(product, "editorial-strip__image", "supporting")}</figure>
           <footer class="editorial-page-footer"><span>06 / 06</span><span>LIFT / 30 SEC</span></footer>
         </main>`
       : `<main class="page">${brandMark}<div class="eyebrow">LIFT</div><section class="cta-block"><div class="cta">毎日を30秒ラクにする。</div><p class="body">${cta}</p><div class="link-hint">プロフィールのリンクから</div></section></main>`
