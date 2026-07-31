@@ -49,6 +49,7 @@ export interface EditorialCover {
   zoom?: number;
   contrast?: number;
   saturation?: number;
+  coverBrightness?: number;
   assetApprovedForEditing: boolean;
   prototypeOnly: boolean;
 }

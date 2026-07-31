@@ -53,6 +53,7 @@ function renderCompliantCover(
   const cover = product.editorialCover!;
   const contextPath = escapeHtml(cover.contextImagePath!);
   const contextAlt = escapeHtml(cover.contextImageAlt ?? "");
+  const coverBrightness = cover.coverBrightness ?? 1;
   const affiliateImage = product.productImage
     ? `<img class="compliant-product__image" src="${escapeHtml(
         product.productImage.path
@@ -64,7 +65,7 @@ function renderCompliantCover(
 
   return `<main class="page compliant-cover">
     <section class="compliant-context">
-      <img class="compliant-context__image" src="${contextPath}" alt="${contextAlt}">
+      <img class="compliant-context__image" src="${contextPath}" alt="${contextAlt}" style="filter:brightness(${coverBrightness})">
       <div class="compliant-context__shade"></div>
       <header class="compliant-header">
         <div class="compliant-header__label">LIFT / ${series} ${sequence}</div>

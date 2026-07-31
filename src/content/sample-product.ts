@@ -44,6 +44,7 @@ export const sampleProduct: ProductRecord = {
     zoom: 1.508,
     contrast: 1.18,
     saturation: 0.88,
+    coverBrightness: 1.16,
     assetApprovedForEditing: true,
     prototypeOnly: false
   },
