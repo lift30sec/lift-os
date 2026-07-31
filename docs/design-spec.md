@@ -78,11 +78,19 @@ Proposed on 2026-07-31 from the owner's second rough composition:
   the raster logo. This keeps `LIFT` and `30 sec` sharp in PNG output
 - Header, headline, product block, and footer use one continuous photographic
   field
+- The emotional headline is the only large white text. Product identification
+  uses dark green text over a soft, borderless ivory light field so it remains
+  secondary
+- The light field must dissolve into the context photograph. Do not use a
+  rectangular or rounded product-information card
 - The affiliate image box is fixed at 224 × 224 px and uses `object-fit:
   contain`; source images keep their original aspect ratio
 - Text embedded in an affiliate-provided source image is not removed or
   cropped. A cleaner source image is preferred when the affiliate tool offers
   one
+- Products share the composition system, not the same context photograph.
+  Marna uses a meal-preparation context, SAKuRAKu uses a kitchen context, and
+  MIDORI uses an entryway or parcel-receiving context
 
 ## キャンバス
 
