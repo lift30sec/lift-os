@@ -42,6 +42,8 @@ export const midoriCardboardCutter: ProductRecord = {
     zoom: 1.18,
     contrast: 1.1,
     saturation: 0.88,
+    coverBrightness: 1.12,
+    coverTone: "morning",
     assetApprovedForEditing: true,
     prototypeOnly: false
   },

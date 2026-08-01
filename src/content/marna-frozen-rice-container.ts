@@ -47,6 +47,8 @@ export const marnaFrozenRiceContainer: ProductRecord = {
     zoom: 1.12,
     contrast: 1.05,
     saturation: 0.9,
+    coverBrightness: 1.2,
+    coverTone: "morning",
     assetApprovedForEditing: true,
     prototypeOnly: false
   },
