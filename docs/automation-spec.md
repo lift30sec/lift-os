@@ -1,5 +1,20 @@
 # Automation Spec v0.3
 
+## Candidate confirmation gate
+
+Daily discovery produces no more than three candidates. Before product data,
+images, or public posts are created, the system presents all candidates together
+and asks whether the owner or family has actually used each product.
+
+- Used by owner or family: classify as a `LIFT Classic` candidate and collect
+  the exact product plus first-hand experience.
+- Not used but approved after research: classify as `LIFT Select` and apply the
+  required research disclosure.
+- Rejected or uncertain: record the reason and do not publish.
+
+Pending candidates must not be presented as new candidates again on the next
+daily run. Publication always waits for this classification.
+
 ## 処理フロー
 
 ```text
