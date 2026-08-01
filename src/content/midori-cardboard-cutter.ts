@@ -6,6 +6,7 @@ export const midoriCardboardCutter: ProductRecord = {
   category: "収納・整理",
   status: "adopted",
   experienceLevel: "owner",
+  editorialTrack: "classic",
   acquisitionType: "normal_purchase",
   problem: "荷物が届くたびに、開封用のハサミやカッターを探しに行く。",
   strengths: [

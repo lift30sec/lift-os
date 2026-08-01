@@ -1,4 +1,5 @@
 export type ExperienceLevel = "owner" | "family" | "researched";
+export type EditorialTrack = "classic" | "select";
 export type AcquisitionType =
   | "normal_purchase"
   | "gifted"
@@ -37,6 +38,7 @@ export interface ProductContent {
   room: string;
   instagramCaption: string;
   threads: string;
+  researchDisclosure?: string;
 }
 
 export interface EditorialCover {
@@ -74,6 +76,7 @@ export interface ProductRecord {
   category: string;
   status: ProductStatus;
   experienceLevel: ExperienceLevel;
+  editorialTrack: EditorialTrack;
   acquisitionType: AcquisitionType;
   problem: string;
   strengths: string[];
@@ -129,6 +132,23 @@ export function validateProduct(product: ProductRecord): string[] {
   }
   if (!product.content.threads.trim()) errors.push("Threads copy is required");
   if (!product.insight.trim()) errors.push("insight is required");
+  if (product.editorialTrack === "classic" && product.experienceLevel === "researched") {
+    errors.push("researched products cannot use the classic editorial track");
+  }
+  if (product.editorialTrack === "select") {
+    if (product.experienceLevel !== "researched") {
+      errors.push("select products must use the researched experience level");
+    }
+    if (!product.content.researchDisclosure?.trim()) {
+      errors.push("select products require a research disclosure");
+    }
+    if (!product.content.instagramCaption.includes(product.content.researchDisclosure ?? "")) {
+      errors.push("Instagram copy must include the research disclosure");
+    }
+    if (!product.content.threads.includes(product.content.researchDisclosure ?? "")) {
+      errors.push("Threads copy must include the research disclosure");
+    }
+  }
   if (product.productImage) {
     if (!product.productImage.affiliateLinkUrl.trim()) {
       errors.push("product image requires its affiliate link");

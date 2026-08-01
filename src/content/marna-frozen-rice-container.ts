@@ -6,6 +6,7 @@ export const marnaFrozenRiceContainer: ProductRecord = {
   category: "キッチン",
   status: "adopted",
   experienceLevel: "owner",
+  editorialTrack: "classic",
   acquisitionType: "normal_purchase",
   problem: "冷凍ごはんをラップで包む、温める、ラップを捨てる小さな手間が続く。",
   strengths: [

@@ -21,6 +21,13 @@
 
 ## 購入・提供区分
 
+`editorialTrack` は次の2種類です。
+
+- `classic`: `experienceLevel` が `owner` または `family` の商品
+- `select`: `experienceLevel` が `researched` の商品
+
+`select` には `content.researchDisclosure` を必須とし、InstagramとThreadsの本文へ同じ開示文を含めます。初期値は「公式情報とレビューを調査して選定しました。」です。
+
 `acquisitionType` は次のいずれかを必須とします。
 
 - `normal_purchase`: 通常購入
