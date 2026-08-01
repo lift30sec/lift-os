@@ -11,7 +11,7 @@ Published content is recorded here after the destination confirms that the post 
 - Account: `lift.30sec`
 - Product: SAKuRAKu 排気口カバー
 - Format: six-image carousel
-- Post: https://www.instagram.com/lift.30sec/p/DbcwLixDzPK/
+- Post: https://www.instagram.com/lift.30sec/p/DbdMu3nj3ET/
 - Source package: `output/publish/lift-002`
 - Disclosure: none
 - Disclosure reason: the product was purchased normally by the account owner
