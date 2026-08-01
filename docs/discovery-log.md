@@ -2,12 +2,12 @@
 
 ## 2026-08-02 test run
 
-### Candidate: スターフィルター レンジフードフィルター スターターセット
+### Candidate: スターフィルター レンジフードフィルター スターターセット 枠2枚用
 
 - Track: `LIFT Classic candidate`
-- Decision: held for exact-product and experience confirmation
+- Decision: approved for Classic production
 - Provisional LIFT Score: 89 / 100
-- Rakuten product: https://item.rakuten.co.jp/starfilter/sfsetm03/
+- Rakuten product: https://item.rakuten.co.jp/starfilter/sfset2/?variantId=2445
 - Official site: https://www.starfilter.co.jp/
 - Ranking source: https://ranking.rakuten.co.jp/keyword/convenience_goods/
 - Review source: https://review.rakuten.co.jp/review/review/review/rd/0_308420_308420_0/
@@ -27,6 +27,7 @@
 
 #### Owner experience
 
+- 楽天購入履歴で同一商品を2025年2月に購入したことを確認した。注文番号などの個人情報は保存しない。
 - フィルターより先の換気扇内部には、油が全く侵入していないように見える。
 - 購入時にサイズを確認し、適合で失敗しなかった。
 - 実使用で分かった明確な欠点は、現時点では挙がっていない。
@@ -40,6 +41,5 @@
 
 #### Publication blocker
 
-- ユーザーからスターフィルターを使用中との回答があった。調査品ではなく、実使用品として扱う。
-- 候補にしたスターターセットと実際に使用している商品・サイズが一致するか確認が必要。
-- 候補にしたスターターセットと実際に使用している商品・サイズが一致するか確認するまで、カルーセル生成・楽天ROOM登録・SNS公開へ進めない。
+- ユーザーの提示URLと楽天購入履歴から、実際の商品が `sfset2` の枠2枚用と一致した。
+- 商品画像の利用条件と、対応する楽天アフィリエイトリンクを確認してから公開へ進む。

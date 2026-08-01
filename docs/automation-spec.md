@@ -15,6 +15,13 @@ and asks whether the owner or family has actually used each product.
 Pending candidates must not be presented as new candidates again on the next
 daily run. Publication always waits for this classification.
 
+For each candidate, search the signed-in Rakuten purchase history by product or
+brand name. Use Amazon purchase history only as a secondary lookup when needed.
+Do not copy the complete purchase history. Retain only the product name, product
+URL, and purchase month. Never retain names, addresses, order numbers, payment
+details, or other account data. A matched purchase supports provenance but does
+not prove that the product was used; first-hand use still requires confirmation.
+
 ## 処理フロー
 
 ```text

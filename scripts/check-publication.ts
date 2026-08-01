@@ -25,6 +25,9 @@ const checks: PublicationCheck[] = products.map((product) => {
       blockers.push("editorial cover asset is not cleared for editing and publication");
     }
   }
+  if (!product.productImage) {
+    blockers.push("approved affiliate product image and matching link are required");
+  }
 
   return {
     productId: product.id,
