@@ -30,10 +30,11 @@ function editorialImage(
   )}" style="${imageStyle};filter:contrast(${contrast}) saturate(${saturation})">`;
 }
 
-function editorialHeader(product: ProductRecord, pageNumber: string): string {
+function editorialHeader(product: ProductRecord): string {
   const series = escapeHtml(product.content.coverSeries ?? product.category);
+  const sequence = escapeHtml(product.content.coverSequence ?? "01");
   return `<header class="editorial-subheader">
-    <div class="editorial-header__label">LIFT / ${series} ${pageNumber}</div>
+    <div class="editorial-header__label">LIFT / ${series} ${sequence}</div>
     <img class="editorial-header__logo" src="../../assets/brand/lift-logo-transparent.png" alt="LIFT 30 sec">
   </header>`;
 }
@@ -156,7 +157,7 @@ export function renderCarousel(product: ProductRecord): RenderedPage[] {
     renderCover(product, title, label),
     editorialPages
       ? `<main class="page editorial-page editorial-problem">
-          ${editorialHeader(product, "02")}
+          ${editorialHeader(product)}
           <section class="editorial-problem__body">
             <section class="editorial-copy">
               <div class="editorial-copy__eyebrow">困りごと</div>
@@ -172,7 +173,7 @@ export function renderCarousel(product: ProductRecord): RenderedPage[] {
       : `<main class="page">${brandMark}<div class="eyebrow">困りごと</div><section class="text-block"><h2>${problemTitle}</h2><p class="body">${problem}</p></section></main>`,
     editorialPages
       ? `<main class="page editorial-page">
-          ${editorialHeader(product, "03")}
+          ${editorialHeader(product)}
           <section class="editorial-copy">
             <div class="editorial-copy__eyebrow">変わったこと</div>
             <h2>${changeTitle}</h2>
@@ -187,7 +188,7 @@ export function renderCarousel(product: ProductRecord): RenderedPage[] {
       : `<main class="page">${brandMark}<div class="eyebrow">変わったこと</div><section class="text-block"><h2>${changeTitle}</h2><p class="body">${change}</p></section></main>`,
     editorialPages
       ? `<main class="page editorial-page">
-          ${editorialHeader(product, "04")}
+          ${editorialHeader(product)}
           <section class="editorial-review">
             <figure class="editorial-review__context">
               ${editorialImage(product, "editorial-review__context-image", "supporting")}
@@ -203,7 +204,7 @@ export function renderCarousel(product: ProductRecord): RenderedPage[] {
       : `<main class="page">${brandMark}<div class="eyebrow">正直レビュー</div><div class="review-grid"><section class="panel panel--strength"><h3>良かった点</h3><ul>${strengths}</ul></section>${drawbackPanel}</div></main>`,
     editorialPages
       ? `<main class="page editorial-page editorial-insight">
-          ${editorialHeader(product, "05")}
+          ${editorialHeader(product)}
           <section class="editorial-insight__visual">
             ${editorialImage(product, "editorial-insight__image", "supporting")}
             <div class="editorial-insight__copy"><div>LIFT INSIGHT</div><blockquote>${insight}</blockquote></div>
@@ -213,7 +214,7 @@ export function renderCarousel(product: ProductRecord): RenderedPage[] {
       : `<main class="page">${brandMark}<div class="eyebrow">LIFT Insight</div><blockquote class="quote">${insight}</blockquote></main>`,
     editorialPages
       ? `<main class="page editorial-page editorial-cta">
-          ${editorialHeader(product, "06")}
+          ${editorialHeader(product)}
           <section class="editorial-cta__body">
             <div class="editorial-cta__copy">
               <div class="editorial-cta__brand">毎日を30秒<br>ラクにする。</div>
