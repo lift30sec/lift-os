@@ -58,3 +58,19 @@ Published content is recorded here after the destination confirms that the post 
 - Disclosure: none
 - Disclosure reason: the product was purchased normally by the account owner
 - Confirmation: both Instagram and Threads displayed the published carousel
+
+### Rakuten ROOM / Instagram / Threads - lift-004
+
+- Status: published
+- Published at: 2026-08-02T08:58:43+09:00
+- Account: `lift.30sec`
+- Product: スターフィルター レンジフードフィルター スターターセット 枠2枚用
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/items
+- Instagram: https://www.instagram.com/lift.30sec/p/DbhEjLaj-WO/
+- Threads: https://www.threads.com/@lift.30sec/post/DbhEss1D5tS
+- Source package: `output/publish/lift-004`
+- Threads delivery: direct publication after Instagram cross-share did not create a post
+- Disclosure: none
+- Disclosure reason: the product was purchased normally by the account owner
+- Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram and Threads exposed new post URLs
