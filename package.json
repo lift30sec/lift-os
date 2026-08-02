@@ -1,0 +1,22 @@
+{
+  "name": "lift-os",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "tsc --noEmit",
+    "render:sample": "node --experimental-strip-types scripts/render-sample.ts",
+    "render:all": "node --experimental-strip-types scripts/render-sample.ts",
+    "render:png": "node --experimental-strip-types scripts/render-png.ts",
+    "render:concept": "node --experimental-strip-types scripts/render-editorial-concept.ts",
+    "package:publish": "node --experimental-strip-types scripts/build-publish-package.ts",
+    "publish:check": "node --experimental-strip-types scripts/check-publication.ts",
+    "validate": "node --experimental-strip-types scripts/render-sample.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "playwright": "^1.54.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  }
+}
