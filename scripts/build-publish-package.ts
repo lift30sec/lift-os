@@ -62,6 +62,13 @@ for (const product of products) {
       content: "awaiting_initial_publication_approval",
       externalPublication: "not_started"
     },
+    linkStrategy: {
+      publishOrder: ["rakuten_room", "instagram", "threads"],
+      instagramFeed: "room_search_keyword",
+      instagramStory: "room_post_permalink_link_sticker",
+      threads: "room_post_permalink",
+      roomPostPermalink: null
+    },
     files: {
       instagramImages: imageFiles,
       instagramCaption: "instagram-caption.txt",

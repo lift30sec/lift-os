@@ -1,5 +1,16 @@
 # Automation Spec v0.3
 
+## 商品リンクの導線
+
+公開順は楽天ROOM、Instagram、Threadsとする。楽天ROOMへ投稿した直後に商品投稿の固定URLを保存し、SNSでは次のように使う。
+
+- Instagramフィードの画像にはリンクを埋め込まない。通常のカルーセル画像自体はクリック先を設定できないため、6枚目に短いROOM検索語を表示する。
+- Instagramでは商品ごとのストーリーズも作り、楽天ROOM投稿の固定URLをリンクスタンプへ設定する。消える投稿だけに依存せず、商品カテゴリ別ハイライトにも保存する。
+- Threadsでは本文末尾へ `楽天ROOMで見る：<ROOM投稿URL>` を付ける。楽天以外の短縮URLサービスは使わない。
+- 将来Webページで画像リンクを使う場合も、楽天アフィリエイトが生成したHTMLと画像を改変しない。LIFTの独自画像を楽天アフィリエイト画像の代用にしない。
+
+通常購入品ではPR表記は任意だが、商品提供、特別クーポン、投稿依頼、イベント参加などがある商品は媒体ごとの広告表示ルールを適用する。
+
 ## Candidate confirmation gate
 
 Daily discovery produces no more than three candidates. Before product data,
