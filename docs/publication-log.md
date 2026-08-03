@@ -74,3 +74,19 @@ Published content is recorded here after the destination confirms that the post 
 - Disclosure: none
 - Disclosure reason: the product was purchased normally by the account owner
 - Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram and Threads exposed new post URLs
+
+### Rakuten ROOM / Instagram / Threads - lift-005
+
+- Status: published
+- Published at: 2026-08-02 (exact time not exposed by UI)
+- Account: `room_09a9c355ec`
+- Product: SAVAQ キッチンバサミ
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700387728491173
+- Instagram: https://www.instagram.com/lift.30sec/p/DbhWbAkD8u9/
+- Threads: https://www.threads.com/@lift.30sec/post/DbhWbwDD3oL
+- Source package: `output/publish/lift-005`
+- Threads delivery: Instagram cross-share
+- Disclosure: none
+- Disclosure reason: the product was purchased normally by the account owner
+- Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram confirmed the share and both social profiles exposed new post URLs

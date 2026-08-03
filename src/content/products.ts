@@ -5,6 +5,9 @@ import { starfilterRangeHoodFilter } from "./starfilter-range-hood-filter.ts";
 import { savaqKitchenScissors } from "./savaq-kitchen-scissors.ts";
 import { atriseRangePan } from "./atrise-range-pan.ts";
 import { toliOilCloth } from "./toli-oil-cloth.ts";
+import { kaToruzu } from "./ka-toruzu.ts";
+import { poolMat1cm } from "./pool-mat-1cm.ts";
+import { earthKamairazu } from "./earth-kamairazu.ts";
 
 export const products = [
   marnaFrozenRiceContainer,
@@ -13,5 +16,8 @@ export const products = [
   starfilterRangeHoodFilter,
   savaqKitchenScissors,
   atriseRangePan,
-  toliOilCloth
+  toliOilCloth,
+  kaToruzu,
+  poolMat1cm,
+  earthKamairazu
 ];
