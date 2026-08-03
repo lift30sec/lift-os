@@ -90,3 +90,53 @@ Published content is recorded here after the destination confirms that the post 
 - Disclosure: none
 - Disclosure reason: the product was purchased normally by the account owner
 - Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram confirmed the share and both social profiles exposed new post URLs
+
+## 2026-08-03
+
+### Rakuten ROOM / Instagram / Threads - lift-008
+
+- Status: published
+- Published at: 2026-08-03 (exact time not exposed by UI)
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: 蚊−トルズ
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/items
+- Instagram: https://www.instagram.com/lift.30sec/p/Dbjti_MFpwe/
+- Threads: https://www.threads.com/@lift.30sec/post/DbjtjpvlgYn
+- Source package: `output/publish/lift-008`
+- Threads delivery: Instagram cross-share
+- Disclosure: none
+- Disclosure reason: the product was purchased normally by the account owner
+- Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿がシェアされました。`; Threads exposed the new post URL
+
+### Rakuten ROOM / Instagram / Threads - lift-009
+
+- Status: published
+- Published at: 2026-08-03 (exact time not exposed by UI)
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: 厚手プールマット 1cm
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/items
+- Instagram: https://www.instagram.com/lift.30sec/p/DbjtyKGlgNZ/
+- Threads: https://www.threads.com/@lift.30sec/post/DbjtyvxlutV
+- Source package: `output/publish/lift-009`
+- Threads delivery: Instagram cross-share
+- Disclosure: none
+- Disclosure reason: the product was purchased normally by the account owner
+- Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿がシェアされました。`; Threads exposed the new post URL
+
+### Rakuten ROOM / Instagram / Threads - lift-010
+
+- Status: published
+- Published at: 2026-08-03 (exact time not exposed by UI)
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: アースカマイラズ 草消滅 4.5L
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/items
+- Instagram: https://www.instagram.com/lift.30sec/p/Dbjt9zSlnKu/
+- Threads: https://www.threads.com/@lift.30sec/post/Dbjt-d-ljx2
+- Source package: `output/publish/lift-010`
+- Threads delivery: Instagram cross-share
+- Disclosure: none
+- Disclosure reason: the product was purchased normally by the account owner
+- Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿がシェアされました。`; Threads exposed the new post URL
