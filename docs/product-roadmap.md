@@ -49,6 +49,9 @@ be described as personally tested or "買ってよかった".
 All three are recorded as owner-used candidates. Exact purchased listings and
 first-hand experience details must be confirmed before production.
 
+Experience interview completed on 2026-08-09. Copy drafts and remaining
+variation checks are recorded in `docs/batch-011-013.md`.
+
 ## Production batch 02
 
 ### SAVAQ キッチンバサミ
