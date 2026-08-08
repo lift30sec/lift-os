@@ -1,6 +1,6 @@
 # Product Roadmap
 
-Updated: 2026-08-02
+Updated: 2026-08-09
 
 The initial target is 20 products. Products with owner experience use the
 Classic editorial track. Unused products remain Select candidates and must not
@@ -12,45 +12,42 @@ be described as personally tested or "買ってよかった".
 2. マーナ 極 冷凍ごはん容器
 3. MIDORI ダンボールカッター
 4. スターフィルター レンジフードフィルター
+5. SAVAQ キッチンバサミ
+6. atRise レンジパン
+7. toli 油汚れクロス
+8. 蚊−トルズ
+9. 厚手プールマット 1cm
+10. アースカマイラズ 草消滅 4.5L
 
 ## Owner-used candidates
 
-5. SAVAQ キッチンバサミ
-6. 電子レンジ調理器／レンジパン
-7. 油汚れクロス
-8. お椀スタンド
-9. 麦茶ポット・冷水筒 3.5L
-10. 帽子キャップウォッシャー
-11. 伸縮式充電ケーブル
-12. チャイルドシート抜け出し防止用品
-13. 割れない全身鏡
-14. キッチン調理台保護マット
-15. スマホスタンド
+11. お椀スタンド
+12. 麦茶ポット・冷水筒 3.5L
+13. 帽子キャップウォッシャー
+14. 伸縮式充電ケーブル
+15. チャイルドシート抜け出し防止用品
+16. 割れない全身鏡
+17. キッチン調理台保護マット
+18. スマホスタンド
 
 ## Unused Select candidates
 
-16. SAKuRAKu 水切りラック L型
-17. SAKuRAKu 透明L字キッチンマット
-18. 衣類圧縮トラベルポーチ
-19. マーナ ザルボウルセット
-20. VAKUEN 電動真空保存容器
+19. SAKuRAKu 水切りラック L型
+20. SAKuRAKu 透明L字キッチンマット
+21. 衣類圧縮トラベルポーチ
+22. マーナ ザルボウルセット
+23. VAKUEN 電動真空保存容器
 
 ## Next production item
 
-### SAVAQ キッチンバサミ
+### Production batch 04
 
-- Track: `LIFT Classic candidate`
-- Owner experience: confirmed
-- Purchase date: 2025-11-25
-- Rakuten product: https://item.rakuten.co.jp/knightrise/06/
-- Purchase-history title: `SAVAQ正規品 進化系キッチンバサミ 分解して洗えるオールステンレス 食洗機対応`
-- Reason for priority: about eight months of ownership, clear recurring kitchen
-  use, and a distinct problem from the four published products.
-- Primary use: cutting meat.
-- Owner value: the cutting performance is strong enough to cut meat directly
-  on its purchase tray, avoiding contamination of a cutting board.
-- Drawbacks reported by owner: none.
-- Editorial insight candidate: `まな板を洗うための道具ではなく、まな板を汚さないためのハサミだった。`
+11. お椀スタンド
+12. 麦茶ポット・冷水筒 3.5L
+13. 帽子キャップウォッシャー
+
+All three are recorded as owner-used candidates. Exact purchased listings and
+first-hand experience details must be confirmed before production.
 
 ## Production batch 02
 

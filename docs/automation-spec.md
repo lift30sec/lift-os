@@ -36,7 +36,7 @@ not prove that the product was used; first-hand use still requires confirmation.
 ## 処理フロー
 
 ```text
-Notionの商品データ
+GitHub内 `src/content` の商品データ
   -> 正規化・検証
   -> 媒体別の下書き生成
   -> オーナー承認
@@ -69,7 +69,7 @@ InstagramからThreadsへの同時共有は、スイッチの選択だけでは�
 - 広告表示の有無と位置の検証
 - HTML/CSSによる決定的な描画
 - ファイル名とmanifestの生成
-- 承認済みデータのNotionへの書き戻し
+- 承認済みデータの `src/content` への保存
 - 公式データ源がある場合の分析データ取り込み
 
 ## 画像取得
@@ -86,7 +86,7 @@ InstagramからThreadsへの同時共有は、スイッチの選択だけでは�
 
 - 楽天ROOMの投稿ルールと利用可能な公式連携
 - Instagram/Threads APIの利用条件と公開権限
-- Notion連携がLIFT OSページへ持つ権限
+- Notionを追加する場合の同期範囲と権限（20商品運用後に再判断）
 - 画像ごとの利用条件
 - 各媒体から取得できる分析項目
 
@@ -127,3 +127,7 @@ InstagramからThreadsへの同時共有は、スイッチの選択だけでは�
 ## 認証情報
 
 認証情報は環境変数か管理されたシークレットストアへ保存する。Gitにはコミットしない。
+
+## Notionの扱い
+
+v0.3ではNotion連携を実装しない。商品データの原本は `src/content/*.ts` とする。Notionを追加する場合も原本にはせず、GitHubから生成する閲覧・承認用の画面として扱う。双方向同期は競合と二重更新を招くため採用しない。
