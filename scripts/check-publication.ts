@@ -27,6 +27,11 @@ const checks: PublicationCheck[] = products.map((product) => {
   }
   if (!product.productImage) {
     blockers.push("approved affiliate product image and matching link are required");
+  } else if (
+    product.productImage.provider !== "rakuten_affiliate" ||
+    !product.productImage.affiliateLinkUrl?.trim()
+  ) {
+    blockers.push("draft product image must be replaced by a matching Rakuten Affiliate asset and link");
   }
 
   return {

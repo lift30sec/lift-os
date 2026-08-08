@@ -61,9 +61,9 @@ export interface EditorialCover {
 export interface ProductImage {
   path: string;
   sourcePageUrl: string;
-  affiliateLinkUrl: string;
-  provider: "rakuten_affiliate";
-  usage: "affiliate_asset";
+  affiliateLinkUrl?: string;
+  provider: "rakuten_affiliate" | "rakuten_item_page";
+  usage: "affiliate_asset" | "official_product_asset";
   retrievedOn: string;
   fit: "contain";
   allowCrop: false;
@@ -150,7 +150,10 @@ export function validateProduct(product: ProductRecord): string[] {
     }
   }
   if (product.productImage) {
-    if (!product.productImage.affiliateLinkUrl.trim()) {
+    if (
+      product.productImage.provider === "rakuten_affiliate" &&
+      !product.productImage.affiliateLinkUrl?.trim()
+    ) {
       errors.push("product image requires its affiliate link");
     }
     if (product.productImage.allowCrop || product.productImage.allowOverlay) {

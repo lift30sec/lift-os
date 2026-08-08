@@ -8,6 +8,9 @@ import { toliOilCloth } from "./toli-oil-cloth.ts";
 import { kaToruzu } from "./ka-toruzu.ts";
 import { poolMat1cm } from "./pool-mat-1cm.ts";
 import { earthKamairazu } from "./earth-kamairazu.ts";
+import { towerDishStorage } from "./tower-dish-storage.ts";
+import { mirxWaterPitcher } from "./mirx-water-pitcher.ts";
+import { capWasher } from "./cap-washer.ts";
 
 export const products = [
   marnaFrozenRiceContainer,
@@ -19,5 +22,8 @@ export const products = [
   toliOilCloth,
   kaToruzu,
   poolMat1cm,
-  earthKamairazu
+  earthKamairazu,
+  towerDishStorage,
+  mirxWaterPitcher,
+  capWasher
 ];
