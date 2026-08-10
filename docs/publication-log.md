@@ -140,3 +140,53 @@ Published content is recorded here after the destination confirms that the post 
 - Disclosure: none
 - Disclosure reason: the product was purchased normally by the account owner
 - Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿がシェアされました。`; Threads exposed the new post URL
+
+## 2026-08-10
+
+### Rakuten ROOM / Instagram / Threads - lift-014
+
+- Status: published
+- Published at: 2026-08-10 (exact time not exposed by UI)
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: Rルーム 巻き取り式充電ケーブル一体型充電器 PD30W
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/items
+- Instagram: https://www.instagram.com/lift.30sec/p/Db102AXj6Kg/
+- Threads: https://www.threads.com/@lift.30sec/post/Db102r4j5xi
+- Source package: `output/publish/lift-014`
+- Threads delivery: Instagram cross-share
+- Disclosure: none
+- Disclosure reason: the product was purchased normally by the account owner
+- Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿がシェアされました。`; Threads exposed the new post URL
+
+### Rakuten ROOM / Instagram / Threads - lift-015
+
+- Status: published
+- Published at: 2026-08-10 (exact time not exposed by UI)
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: MUQQU 抜け出し防止ベルト
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/items
+- Instagram: https://www.instagram.com/lift.30sec/p/Db11AqCD43i/
+- Threads: https://www.threads.com/@lift.30sec/post/Db11BSkj09T
+- Source package: `output/publish/lift-015`
+- Threads delivery: Instagram cross-share
+- Disclosure: none
+- Disclosure reason: the product was purchased normally by the account owner
+- Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿がシェアされました。`; Threads exposed the new post URL
+
+### Rakuten ROOM / Instagram / Threads - lift-016
+
+- Status: published
+- Published at: 2026-08-10 (exact time not exposed by UI)
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: atRise 割れない全身鏡
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/items
+- Instagram: https://www.instagram.com/lift.30sec/p/Db11OeIj4An/
+- Threads: https://www.threads.com/@lift.30sec/post/Db11PBTj4Wx
+- Source package: `output/publish/lift-016`
+- Threads delivery: Instagram cross-share
+- Disclosure: none
+- Disclosure reason: the product was purchased normally by the account owner
+- Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿がシェアされました。`; Threads exposed the new post URL
