@@ -49,6 +49,11 @@ for (const product of products) {
     `${product.productImage?.affiliateLinkUrl ?? product.sourceUrls[0]}\n`,
     "utf8"
   );
+  await writeFile(
+    resolve(packageDirectory, "rakuten-item-source.txt"),
+    `${product.sourceUrls[0]}\n`,
+    "utf8"
+  );
 
   const packageManifest = {
     productId: product.id,
@@ -64,6 +69,8 @@ for (const product of products) {
     },
     linkStrategy: {
       publishOrder: ["rakuten_room", "instagram", "threads"],
+      rakutenRoom: "exact_item_page_room_link",
+      allowRoomSearchOrRepost: false,
       instagramFeed: "room_search_keyword",
       instagramStory: "room_post_permalink_link_sticker",
       threads: "room_post_permalink",
@@ -74,6 +81,7 @@ for (const product of products) {
       instagramCaption: "instagram-caption.txt",
       threads: "threads.txt",
       rakutenRoom: "rakuten-room.txt",
+      rakutenItemSource: "rakuten-item-source.txt",
       productLink: "product-link.txt"
     }
   };
