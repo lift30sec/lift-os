@@ -40,6 +40,14 @@ be described as personally tested or "買ってよかった".
 
 ## Next production item
 
+### Production batch 05
+
+14. 伸縮式充電ケーブル一体型充電器
+15. MUQQU チャイルドシート抜け出し防止ベルト
+16. atRise 割れない全身鏡
+
+楽天市場の購入履歴で購入商品、販売店、バリエーション、購入月を確認済み。詳細は `docs/batch-014-016.md` に記録した。制作前に3商品の使用体験を一括確認する。
+
 ### Production batch 04
 
 11. お椀スタンド
