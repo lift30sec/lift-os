@@ -4,8 +4,10 @@ import { pathToFileURL } from "node:url";
 import { chromium } from "playwright";
 
 const outputDir = resolve("output");
+const requestedProducts = new Set(process.argv.slice(2));
 const productDirs = (await readdir(outputDir, { withFileTypes: true }))
   .filter((entry) => entry.isDirectory() && /^lift-\d+$/.test(entry.name))
+  .filter((entry) => !requestedProducts.size || requestedProducts.has(entry.name))
   .map((entry) => entry.name)
   .sort();
 

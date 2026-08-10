@@ -11,6 +11,9 @@ import { earthKamairazu } from "./earth-kamairazu.ts";
 import { towerDishStorage } from "./tower-dish-storage.ts";
 import { mirxWaterPitcher } from "./mirx-water-pitcher.ts";
 import { capWasher } from "./cap-washer.ts";
+import { retractableCharger } from "./retractable-charger.ts";
+import { muqquChildSeatBelt } from "./muqqu-child-seat-belt.ts";
+import { atriseUnbreakableMirror } from "./atrise-unbreakable-mirror.ts";
 
 export const products = [
   marnaFrozenRiceContainer,
@@ -25,5 +28,8 @@ export const products = [
   earthKamairazu,
   towerDishStorage,
   mirxWaterPitcher,
-  capWasher
+  capWasher,
+  retractableCharger,
+  muqquChildSeatBelt,
+  atriseUnbreakableMirror
 ];
