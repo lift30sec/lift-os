@@ -5,7 +5,8 @@
 ### Candidate: SAKuRAKu 旧型シリコン調理台保護マット 80 x 60 cm
 
 - Track: `LIFT Classic candidate`
-- Decision: paused for owner experience confirmation
+- Decision: owner experience confirmed; publication held because the listing
+  now points to a materially changed successor model
 - Purchased listing:
   https://item.rakuten.co.jp/kurashi-zakka/sm-003/?variantId=10940
 - Exact-model review source:
@@ -27,16 +28,28 @@
 #### Editorial treatment
 
 - Do not convert review themes into first-hand claims.
-- Ask the owner which change mattered most: scratch protection, reduced sound,
-  heat protection, or another personally experienced benefit.
-- Ask whether water getting under the mat occurred. Use it as an `惜しい点`
-  only if it matches the owner's actual experience; otherwise omit it or label
-  it as a review-derived purchase consideration.
+- Most useful owner-experienced change: dishes no longer clatter when set down,
+  and the worktop is protected from scratches.
+- Strongest owner insight: this was something they wanted in place from the
+  beginning of living in a newly built home, before the worktop was scratched.
+- Product-specific drawback: the silicone surface catches the cleaning cloth
+  and is harder to wipe than the bare worktop.
+- Do not use the review theme about water getting underneath; the owner did not
+  report it.
 
-#### Publication blocker
+#### Publication blocker updated 2026-08-12
 
-- Main first-hand benefit is not yet confirmed.
-- Product-specific drawback is not yet confirmed.
+- The purchased `sm-003` URL now resolves to the `SAKuRAKu NEWシリコンマット`
+  listing.
+- The purchased old model was recorded as 80 x 60 cm and 2 mm thick. The
+  current page describes a redesigned 1.8 mm product with new edge and
+  water-ingress features.
+- A current-model affiliate image cannot be presented as the exact product the
+  owner tested.
+- Publication remains held until an exact old-model listing with an
+  affiliate-safe image is found, or the brand owner approves a clearly labelled
+  successor-product treatment separating old-model experience from current
+  facts.
 
 ## 2026-08-02 test run
 
