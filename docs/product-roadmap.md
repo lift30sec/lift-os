@@ -1,6 +1,6 @@
 # Product Roadmap
 
-Updated: 2026-08-09
+Updated: 2026-08-11
 
 The initial target is 20 products. Products with owner experience use the
 Classic editorial track. Unused products remain Select candidates and must not
@@ -29,6 +29,18 @@ be described as personally tested or "買ってよかった".
 16. 割れない全身鏡
 17. キッチン調理台保護マット
 18. スマホスタンド
+
+### Candidate verification on 2026-08-11
+
+- `17` was identified in Rakuten purchase history as the old-model SAKuRAKu
+  silicone countertop protection mat, 80 x 60 cm and 2 mm thick.
+- Purchased listing:
+  `https://item.rakuten.co.jp/kurashi-zakka/sm-003/?variantId=10940`
+- Production is blocked until the owner confirms the main first-hand benefit and
+  whether water getting under the mat has occurred in actual use.
+- `18` has two possible purchased products. One is a discontinued UAUU MagSafe
+  card-case stand and the other is the currently listed `#OSHASTA` MagSafe card
+  case/stand. The owner must identify which product should be featured.
 
 ## Unused Select candidates
 

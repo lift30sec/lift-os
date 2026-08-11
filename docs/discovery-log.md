@@ -1,5 +1,43 @@
 # Discovery Log
 
+## 2026-08-11 daily run
+
+### Candidate: SAKuRAKu 旧型シリコン調理台保護マット 80 x 60 cm
+
+- Track: `LIFT Classic candidate`
+- Decision: paused for owner experience confirmation
+- Purchased listing:
+  https://item.rakuten.co.jp/kurashi-zakka/sm-003/?variantId=10940
+- Exact-model review source:
+  https://review.rakuten.co.jp/review/item/1/255876_10001639/1.1/
+- Current product-family page:
+  https://item.rakuten.co.jp/kurashi-zakka/c/0000000624/
+
+#### Verified facts
+
+- The signed-in Rakuten purchase history identifies the purchased product as
+  the old-model SAKuRAKu silicone countertop protection mat, 80 x 60 cm and
+  2 mm thick. Private order identifiers are not stored.
+- The exact-model review page commonly mentions countertop protection,
+  thickness, reduced clattering, and resistance to slipping.
+- The current product family distinguishes a newer water-ingress-resistant
+  model from the old model. This does not prove that the owner experienced
+  water ingress.
+
+#### Editorial treatment
+
+- Do not convert review themes into first-hand claims.
+- Ask the owner which change mattered most: scratch protection, reduced sound,
+  heat protection, or another personally experienced benefit.
+- Ask whether water getting under the mat occurred. Use it as an `惜しい点`
+  only if it matches the owner's actual experience; otherwise omit it or label
+  it as a review-derived purchase consideration.
+
+#### Publication blocker
+
+- Main first-hand benefit is not yet confirmed.
+- Product-specific drawback is not yet confirmed.
+
 ## 2026-08-02 test run
 
 ### Candidate: スターフィルター レンジフードフィルター スターターセット 枠2枚用
