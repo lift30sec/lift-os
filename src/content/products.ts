@@ -14,6 +14,7 @@ import { capWasher } from "./cap-washer.ts";
 import { retractableCharger } from "./retractable-charger.ts";
 import { muqquChildSeatBelt } from "./muqqu-child-seat-belt.ts";
 import { atriseUnbreakableMirror } from "./atrise-unbreakable-mirror.ts";
+import { sakurakuCountertopMat } from "./sakuraku-countertop-mat.ts";
 
 export const products = [
   marnaFrozenRiceContainer,
@@ -31,5 +32,6 @@ export const products = [
   capWasher,
   retractableCharger,
   muqquChildSeatBelt,
-  atriseUnbreakableMirror
+  atriseUnbreakableMirror,
+  sakurakuCountertopMat
 ];

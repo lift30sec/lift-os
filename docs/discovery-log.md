@@ -5,8 +5,8 @@
 ### Candidate: SAKuRAKu 旧型シリコン調理台保護マット 80 x 60 cm
 
 - Track: `LIFT Classic candidate`
-- Decision: owner experience confirmed; publication held because the listing
-  now points to a materially changed successor model
+- Decision: approved as a clearly labelled successor-product treatment on
+  2026-08-12
 - Purchased listing:
   https://item.rakuten.co.jp/kurashi-zakka/sm-003/?variantId=10940
 - Exact-model review source:
@@ -46,10 +46,9 @@
   water-ingress features.
 - A current-model affiliate image cannot be presented as the exact product the
   owner tested.
-- Publication remains held until an exact old-model listing with an
-  affiliate-safe image is found, or the brand owner approves a clearly labelled
-  successor-product treatment separating old-model experience from current
-  facts.
+- The brand owner approved publication with a concise disclosure that the
+  first-hand experience comes from the old 80 x 60 cm, 2 mm model and the link
+  points to the successor product.
 
 ## 2026-08-02 test run
 

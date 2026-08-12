@@ -190,3 +190,21 @@ Published content is recorded here after the destination confirms that the post 
 - Disclosure: none
 - Disclosure reason: the product was purchased normally by the account owner
 - Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿がシェアされました。`; Threads exposed the new post URL
+
+## 2026-08-12
+
+### Rakuten ROOM / Instagram / Threads - lift-017
+
+- Status: published
+- Published at: 2026-08-12 (exact time not exposed by UI)
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: SAKuRAKu NEWシリコンマット（本人使用品は旧型80×60cm・厚さ2mm、掲載先は同シリーズ後継品）
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/items
+- Instagram: https://www.instagram.com/lift.30sec/p/Db61ySgj5sJ/
+- Threads: https://www.threads.com/@lift.30sec/post/Db61zZljz6V
+- Source package: `output/publish/lift-017`
+- Threads delivery: Instagram cross-share
+- Disclosure: Instagram AI label enabled because the editorial background contains a generated realistic image
+- Affiliate disclosure: none; the old-model product was purchased normally by the account owner
+- Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿がシェアされました。`; Threads exposed the new post URL
