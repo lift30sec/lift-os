@@ -1,5 +1,51 @@
 # Discovery Log
 
+## 2026-08-13 manual test run
+
+### Candidate: Hai Hai キッズテント 3点セット ライトピンク星空柄
+
+- Track: `LIFT Classic candidate`
+- Decision: owner approval requested before production
+- Product page:
+  https://item.rakuten.co.jp/high-high/tent04/
+- Review source:
+  https://review.rakuten.co.jp/item/1/387760_10000297/1.1/
+
+#### Verified facts
+
+- The signed-in Rakuten purchase history and the owner's Rakuten review identify
+  the purchased variant as the three-piece light-pink star-pattern set. Private
+  order identifiers are not stored.
+- The current product page still offers the same named variant. The listed
+  three-piece set contains one ball pool, one tunnel, and one tent, with an
+  approximate assembled size of W290 x D120 x H125 cm. Balls are not included.
+- The product review page showed 4.49 from 117 reviews at the time of checking.
+
+#### Owner experience
+
+- The owner bought it as a second-birthday present.
+- The child played with it every day, and the owner recorded that it was worth
+  buying.
+- A tent pole had a defect, but the store responded promptly.
+
+#### Review tendencies
+
+- Recent reviews commonly mention children enjoying indoor play.
+- Several reviews mention that the set occupies substantial floor space or is
+  difficult to fold back into the storage bag.
+- These are review tendencies and are not converted into the owner's own
+  experience.
+
+#### Proposed editorial treatment
+
+- Primary benefit: it created an indoor play space the child returned to every
+  day.
+- Product-specific drawback: the purchased unit had a tent-pole defect; the
+  store's prompt response should be stated in the same sentence so the post
+  does not overgeneralize a single-unit issue.
+- Proposed cover insight: `家の中に、毎日遊ぶ場所ができた。`
+- Proposed Rakuten ROOM search term: `テント`
+
 ## 2026-08-11 daily run
 
 ### Candidate: SAKuRAKu 旧型シリコン調理台保護マット 80 x 60 cm
