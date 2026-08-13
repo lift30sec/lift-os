@@ -56,3 +56,17 @@
 - 表紙試作画像: `assets/products/midori-cardboard-cutter/official-usage-prototype.jpg`
 - 表紙試作画像の出典: https://image1.shopserve.jp/midori-store.net/pic-labo/35409_5.jpg
 - 権利状態: 公式ストア掲載画像だが、再利用・加工許諾は未確認。公開不可の試作素材として管理する
+
+## Hai Hai キッズテント 3点セット
+
+- 商品ページ: https://item.rakuten.co.jp/high-high/tent04/
+- 商品ID: `10000297`
+- ショップID: `1387760`
+- 提供元: 楽天アフィリエイト
+- 取得サイズ: 400 × 400
+- 公開版の商品画像: `assets/products/haihai-kids-tent/affiliate-main.jpg`
+- 商品画像の扱い: 楽天アフィリエイト提供画像を独立領域へ全体表示し、切り取り・文字重ねをしない
+- 公開版の背景: `assets/products/haihai-kids-tent/generated-playroom-context-v1.png`
+- 背景の生成日: 2026-08-13
+- 背景生成モード: 新規生成。商品・人物・ロゴ・文字を描写しない
+- 背景生成指示: 朝の自然光が入る明るい日本のリビング兼室内遊びスペース。淡い木、生成り、控えめなくすみピンクを使い、北欧と和の中間の落ち着いた雰囲気。4:5縦長で文字を置ける余白を確保する

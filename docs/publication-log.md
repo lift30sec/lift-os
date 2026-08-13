@@ -208,3 +208,21 @@ Published content is recorded here after the destination confirms that the post 
 - Disclosure: Instagram AI label enabled because the editorial background contains a generated realistic image
 - Affiliate disclosure: none; the old-model product was purchased normally by the account owner
 - Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿がシェアされました。`; Threads exposed the new post URL
+
+## 2026-08-13
+
+### Rakuten ROOM / Instagram / Threads - lift-018
+
+- Status: published
+- Published at: 2026-08-13 (exact time not exposed by UI)
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: Hai Hai キッズテント 3点セット
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700388987385387
+- Instagram: https://www.instagram.com/lift.30sec/p/Db9bGGxj8wM/
+- Threads: https://www.threads.com/@lift.30sec/post/Db9bXJSD--m
+- Source package: `output/publish/lift-018`
+- Threads delivery: direct publication after Instagram cross-share did not expose a new Threads post
+- Disclosure: Instagram AI label enabled because the editorial background contains a generated realistic image
+- Affiliate disclosure: none; the product was purchased normally by the account owner
+- Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿がシェアされました。`; Threads exposed the new post URL

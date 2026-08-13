@@ -15,6 +15,7 @@ import { retractableCharger } from "./retractable-charger.ts";
 import { muqquChildSeatBelt } from "./muqqu-child-seat-belt.ts";
 import { atriseUnbreakableMirror } from "./atrise-unbreakable-mirror.ts";
 import { sakurakuCountertopMat } from "./sakuraku-countertop-mat.ts";
+import { haihaiKidsTent } from "./haihai-kids-tent.ts";
 
 export const products = [
   marnaFrozenRiceContainer,
@@ -33,5 +34,6 @@ export const products = [
   retractableCharger,
   muqquChildSeatBelt,
   atriseUnbreakableMirror,
-  sakurakuCountertopMat
+  sakurakuCountertopMat,
+  haihaiKidsTent
 ];

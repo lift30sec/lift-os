@@ -5,7 +5,7 @@
 ### Candidate: Hai Hai キッズテント 3点セット ライトピンク星空柄
 
 - Track: `LIFT Classic candidate`
-- Decision: owner approval requested before production
+- Decision: approved for production and publication on 2026-08-13
 - Product page:
   https://item.rakuten.co.jp/high-high/tent04/
 - Review source:
@@ -26,23 +26,27 @@
 - The owner bought it as a second-birthday present.
 - The child played with it every day, and the owner recorded that it was worth
   buying.
-- A tent pole had a defect, but the store responded promptly.
+- Returning the set to its storage bag is cumbersome, so the owner leaves it
+  set up in actual use.
 
 #### Review tendencies
 
 - Recent reviews commonly mention children enjoying indoor play.
 - Several reviews mention that the set occupies substantial floor space or is
   difficult to fold back into the storage bag.
-- These are review tendencies and are not converted into the owner's own
-  experience.
+- The storage-bag difficulty was confirmed by the owner and may be treated as
+  first-hand experience. The other tendencies are not converted into the
+  owner's own experience.
 
 #### Proposed editorial treatment
 
 - Primary benefit: it created an indoor play space the child returned to every
   day.
-- Product-specific drawback: the purchased unit had a tent-pole defect; the
-  store's prompt response should be stated in the same sentence so the post
-  does not overgeneralize a single-unit issue.
+- Product-specific drawback: it is difficult to fold the set back into its
+  storage bag; the owner therefore leaves it set up.
+- Excluded: the tent-pole defect is treated as an atypical single-unit issue,
+  and floor-space use is obvious before purchase, so neither is presented as
+  the drawback.
 - Proposed cover insight: `家の中に、毎日遊ぶ場所ができた。`
 - Proposed Rakuten ROOM search term: `テント`
 
