@@ -19,6 +19,7 @@ import { haihaiKidsTent } from "./haihai-kids-tent.ts";
 import { oshastaSmartphoneStand } from "./oshasta-smartphone-stand.ts";
 import { epeiosOkareToothbrush } from "./epeios-okare-toothbrush.ts";
 import { otoHatHanger } from "./oto-hat-hanger.ts";
+import { creaswingGapPacking } from "./creaswing-gap-packing.ts";
 
 export const products = [
   marnaFrozenRiceContainer,
@@ -41,5 +42,6 @@ export const products = [
   haihaiKidsTent,
   oshastaSmartphoneStand,
   epeiosOkareToothbrush,
-  otoHatHanger
+  otoHatHanger,
+  creaswingGapPacking
 ];

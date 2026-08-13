@@ -94,3 +94,13 @@
 - 保存先: `assets/products/oto-hat-hanger/official-product.jpg`
 - 背景: `assets/products/oto-hat-hanger/generated-closet-context-v3.png`
 - 背景生成モード: built-in ImageGen。実商品・ロゴ・文字を含めず、帽子を縦に整理した明るいクローゼットとして生成
+
+## CREAS WING 洗面台 隙間パッキン gds-0028
+
+- 商品画像: `assets/products/creaswing-gap-packing/official-product.jpg`
+- 出典: `https://item.rakuten.co.jp/creaswing/gds-0028/?variantId=gds-0028-wt`
+- 用途: 楽天市場の商品ページで確認した公式商品素材。トリミング・文字重ねなし。
+- 取得日: 2026-08-13
+- 背景: `assets/products/creaswing-gap-packing/generated-washroom-context-v1.png`
+- 背景の扱い: 商品そのものではなく、洗面台と壁の隙間を伝えるAI生成の編集用背景。
+- 背景生成モード: built-in ImageGen。実商品・ロゴ・文字を含めず、洗面台と壁の細い隙間が分かる明るい洗面空間として生成。
