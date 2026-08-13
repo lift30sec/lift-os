@@ -70,3 +70,27 @@
 - 背景の生成日: 2026-08-13
 - 背景生成モード: 新規生成。商品・人物・ロゴ・文字を描写しない
 - 背景生成指示: 朝の自然光が入る明るい日本のリビング兼室内遊びスペース。淡い木、生成り、控えめなくすみピンクを使い、北欧と和の中間の落ち着いた雰囲気。4:5縦長で文字を置ける余白を確保する
+
+## #OSHASTA MagSafe対応カードケース・スマホスタンド
+
+- 商品画像: 楽天市場 La Chou Chou 商品ページ掲載画像 `oshasta_mag_mirror.jpg`
+- 出典: https://item.rakuten.co.jp/corsage/1003-447/?variantId=1003-447-bk-yes
+- 保存先: `assets/products/oshasta-smartphone-stand/official-product.jpg`
+- 背景: `assets/products/oshasta-smartphone-stand/generated-phone-context-v1.png`
+- 背景生成モード: built-in ImageGen。商品・ロゴ・文字を含めず、朝の明るい玄関コンソールとして生成
+
+## EPEIOS Okare! ET003
+
+- 商品画像: 楽天市場 エムパウジャパン商品ページ掲載画像 `et003_1.jpg`
+- 出典: https://item.rakuten.co.jp/mpowjapan/et003abun1/?variantId=ET003DVUN1-1
+- 保存先: `assets/products/epeios-okare-toothbrush/official-product.jpg`
+- 背景: `assets/products/epeios-okare-toothbrush/generated-vanity-context-v1.png`
+- 背景生成モード: built-in ImageGen。商品・ロゴ・文字を含めず、朝の明るい洗面台として生成
+
+## OTOストア 帽子ハンガー
+
+- 商品画像: 楽天市場 OTOストア商品ページ掲載画像 `imgrc0142051314.jpg`
+- 出典: https://item.rakuten.co.jp/otostore/251104/?variantId=2511042i
+- 保存先: `assets/products/oto-hat-hanger/official-product.jpg`
+- 背景: `assets/products/oto-hat-hanger/generated-closet-context-v3.png`
+- 背景生成モード: built-in ImageGen。実商品・ロゴ・文字を含めず、帽子を縦に整理した明るいクローゼットとして生成

@@ -1,6 +1,6 @@
 # Product Roadmap
 
-Updated: 2026-08-11
+Updated: 2026-08-13
 
 The initial target is 20 products. Products with owner experience use the
 Classic editorial track. Unused products remain Select candidates and must not
@@ -29,6 +29,14 @@ be described as personally tested or "買ってよかった".
 16. 割れない全身鏡
 17. キッチン調理台保護マット
 18. スマホスタンド
+
+## Current production batch
+
+19. #OSHASTA MagSafe対応カードケース・スマホスタンド
+20. EPEIOS Okare! ET003 電動歯ブラシ
+21. OTOストア 帽子ハンガー
+
+楽天購入履歴で本人購入を確認済み。商品ページのレビュー表示は、確認時点で順に1,007件、3,853件、108件。レビュー傾向は訴求候補の補助材料に使い、購入履歴やレビュー本文の個人情報は保存しない。
 
 ### Candidate verification on 2026-08-11
 

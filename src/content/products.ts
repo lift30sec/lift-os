@@ -16,6 +16,9 @@ import { muqquChildSeatBelt } from "./muqqu-child-seat-belt.ts";
 import { atriseUnbreakableMirror } from "./atrise-unbreakable-mirror.ts";
 import { sakurakuCountertopMat } from "./sakuraku-countertop-mat.ts";
 import { haihaiKidsTent } from "./haihai-kids-tent.ts";
+import { oshastaSmartphoneStand } from "./oshasta-smartphone-stand.ts";
+import { epeiosOkareToothbrush } from "./epeios-okare-toothbrush.ts";
+import { otoHatHanger } from "./oto-hat-hanger.ts";
 
 export const products = [
   marnaFrozenRiceContainer,
@@ -35,5 +38,8 @@ export const products = [
   muqquChildSeatBelt,
   atriseUnbreakableMirror,
   sakurakuCountertopMat,
-  haihaiKidsTent
+  haihaiKidsTent,
+  oshastaSmartphoneStand,
+  epeiosOkareToothbrush,
+  otoHatHanger
 ];

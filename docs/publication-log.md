@@ -226,3 +226,51 @@ Published content is recorded here after the destination confirms that the post 
 - Disclosure: Instagram AI label enabled because the editorial background contains a generated realistic image
 - Affiliate disclosure: none; the product was purchased normally by the account owner
 - Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿がシェアされました。`; Threads exposed the new post URL
+
+### Rakuten ROOM / Instagram / Threads - lift-019
+
+- Status: published
+- Published at: 2026-08-13 (exact time not exposed by UI)
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: #OSHASTA MagSafe smartphone stand
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700389021702343
+- Instagram: https://www.instagram.com/lift.30sec/p/Db-MtPhFp3_/
+- Threads: https://www.threads.com/@lift.30sec/post/Db-MuGylg4A
+- Source package: `output/publish/lift-019`
+- Threads delivery: Instagram cross-share
+- Disclosure: Instagram AI label enabled because the editorial background contains a generated realistic image
+- Affiliate disclosure: none; the product was purchased normally by the account owner
+- Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL
+
+### Rakuten ROOM / Instagram / Threads - lift-020
+
+- Status: published
+- Published at: 2026-08-13 (exact time not exposed by UI)
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: EPEIOS Okare! ET003 electric toothbrush
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700389022047320
+- Instagram: https://www.instagram.com/lift.30sec/p/Db-M5Mrlkfg/
+- Threads: https://www.threads.com/@lift.30sec/post/Db-M50OlldS
+- Source package: `output/publish/lift-020`
+- Threads delivery: Instagram cross-share
+- Disclosure: Instagram AI label enabled because the editorial background contains a generated realistic image
+- Affiliate disclosure: none; the product was purchased normally by the account owner
+- Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL
+
+### Rakuten ROOM / Instagram / Threads - lift-021
+
+- Status: published
+- Published at: 2026-08-13 (exact time not exposed by UI)
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: OTO hat hanger
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700389022099194
+- Instagram: https://www.instagram.com/lift.30sec/p/Db-NBFFlmFo/
+- Threads: https://www.threads.com/@lift.30sec/post/Db-NBxrFs5t
+- Source package: `output/publish/lift-021`
+- Threads delivery: Instagram cross-share
+- Disclosure: Instagram AI label enabled because the editorial background contains a generated realistic image
+- Affiliate disclosure: none; the product was purchased normally by the account owner
+- Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL
