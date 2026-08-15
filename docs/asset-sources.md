@@ -104,3 +104,14 @@
 - 背景: `assets/products/creaswing-gap-packing/generated-washroom-context-v1.png`
 - 背景の扱い: 商品そのものではなく、洗面台と壁の隙間を伝えるAI生成の編集用背景。
 - 背景生成モード: built-in ImageGen。実商品・ロゴ・文字を含めず、洗面台と壁の細い隙間が分かる明るい洗面空間として生成。
+
+## TAKUMIの逸品 骨取り無塩銀鮭 ti25038
+
+- 商品画像: `assets/products/takumi-boneless-salmon/official-product.jpg`
+- 出典: `https://item.rakuten.co.jp/tsk8-shop/ti25038/?variantId=ti25038-ti25038c`
+- 公式画像URL: `https://image.rakuten.co.jp/tsk8-shop/cabinet/1st/normal01/ti25038.jpg`
+- 用途: 楽天市場の商品ページで確認した公式商品素材。トリミング・文字重ねなし。
+- 取得日: 2026-08-15
+- 背景: `assets/products/takumi-boneless-salmon/generated-salmon-kitchen-context-v1.png`
+- 背景の扱い: 実商品ではなく、冷凍鮭を必要な分だけ調理する場面を伝えるAI生成の編集用背景。
+- 背景生成モード: built-in ImageGen。実商品・ブランド・文字を含めず、朝の自然光が入る明るいキッチンと冷凍鮭の食卓として生成。

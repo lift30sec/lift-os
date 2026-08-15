@@ -291,3 +291,21 @@ Published content is recorded here after the destination confirms that the post 
 - Disclosure: Instagram AI label enabled because the editorial background contains a generated realistic image
 - Affiliate disclosure: none; the product was purchased normally by the account owner
 - Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL
+
+## 2026-08-15
+
+### Rakuten ROOM / Instagram / Threads - lift-023
+
+- Status: published
+- Published at: 2026-08-15 (exact time not exposed by UI)
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: TAKUMIの逸品 骨取り無塩銀鮭 ti25038
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/items
+- Instagram: https://www.instagram.com/lift.30sec/p/DcExwO3k4nL/
+- Threads: https://www.threads.com/@lift.30sec/post/DcExxKmE0uS
+- Source package: `output/publish/lift-023`
+- Threads delivery: Instagram cross-share
+- Disclosure: Instagram AI label enabled because the editorial background contains a generated realistic image
+- Affiliate disclosure: none; the product was purchased normally by the account owner
+- Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL

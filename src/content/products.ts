@@ -20,6 +20,7 @@ import { oshastaSmartphoneStand } from "./oshasta-smartphone-stand.ts";
 import { epeiosOkareToothbrush } from "./epeios-okare-toothbrush.ts";
 import { otoHatHanger } from "./oto-hat-hanger.ts";
 import { creaswingGapPacking } from "./creaswing-gap-packing.ts";
+import { takumiBonelessSalmon } from "./takumi-boneless-salmon.ts";
 
 export const products = [
   marnaFrozenRiceContainer,
@@ -43,5 +44,6 @@ export const products = [
   oshastaSmartphoneStand,
   epeiosOkareToothbrush,
   otoHatHanger,
-  creaswingGapPacking
+  creaswingGapPacking,
+  takumiBonelessSalmon
 ];
