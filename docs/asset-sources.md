@@ -115,3 +115,15 @@
 - 背景: `assets/products/takumi-boneless-salmon/generated-salmon-kitchen-context-v1.png`
 - 背景の扱い: 実商品ではなく、冷凍鮭を必要な分だけ調理する場面を伝えるAI生成の編集用背景。
 - 背景生成モード: built-in ImageGen。実商品・ブランド・文字を含めず、朝の自然光が入る明るいキッチンと冷凍鮭の食卓として生成。
+
+## UKAboo 折りたたみプール 1.6m（グラフィック）
+
+- 商品画像: `assets/products/foldable-pool/official-main.jpg`
+- 出典: `https://item.rakuten.co.jp/shopworld/10141240/?variantId=000000148065`
+- 元画像URL: `https://image.rakuten.co.jp/shopworld/cabinet/05902777/13305732/139351-148074_8-1.jpg`
+- 用途: 楽天市場の商品ページで確認した公式商品素材。トリミング・文字重ねなし。
+- 取得日: 2026-08-17
+- 背景: `assets/products/foldable-pool/generated-summer-pool-context-v1.png`
+- 背景の扱い: 実商品ではなく、家庭での水遊びを連想させるAI生成の編集用背景。
+- 背景生成モード: built-in ImageGen。実商品・人物・ブランド・文字を含めず、夏の朝の自然光が入る明るい庭として生成。
+- 背景生成指示: `Create a photorealistic editorial background image for a Japanese lifestyle Instagram carousel, portrait 4:5 (1080x1350 composition). Bright summer morning in a clean contemporary Japanese backyard terrace, soft natural daylight, pale warm stone or light wood deck, subtle green foliage, gentle water reflections and a few tasteful children's water-play cues (small bucket or towel) near the edges. Leave generous calm negative space in the upper-middle for Japanese headline text. Do NOT show any swimming pool product, brand, packaging, people, text, letters, numbers, logos, or watermarks. The image is only contextual background, not the advertised product. LIFT brand mood: refined Japanese lifestyle editorial, warm, airy, trustworthy, not glossy advertising, not dark, not overly saturated.`

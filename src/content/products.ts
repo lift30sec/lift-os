@@ -21,6 +21,7 @@ import { epeiosOkareToothbrush } from "./epeios-okare-toothbrush.ts";
 import { otoHatHanger } from "./oto-hat-hanger.ts";
 import { creaswingGapPacking } from "./creaswing-gap-packing.ts";
 import { takumiBonelessSalmon } from "./takumi-boneless-salmon.ts";
+import { foldablePool } from "./foldable-pool.ts";
 
 export const products = [
   marnaFrozenRiceContainer,
@@ -45,5 +46,6 @@ export const products = [
   epeiosOkareToothbrush,
   otoHatHanger,
   creaswingGapPacking,
-  takumiBonelessSalmon
+  takumiBonelessSalmon,
+  foldablePool
 ];

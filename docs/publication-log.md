@@ -242,6 +242,7 @@ Published content is recorded here after the destination confirms that the post 
 - Disclosure: Instagram AI label enabled because the editorial background contains a generated realistic image
 - Affiliate disclosure: none; the product was purchased normally by the account owner
 - Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL
+
 - Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿がシェアされました。`; Threads exposed the new post URL
 
 ### Rakuten ROOM / Instagram / Threads - lift-019
@@ -307,5 +308,24 @@ Published content is recorded here after the destination confirms that the post 
 - Source package: `output/publish/lift-023`
 - Threads delivery: Instagram cross-share
 - Disclosure: Instagram AI label enabled because the editorial background contains a generated realistic image
+- Affiliate disclosure: none; the product was purchased normally by the account owner
+- Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL
+
+## 2026-08-17
+
+### Rakuten ROOM / Instagram / Threads - lift-024
+
+- Status: published
+- Publication slot: 2026-08-16 (backlog; published on 2026-08-17)
+- Actual published at: 2026-08-17 (exact time not exposed by UI)
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: UKAboo 折りたたみプール 1.6m（グラフィック）
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700389408471131
+- Instagram: https://www.instagram.com/lift.30sec/p/DcHxZgKjys4/
+- Threads: https://www.threads.com/@lift.30sec/post/DcHxaX7D4Qj
+- Source package: `output/publish/lift-024`
+- Threads delivery: Instagram cross-share
+- Disclosure: Instagram and Threads AI labels enabled because the editorial background contains a generated realistic image
 - Affiliate disclosure: none; the product was purchased normally by the account owner
 - Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL

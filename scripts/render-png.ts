@@ -33,6 +33,7 @@ try {
         await new Promise<void>((done) =>
           requestAnimationFrame(() => requestAnimationFrame(() => done()))
         );
+        window.scrollTo(0, 0);
       });
       await page.screenshot({
         path: resolve(sourceDir, filename.replace(/\.html$/, ".png")),
