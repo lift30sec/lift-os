@@ -331,3 +331,20 @@ Published content is recorded here after the destination confirms that the post 
 - Affiliate disclosure: none; the product was purchased normally by the account owner
 - Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL
 - Republishing: the original Instagram `DcHxZgKjys4` and Threads `DcHxaX7D4Qj` posts were deleted and replaced on 2026-08-17 to remove internal verification language from the public review image
+
+### Rakuten ROOM / Instagram / Threads - lift-025
+
+- Status: published
+- Publication slot: 2026-08-17
+- Actual published at: 2026-08-17 (exact time not exposed by UI)
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: RedHat 超音波虫よけ RH127-3
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700389462480234
+- Instagram: https://www.instagram.com/lift.30sec/p/DcI8YygD1i6/
+- Threads: https://www.threads.com/@lift.30sec/post/DcI8Zspj0ix
+- Source package: `output/publish/lift-025`
+- Threads delivery: Instagram cross-share
+- Disclosure: Instagram and Threads AI labels enabled because the editorial background contains a generated realistic image
+- Affiliate disclosure: none; the product was purchased normally by the account owner
+- Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL
