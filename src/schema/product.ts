@@ -100,6 +100,21 @@ export function scoreTotal(score: LiftScore): number {
 
 export function validateProduct(product: ProductRecord): string[] {
   const errors: string[] = [];
+  const publicCopyFields: Array<[string, string]> = [
+    ...product.strengths.map((value, index) => [`strengths[${index}]`, value] as [string, string]),
+    ...product.drawbacks.map((value, index) => [`drawbacks[${index}]`, value] as [string, string]),
+    ["content.problem", product.content.problem],
+    ["content.change", product.content.change],
+    ["content.room", product.content.room],
+    ["content.instagramCaption", product.content.instagramCaption],
+    ["content.threads", product.content.threads]
+  ];
+  const internalVoicePatterns = [
+    /本人が/,
+    /本人宅/,
+    /本人使用/,
+    /購入して使用している/
+  ];
   const scoreLimits: Record<keyof LiftScore, number> = {
     ease: 30,
     value: 20,
@@ -132,6 +147,11 @@ export function validateProduct(product: ProductRecord): string[] {
   }
   if (!product.content.threads.trim()) errors.push("Threads copy is required");
   if (!product.insight.trim()) errors.push("insight is required");
+  for (const [field, value] of publicCopyFields) {
+    if (internalVoicePatterns.some((pattern) => pattern.test(value))) {
+      errors.push(`${field} contains internal verification language`);
+    }
+  }
   if (product.editorialTrack === "classic" && product.experienceLevel === "researched") {
     errors.push("researched products cannot use the classic editorial track");
   }
