@@ -23,6 +23,7 @@ import { creaswingGapPacking } from "./creaswing-gap-packing.ts";
 import { takumiBonelessSalmon } from "./takumi-boneless-salmon.ts";
 import { foldablePool } from "./foldable-pool.ts";
 import { redhatUltrasonicRepeller } from "./redhat-ultrasonic-repeller.ts";
+import { shariAutumnSalmon } from "./shari-autumn-salmon.ts";
 
 export const products = [
   marnaFrozenRiceContainer,
@@ -49,5 +50,6 @@ export const products = [
   creaswingGapPacking,
   takumiBonelessSalmon,
   foldablePool,
-  redhatUltrasonicRepeller
+  redhatUltrasonicRepeller,
+  shariAutumnSalmon
 ];

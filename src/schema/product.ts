@@ -2,6 +2,7 @@ export type ExperienceLevel = "owner" | "family" | "researched";
 export type EditorialTrack = "classic" | "select";
 export type AcquisitionType =
   | "normal_purchase"
+  | "tax_donation"
   | "gifted"
   | "special_coupon"
   | "sponsored"
@@ -91,7 +92,7 @@ export interface ProductRecord {
 }
 
 export function requiresPrDisclosure(product: ProductRecord): boolean {
-  return product.acquisitionType !== "normal_purchase";
+  return !["normal_purchase", "tax_donation"].includes(product.acquisitionType);
 }
 
 export function scoreTotal(score: LiftScore): number {
