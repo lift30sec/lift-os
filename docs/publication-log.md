@@ -368,3 +368,22 @@ Published content is recorded here after the destination confirms that the post 
 - Disclosure: Instagram and Threads AI labels enabled because the editorial background contains a generated realistic image
 - Affiliate disclosure: none; the product was received as a normal furusato tax donation return gift by the account owner
 - Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL
+
+## 2026-08-20
+
+### Rakuten ROOM / Instagram / Threads - lift-027
+
+- Status: published
+- Publication slot: 2026-08-19 20:00 (backlog; published on 2026-08-20)
+- Actual published at: 2026-08-20 (exact time not exposed by UI)
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: 飯塚市 鉄板焼デミソースハンバーグ（ふるさと納税）
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700389773857769
+- Instagram: https://www.instagram.com/lift.30sec/p/DcQcVPQDwc3/
+- Threads: https://www.threads.com/@lift.30sec/post/DcQcd3Oj5vo
+- Source package: `output/publish/lift-027`
+- Threads delivery: direct Threads post using the six-image carousel
+- Disclosure: Instagram and Threads AI labels enabled because the editorial background contains a generated realistic image
+- Affiliate disclosure: none; the product was received as a normal furusato tax donation return gift by the account owner
+- Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL
