@@ -25,6 +25,7 @@ import { foldablePool } from "./foldable-pool.ts";
 import { redhatUltrasonicRepeller } from "./redhat-ultrasonic-repeller.ts";
 import { shariAutumnSalmon } from "./shari-autumn-salmon.ts";
 import { iizukaDemiHamburg } from "./iizuka-demi-hamburg.ts";
+import { kouragumiBonelessMackerel } from "./kouragumi-boneless-mackerel.ts";
 
 export const products = [
   marnaFrozenRiceContainer,
@@ -53,5 +54,6 @@ export const products = [
   foldablePool,
   redhatUltrasonicRepeller,
   shariAutumnSalmon,
-  iizukaDemiHamburg
+  iizukaDemiHamburg,
+  kouragumiBonelessMackerel
 ];
