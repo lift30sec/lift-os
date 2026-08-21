@@ -1,5 +1,45 @@
 # Discovery Log
 
+## 2026-08-21 20:00 daily run
+
+### Candidate: FIELDOOR アウトドアワゴン ミニ 47L（ダークブラウン）
+
+- Track: `LIFT Classic candidate`
+- Decision: owner approval required before publication
+- Product page:
+  https://item.rakuten.co.jp/smile88/a15251/?variantId=a07646
+- Review source:
+  https://review.rakuten.co.jp/item/1/221746_10065561/1.1/
+
+#### Verified facts
+
+- The signed-in Rakuten purchase history identifies the purchased variant as
+  dark brown, purchased on 2025-08-27. Private order identifiers are not stored.
+- The current listing describes a 47 L folding wagon with a 120 kg static load
+  test result. The listed load figure must not be treated as permission to carry
+  a child.
+- The product review page showed 4.39 from 341 reviews when checked. Recent
+  reviews often mention compact size and easy opening and folding; some mention
+  a stiff handle-lock lever or difficulty standing upright when folded.
+
+#### Owner experience
+
+- The owner's Rakuten review rates the product five stars and says it was already
+  in use shortly after delivery.
+- The review says it was expected to help with small shopping trips. It also
+  mentions use in place of a stroller, but LIFT will not repeat that wording
+  because the listing describes a cargo wagon and does not confirm passenger use.
+
+#### Proposed editorial treatment
+
+- Primary benefit: small-shopping-trip loads can be gathered and moved in one
+  compact wagon.
+- Drawback: none claimed as first-hand experience. The stiff handle lock and
+  folded self-standing issue remain review tendencies unless the owner confirms
+  experiencing either one.
+- Proposed cover insight: `ちょっとした荷物が、一度で運べた。`
+- Proposed Rakuten ROOM search term: `ワゴン`
+
 ## 2026-08-13 manual test run
 
 ### Candidate: Hai Hai キッズテント 3点セット ライトピンク星空柄
