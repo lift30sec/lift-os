@@ -425,3 +425,20 @@ Published content is recorded here after the destination confirms that the post 
 - Disclosure: Instagram and Threads AI labels enabled because the editorial background contains a generated realistic image
 - Affiliate disclosure: none; the purchased product was bought normally by the account owner
 - Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL
+
+### Rakuten ROOM / Instagram / Threads - lift-030
+
+- Status: published
+- Publication slot: 2026-08-21 20:00
+- Actual published at: 2026-08-21 (exact time not exposed by UI)
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: FIELDOOR アウトドアワゴン ミニ 47L（ダークブラウン）
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700389913240280
+- Instagram: https://www.instagram.com/lift.30sec/p/DcTlGy_DxWw/
+- Threads: https://www.threads.com/@lift.30sec/post/DcTlHvUD9fs
+- Source package: `output/publish/lift-030`
+- Threads delivery: Instagram cross-share
+- Disclosure: Instagram and Threads AI labels enabled because the editorial background contains a generated realistic image
+- Affiliate disclosure: none; the product was purchased normally by the account owner
+- Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL
