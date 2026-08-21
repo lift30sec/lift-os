@@ -26,6 +26,7 @@ import { redhatUltrasonicRepeller } from "./redhat-ultrasonic-repeller.ts";
 import { shariAutumnSalmon } from "./shari-autumn-salmon.ts";
 import { iizukaDemiHamburg } from "./iizuka-demi-hamburg.ts";
 import { kouragumiBonelessMackerel } from "./kouragumi-boneless-mackerel.ts";
+import { irisDiamondCoatPan } from "./iris-diamond-coat-pan.ts";
 
 export const products = [
   marnaFrozenRiceContainer,
@@ -55,5 +56,6 @@ export const products = [
   redhatUltrasonicRepeller,
   shariAutumnSalmon,
   iizukaDemiHamburg,
-  kouragumiBonelessMackerel
+  kouragumiBonelessMackerel,
+  irisDiamondCoatPan
 ];

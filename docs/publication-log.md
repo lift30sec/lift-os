@@ -404,3 +404,24 @@ Published content is recorded here after the destination confirms that the post 
 - Disclosure: Instagram and Threads AI labels enabled because the editorial background contains a generated realistic image
 - Affiliate disclosure: none; the product was purchased normally by the account owner
 - Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL
+
+## 2026-08-21
+
+### Rakuten ROOM / Instagram / Threads - lift-029
+
+- Status: published
+- Publication slot: 2026-08-21 12:00
+- Actual published at: 2026-08-21 (exact time not exposed by UI)
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: アイリスオーヤマ ダイヤモンドコートパン 28cm（後継品）
+- Purchased model: `PDCI-S28F` (discontinued)
+- Published successor: `IPDCI-T28F`
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700389860545379
+- Instagram: https://www.instagram.com/lift.30sec/p/DcSlnV2DyAB/
+- Threads: https://www.threads.com/@lift.30sec/post/DcSloakD2A-
+- Source package: `output/publish/lift-029`
+- Threads delivery: Instagram cross-share
+- Disclosure: Instagram and Threads AI labels enabled because the editorial background contains a generated realistic image
+- Affiliate disclosure: none; the purchased product was bought normally by the account owner
+- Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL
