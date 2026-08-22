@@ -188,7 +188,7 @@
 ### Candidate: 山崎実業 tower マグネットシリコーンバンド 2個セット
 
 - Track: `LIFT Classic candidate`
-- Decision: owner experience approval required before publication
+- Decision: approved for production and publication on 2026-08-23
 - Intended publication slot: `2026-08-22 12:00` (oldest unconsumed slot)
 - Purchased listing:
   https://item.rakuten.co.jp/roomy/ymz25mar07h02/?variantId=YMZ5505-SQ026-0I---1308-2S
@@ -203,10 +203,7 @@
 - Recent reviews commonly praise the strong magnet and the ability to keep spray bottles or dispensers off a counter or floor.
 - Review drawbacks cluster around the silicone band being stiff and only fitting a limited range of bottle diameters. These are review tendencies, not owner experience.
 
-#### Owner-experience confirmation required
+#### Owner-experience confirmation completed
 
-- Candidate benefit A: a frequently used spray bottle can be kept within reach without occupying the counter.
-- Candidate benefit B: floating the bottle makes the surrounding surface easier to wipe.
-- Candidate benefit C: a bottle that originally had no magnet can be stored on an unused magnetic wall or appliance side.
-- Candidate drawback: the stiff band and 6-8 cm size range limit which bottles it fits.
-- Do not publish until the owner selects or corrects the benefit and confirms whether the drawback occurred in actual use.
+- Confirmed benefits: floating the bottle makes the surrounding surface easier to wipe, and a bottle that originally had no magnet can be stored on a magnetic wall or appliance side.
+- Confirmed drawback: the stiff band and limited compatible bottle range match the owner's experience.
