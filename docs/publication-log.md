@@ -442,3 +442,22 @@ Published content is recorded here after the destination confirms that the post 
 - Disclosure: Instagram and Threads AI labels enabled because the editorial background contains a generated realistic image
 - Affiliate disclosure: none; the product was purchased normally by the account owner
 - Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL
+
+## 2026-08-23
+
+### Rakuten ROOM / Instagram / Threads - lift-031
+
+- Status: published
+- Publication slot: 2026-08-22 12:00 (backlog; published on 2026-08-23)
+- Actual published at: 2026-08-23 06:06 JST
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: 山崎実業 tower マグネットシリコーンバンド 2個セット
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700390031646250
+- Instagram: https://www.instagram.com/lift.30sec/p/DcW1d-Wkx-I/
+- Threads: https://www.threads.com/@lift.30sec/post/DcW1reMk8bO
+- Source package: `output/publish/lift-031`
+- Threads delivery: direct Threads post using the six-image carousel
+- Disclosure: Instagram AI label enabled because the editorial background contains a generated realistic image; the Threads post did not expose a confirmed AI-label state after publication
+- Affiliate disclosure: none; the product was purchased normally by the account owner
+- Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL
