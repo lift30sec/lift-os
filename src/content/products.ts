@@ -29,6 +29,7 @@ import { kouragumiBonelessMackerel } from "./kouragumi-boneless-mackerel.ts";
 import { irisDiamondCoatPan } from "./iris-diamond-coat-pan.ts";
 import { fieldoorMiniWagon } from "./fieldoor-mini-wagon.ts";
 import { towerMagneticSiliconeBand } from "./tower-magnetic-silicone-band.ts";
+import { sakurakuLDrainingRackRenewal } from "./sakuraku-l-draining-rack-renewal.ts";
 
 export const products = [
   marnaFrozenRiceContainer,
@@ -61,5 +62,6 @@ export const products = [
   kouragumiBonelessMackerel,
   irisDiamondCoatPan,
   fieldoorMiniWagon,
-  towerMagneticSiliconeBand
+  towerMagneticSiliconeBand,
+  sakurakuLDrainingRackRenewal
 ];

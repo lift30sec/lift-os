@@ -461,3 +461,23 @@ Published content is recorded here after the destination confirms that the post 
 - Disclosure: Instagram AI label enabled because the editorial background contains a generated realistic image; the Threads post did not expose a confirmed AI-label state after publication
 - Affiliate disclosure: none; the product was purchased normally by the account owner
 - Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL
+
+## 2026-08-24
+
+### Rakuten ROOM / Instagram / Threads - lift-032
+
+- Status: published
+- Publication slot: 2026-08-23 12:00 (backlog; published on 2026-08-24)
+- Actual published at: 2026-08-24 (exact time not exposed by UI)
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: SAKuRAKu 水切りラック L型（リニューアル品）
+- Experience basis: official specifications and purchaser-review research; not personally tested
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700390151301782
+- Instagram: https://www.instagram.com/lift.30sec/p/DcZ0vzxD8pk/
+- Threads: https://www.threads.com/@lift.30sec/post/DcZ0wrAj7Ri
+- Source package: `output/publish/lift-032`
+- Threads delivery: Instagram cross-share
+- Disclosure: Instagram and Threads AI labels enabled because the editorial background contains a generated realistic image
+- Affiliate disclosure: research disclosure included; no product provision, special coupon, sponsorship, or event relationship was stated
+- Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL and `AIコンテンツ` label

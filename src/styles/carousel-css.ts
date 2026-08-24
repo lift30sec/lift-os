@@ -450,8 +450,10 @@ h2 {
   font-size: 19px;
   letter-spacing: .14em;
 }
-.editorial-drawback li {
-  font-size: 22px;
+.editorial-drawback li,
+.editorial-drawback p {
+  margin: 0;
+  font-size: 25px;
   line-height: 1.55;
 }
 .editorial-insight__visual {

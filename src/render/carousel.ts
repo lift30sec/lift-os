@@ -67,6 +67,7 @@ function renderCompliantCover(
   const kicker = escapeHtml(product.content.coverKicker ?? "");
   const series = escapeHtml(product.content.coverSeries ?? product.category);
   const sequence = escapeHtml(product.content.coverSequence ?? "01");
+  const isSelect = product.editorialTrack === "select";
 
   return `<main class="page compliant-cover">
     <section class="${contextClass}">
@@ -87,9 +88,9 @@ function renderCompliantCover(
     </section>
     <section class="compliant-product">
       <div class="compliant-product__copy">
-        <div>実際に使ってよかったもの</div>
+        <div>${isSelect ? "調査して選んだもの" : "実際に使ってよかったもの"}</div>
         <h2>${label}</h2>
-        <p>使って分かったことを、正直にまとめます。</p>
+        <p>${isSelect ? "公式仕様と購入者レビューを、正直にまとめます。" : "使って分かったことを、正直にまとめます。"}</p>
       </div>
       <figure>${affiliateImage}</figure>
     </section>
@@ -149,9 +150,13 @@ export function renderCarousel(product: ProductRecord): RenderedPage[] {
   const roomSearchKeyword = escapeHtml(product.content.roomSearchKeyword);
   const strengths = product.strengths.map((item) => `<li>${escapeHtml(item)}</li>`).join("");
   const drawbacks = product.drawbacks.map((item) => `<li>${escapeHtml(item)}</li>`).join("");
+  const reviewHeading =
+    product.editorialTrack === "select"
+      ? "調べて分かった、<br>良かった点。"
+      : "使って分かった、<br>良かった点。";
   const drawbackPanel = product.drawbacks.length
     ? `<section class="editorial-drawback"><h3>惜しい点</h3><ul>${drawbacks}</ul></section>`
-    : "";
+    : `<section class="editorial-drawback"><h3>惜しい点</h3><p>今のところ、特に惜しい点はありません。</p></section>`;
   const editorialPages = Boolean(product.editorialCover);
   const pages = [
     renderCover(product, title, label),
@@ -195,7 +200,7 @@ export function renderCarousel(product: ProductRecord): RenderedPage[] {
             </figure>
             <div class="editorial-review__copy">
               <div class="editorial-copy__eyebrow">正直レビュー</div>
-              <section class="editorial-strengths"><h2>使って分かった、<br>良かった点。</h2><ul>${strengths}</ul></section>
+              <section class="editorial-strengths"><h2>${reviewHeading}</h2><ul>${strengths}</ul></section>
               ${drawbackPanel}
             </div>
           </section>
