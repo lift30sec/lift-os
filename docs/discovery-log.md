@@ -207,3 +207,25 @@
 
 - Confirmed benefits: floating the bottle makes the surrounding surface easier to wipe, and a bottle that originally had no magnet can be stored on a magnetic wall or appliance side.
 - Confirmed drawback: the stiff band and limited compatible bottle range match the owner's experience.
+
+## 2026-08-24 daily run
+
+### Candidate: アイリスオーヤマ ダイヤモンドコートパン ガラス蓋28cm H-IS-GL28
+
+- Track: `LIFT Classic`
+- Decision: approved and published as `lift-033`
+- Intended publication slot: `2026-08-24 12:00`
+- Product page: https://item.rakuten.co.jp/enetroom/527405/
+- Review page: https://review.rakuten.co.jp/item/1/202126_10085039/1.1/
+
+#### Verified facts
+
+- The active Rakuten listing identifies the product as model `H-IS-GL28`, size 28 cm, made with glass, and not dishwasher-safe.
+- The signed-in Rakuten purchase history confirms the account owner purchased this product. Private order identifiers are not stored.
+
+#### Owner experience and editorial treatment
+
+- The previously used 26 cm lid had a folding handle whose movable joint retained water and dried slowly after washing.
+- The 28 cm lid has a fixed knob, so there is no movable joint gap where water collects; the owner finds it easier to dry.
+- No current drawback was identified. The standardized no-drawback statement remains visible: `今のところ、特に惜しい点はありません。`
+- The accidental purchase of a 28 cm pan was omitted from public copy because it is not a product benefit.

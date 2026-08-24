@@ -481,3 +481,21 @@ Published content is recorded here after the destination confirms that the post 
 - Disclosure: Instagram and Threads AI labels enabled because the editorial background contains a generated realistic image
 - Affiliate disclosure: research disclosure included; no product provision, special coupon, sponsorship, or event relationship was stated
 - Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL and `AIコンテンツ` label
+
+### Rakuten ROOM / Instagram / Threads - lift-033
+
+- Status: published
+- Publication slot: 2026-08-24 12:00
+- Actual published at: 2026-08-24 17:18 JST
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: アイリスオーヤマ ダイヤモンドコートパン ガラス蓋28cm H-IS-GL28
+- Experience basis: personally used after purchasing the matching 28cm lid
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700390195473595
+- Instagram: https://www.instagram.com/p/DcajR_gj3Zr/
+- Threads: https://www.threads.com/@lift.30sec/post/DcajSw6j9Cu
+- Source package: `output/publish/lift-033`
+- Threads delivery: Instagram cross-share
+- Disclosure: Instagram AI label enabled because the editorial background contains a generated realistic image; the Threads post did not expose a confirmed AI-label state after publication
+- Affiliate disclosure: none; the product was purchased normally by the account owner
+- Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL
