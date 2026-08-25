@@ -31,6 +31,7 @@ import { fieldoorMiniWagon } from "./fieldoor-mini-wagon.ts";
 import { towerMagneticSiliconeBand } from "./tower-magnetic-silicone-band.ts";
 import { sakurakuLDrainingRackRenewal } from "./sakuraku-l-draining-rack-renewal.ts";
 import { irisGlassLid28cm } from "./iris-glass-lid-28cm.ts";
+import { jotoKaShutKun } from "./joto-ka-shut-kun.ts";
 
 export const products = [
   marnaFrozenRiceContainer,
@@ -65,5 +66,6 @@ export const products = [
   fieldoorMiniWagon,
   towerMagneticSiliconeBand,
   sakurakuLDrainingRackRenewal,
-  irisGlassLid28cm
+  irisGlassLid28cm,
+  jotoKaShutKun
 ];

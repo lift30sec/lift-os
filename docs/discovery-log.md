@@ -229,3 +229,24 @@
 - The 28 cm lid has a fixed knob, so there is no movable joint gap where water collects; the owner finds it easier to dry.
 - No current drawback was identified. The standardized no-drawback statement remains visible: `今のところ、特に惜しい点はありません。`
 - The accidental purchase of a 28 cm pan was omitted from public copy because it is not a product benefit.
+
+## 2026-08-24 20:00 daily run
+
+### Candidate: JOTO製2穴小用 蚊シャットくん joto-25-47
+
+- Track: `LIFT Classic`
+- Decision: approved and published as `lift-034` on 2026-08-25
+- Intended publication slot: `2026-08-24 20:00`
+- Product page: https://item.rakuten.co.jp/ookura-hiroshima/k-016/
+
+#### Verified facts
+
+- The signed-in Rakuten purchase history confirms the account owner purchased the JOTO small two-hole model. Private order identifiers are not stored.
+- The active product page identifies product number `joto-25-47`, a 25 x 47 mm lid-hole size, SUS304 stainless steel, 20-mesh netting, and 0.3 mm wire diameter.
+- The product page states that debris collected in the net should be removed by turning it over and emptying it.
+
+#### Owner experience and editorial treatment
+
+- Confirmed benefit: small stones no longer fall through the rainwater-basin lid holes into the basin.
+- Confirmed drawback: stones and gravel can clog the mesh and prevent rainwater from draining properly.
+- Public copy focuses on debris prevention rather than claiming a personally confirmed mosquito reduction.

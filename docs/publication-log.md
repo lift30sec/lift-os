@@ -499,3 +499,23 @@ Published content is recorded here after the destination confirms that the post 
 - Disclosure: Instagram AI label enabled because the editorial background contains a generated realistic image; the Threads post did not expose a confirmed AI-label state after publication
 - Affiliate disclosure: none; the product was purchased normally by the account owner
 - Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL
+
+## 2026-08-25
+
+### Rakuten ROOM / Instagram / Threads - lift-034
+
+- Status: published
+- Publication slot: 2026-08-24 20:00 (published on 2026-08-25)
+- Actual published at: 2026-08-25 09:46 JST
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: JOTO製2穴小用 蚊シャットくん joto-25-47
+- Experience basis: personally used after normal purchase
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700390289496313
+- Instagram: https://www.instagram.com/p/DccYSyPD4Lu/
+- Threads: https://www.threads.com/@lift.30sec/post/DccYTzSD58Y
+- Source package: `output/publish/lift-034`
+- Threads delivery: Instagram cross-share
+- Disclosure: Instagram and Threads AI labels enabled because the editorial background contains a generated realistic image
+- Affiliate disclosure: none; the product was purchased normally by the account owner
+- Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL and `AIコンテンツ` label
