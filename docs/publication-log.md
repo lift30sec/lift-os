@@ -502,6 +502,24 @@ Published content is recorded here after the destination confirms that the post 
 - Affiliate disclosure: none; the product was purchased normally by the account owner
 - Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL and `AIコンテンツ` label
 
+### Rakuten ROOM / Instagram / Threads - lift-036
+
+- Status: published
+- Publication slot: 2026-08-26 12:00
+- Actual published at: 2026-08-26 15:52 JST
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: 宮崎県綾町 宮崎県産 豚こま切れ＆ミンチセット
+- Experience basis: personally consumed after receiving it as a hometown-tax donation gift; used as a year-round freezer stock
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700390457508200
+- Instagram: https://www.instagram.com/lift.30sec/p/Dcfm0F1jyvK/
+- Threads: https://www.threads.com/@lift.30sec/post/DcfnCsaj46H
+- Source package: `output/publish/lift-036`
+- Threads delivery: direct Threads text post
+- Disclosure: Instagram AI label enabled because the editorial background contains a generated realistic image; the Threads post did not expose a confirmed AI-label state after publication
+- Affiliate disclosure: none; the item was received through a normal hometown-tax donation
+- Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads displayed `投稿されました` and exposed the new post URL
+
 ### Rakuten ROOM / Instagram / Threads - lift-033
 
 - Status: published
