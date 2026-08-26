@@ -34,6 +34,7 @@ import { irisGlassLid28cm } from "./iris-glass-lid-28cm.ts";
 import { jotoKaShutKun } from "./joto-ka-shut-kun.ts";
 import { weimallExpandableHose } from "./weimall-expandable-hose.ts";
 import { ayaPorkStock } from "./aya-pork-stock.ts";
+import { tccChildSeatMat } from "./tcc-child-seat-mat.ts";
 
 export const products = [
   marnaFrozenRiceContainer,
@@ -71,5 +72,6 @@ export const products = [
   irisGlassLid28cm,
   jotoKaShutKun,
   weimallExpandableHose,
-  ayaPorkStock
+  ayaPorkStock,
+  tccChildSeatMat
 ];

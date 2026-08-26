@@ -520,6 +520,24 @@ Published content is recorded here after the destination confirms that the post 
 - Affiliate disclosure: none; the item was received through a normal hometown-tax donation
 - Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads displayed `投稿されました` and exposed the new post URL
 
+### Rakuten ROOM / Instagram / Threads - lift-037
+
+- Status: published
+- Publication slot: 2026-08-26 20:00
+- Actual published at: 2026-08-26 22:16 JST
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: TCC チャイルドシート保護マット
+- Experience basis: personally used after normal purchase
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700390500620168
+- Instagram: https://www.instagram.com/lift.30sec/p/DcgS6VIDxVF/
+- Threads: https://www.threads.com/@lift.30sec/post/DcgS8J_j8lO
+- Source package: `output/publish/lift-037`
+- Threads delivery: Instagram cross-share
+- Disclosure: Instagram and Threads AI labels enabled because the editorial background contains a generated realistic image
+- Affiliate disclosure: none; the product was purchased normally by the account owner
+- Confirmation: the existing Rakuten ROOM post was retained; the incorrect Instagram and Threads posts were deleted; the corrected Instagram post displayed `投稿をシェアしました`; Threads exposed the corrected post URL and `AIコンテンツ` label
+
 ### Rakuten ROOM / Instagram / Threads - lift-033
 
 - Status: published
