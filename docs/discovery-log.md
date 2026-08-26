@@ -250,3 +250,25 @@
 - Confirmed benefit: small stones no longer fall through the rainwater-basin lid holes into the basin.
 - Confirmed drawback: stones and gravel can clog the mesh and prevent rainwater from draining properly.
 - Public copy focuses on debris prevention rather than claiming a personally confirmed mosquito reduction.
+
+## 2026-08-25 20:00 daily run
+
+### Candidate: WEIMALL 伸縮ホース 改良版 5m〜15m A23E
+
+- Track: `LIFT Classic`
+- Decision: approved and published as `lift-035` on 2026-08-26
+- Intended publication slot: `2026-08-25 20:00`
+- Product page: https://item.rakuten.co.jp/weimall/a23e/
+- Affiliate asset page: https://affiliate.rakuten.co.jp/link/pc/item?type=item&me_id=1301874&item_id=10017544&l-id=af_header_cta_link
+
+#### Verified facts
+
+- The active Rakuten listing identifies product number `A23E`, a normal length of about 5 m, an in-use length of about 15 m, seven spray patterns, and an approximate weight of 1.25 kg.
+- The account owner confirmed that this active listing is the same product as the purchased item.
+- The product image was obtained from the Rakuten Affiliate link-creation screen and kept unmodified in a separate image region.
+
+#### Owner experience and editorial treatment
+
+- Confirmed benefit: the hose contracts after use and is easier to store than a long hose that must be wound up.
+- Confirmed drawback: durability is still being evaluated because negative durability comments are common; there has been no problem in the owner's second year of use so far.
+- Public copy separates the review tendency from the owner's current two-year experience.

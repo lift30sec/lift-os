@@ -482,6 +482,26 @@ Published content is recorded here after the destination confirms that the post 
 - Affiliate disclosure: research disclosure included; no product provision, special coupon, sponsorship, or event relationship was stated
 - Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL and `AIコンテンツ` label
 
+## 2026-08-26
+
+### Rakuten ROOM / Instagram / Threads - lift-035
+
+- Status: published
+- Publication slot: 2026-08-25 20:00 (backlog; published on 2026-08-26)
+- Actual published at: 2026-08-26 13:26 JST
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: WEIMALL 伸縮ホース 改良版 5m〜15m A23E
+- Experience basis: personally used after normal purchase; currently in the second year of use
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700390444422162
+- Instagram: https://www.instagram.com/p/DcfWNu9D4D0/
+- Threads: https://www.threads.com/@lift.30sec/post/DcfWOr-jyTw
+- Source package: `output/publish/lift-035`
+- Threads delivery: Instagram cross-share
+- Disclosure: Instagram and Threads AI labels enabled because the editorial background contains a generated realistic image
+- Affiliate disclosure: none; the product was purchased normally by the account owner
+- Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL and `AIコンテンツ` label
+
 ### Rakuten ROOM / Instagram / Threads - lift-033
 
 - Status: published

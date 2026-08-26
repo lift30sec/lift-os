@@ -32,6 +32,7 @@ import { towerMagneticSiliconeBand } from "./tower-magnetic-silicone-band.ts";
 import { sakurakuLDrainingRackRenewal } from "./sakuraku-l-draining-rack-renewal.ts";
 import { irisGlassLid28cm } from "./iris-glass-lid-28cm.ts";
 import { jotoKaShutKun } from "./joto-ka-shut-kun.ts";
+import { weimallExpandableHose } from "./weimall-expandable-hose.ts";
 
 export const products = [
   marnaFrozenRiceContainer,
@@ -67,5 +68,6 @@ export const products = [
   towerMagneticSiliconeBand,
   sakurakuLDrainingRackRenewal,
   irisGlassLid28cm,
-  jotoKaShutKun
+  jotoKaShutKun,
+  weimallExpandableHose
 ];

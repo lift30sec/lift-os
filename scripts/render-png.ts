@@ -12,10 +12,6 @@ const productDirs = (await readdir(outputDir, { withFileTypes: true }))
   .sort();
 
 const browser = await chromium.launch({ channel: "chrome", headless: true });
-const page = await browser.newPage({
-  viewport: { width: 1080, height: 1350 },
-  deviceScaleFactor: 1
-});
 
 try {
   for (const productDir of productDirs) {
@@ -25,20 +21,28 @@ try {
       .sort();
 
     for (const filename of pages) {
+      const page = await browser.newPage({
+        viewport: { width: 1080, height: 1350 },
+        deviceScaleFactor: 1
+      });
       const htmlPath = resolve(sourceDir, filename);
-      await page.goto(pathToFileURL(htmlPath).href, { waitUntil: "networkidle" });
-      await page.evaluate(async () => {
-        await document.fonts.ready;
-        await Promise.all([...document.images].map((image) => image.decode()));
-        await new Promise<void>((done) =>
-          requestAnimationFrame(() => requestAnimationFrame(() => done()))
-        );
-        window.scrollTo(0, 0);
-      });
-      await page.screenshot({
-        path: resolve(sourceDir, filename.replace(/\.html$/, ".png")),
-        fullPage: false
-      });
+      try {
+        await page.goto(pathToFileURL(htmlPath).href, { waitUntil: "networkidle" });
+        await page.evaluate(async () => {
+          await document.fonts.ready;
+          await Promise.all([...document.images].map((image) => image.decode()));
+          await new Promise<void>((done) =>
+            requestAnimationFrame(() => requestAnimationFrame(() => done()))
+          );
+          window.scrollTo(0, 0);
+        });
+        await page.screenshot({
+          path: resolve(sourceDir, filename.replace(/\.html$/, ".png")),
+          fullPage: false
+        });
+      } finally {
+        await page.close();
+      }
     }
   }
 } finally {
