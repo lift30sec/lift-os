@@ -482,6 +482,26 @@ Published content is recorded here after the destination confirms that the post 
 - Affiliate disclosure: research disclosure included; no product provision, special coupon, sponsorship, or event relationship was stated
 - Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL and `AIコンテンツ` label
 
+## 2026-08-28
+
+### Rakuten ROOM / Instagram / Threads - lift-039
+
+- Status: published
+- Publication slot: 2026-08-27 20:00 (published on 2026-08-28)
+- Actual published at: 2026-08-28 07:59 JST
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: 芦森工業 吸水くん S 100枚入
+- Experience basis: purchased as emergency supplies and personally used
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700390646207978
+- Instagram: https://www.instagram.com/lift.30sec/p/Dcj6QIdj-gr/
+- Threads: https://www.threads.com/@lift.30sec/post/Dcj6i45jy0K
+- Source package: `output/publish/lift-039`
+- Threads delivery: direct Threads post with Rakuten ROOM URL
+- Disclosure: Instagram and Threads AI labels enabled because the editorial background contains a generated realistic image
+- Affiliate disclosure: none; the product was purchased normally by the account owner
+- Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL and `AIコンテンツ` label
+
 ## 2026-08-26
 
 ### Rakuten ROOM / Instagram / Threads - lift-035

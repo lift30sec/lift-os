@@ -294,3 +294,25 @@
 - Confirmed benefit: the soft beige body with black ear loops feels more stylish than a plain mask to the account owner.
 - No current drawback was identified. The standardized statement is used: `今のところ、特に惜しい点はありません。`
 - Public copy presents the style assessment as the owner's impression rather than an objective product claim.
+
+## 2026-08-27 20:00 daily run
+
+### Candidate: 芦森工業 吸水くん S 100枚入
+
+- Track: `LIFT Classic`
+- Decision: approved and published as `lift-039` on 2026-08-28
+- Intended publication slot: `2026-08-27 20:00`
+- Product page: https://item.rakuten.co.jp/sogobousaicenter/231009002/
+
+#### Verified facts
+
+- The Rakuten product page lists dimensions of 28 × 49 × 0.2 cm and absorption of about 3 L per sheet.
+- The listing describes use for broken pipes, ceiling leaks, bathroom overflow, rainwater intrusion, and puddles.
+- The case contains 100 sheets.
+
+#### Owner experience and editorial treatment
+
+- The account owner purchased the product as emergency supplies and has used it.
+- Confirmed benefit: one sheet absorbs about 3 L.
+- Confirmed drawback: at maximum absorption it weighs more than 3 kg, so placing it directly on ceiling board may damage the board.
+- Public copy advises placing it where the absorbed weight can be supported. It does not claim that recovery is difficult.

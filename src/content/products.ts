@@ -36,6 +36,7 @@ import { weimallExpandableHose } from "./weimall-expandable-hose.ts";
 import { ayaPorkStock } from "./aya-pork-stock.ts";
 import { tccChildSeatMat } from "./tcc-child-seat-mat.ts";
 import { garageCollectionMask } from "./garage-collection-mask.ts";
+import { ashimoriKyusuikunS } from "./ashimori-kyusuikun-s.ts";
 
 export const products = [
   marnaFrozenRiceContainer,
@@ -75,5 +76,6 @@ export const products = [
   weimallExpandableHose,
   ayaPorkStock,
   tccChildSeatMat,
-  garageCollectionMask
+  garageCollectionMask,
+  ashimoriKyusuikunS
 ];
