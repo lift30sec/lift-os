@@ -538,6 +538,26 @@ Published content is recorded here after the destination confirms that the post 
 - Affiliate disclosure: none; the product was purchased normally by the account owner
 - Confirmation: the existing Rakuten ROOM post was retained; the incorrect Instagram and Threads posts were deleted; the corrected Instagram post displayed `投稿をシェアしました`; Threads exposed the corrected post URL and `AIコンテンツ` label
 
+## 2026-08-27
+
+### Rakuten ROOM / Instagram / Threads - lift-038
+
+- Status: published
+- Publication slot: 2026-08-27 12:00
+- Actual published at: 2026-08-27 17:15 JST
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: GARAGE COLLECTION 立体不織布マスク オールドレース×ブラック
+- Experience basis: personally used after normal purchase
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700390579390103
+- Instagram: https://www.instagram.com/lift.30sec/p/DciU36XD1XF/
+- Threads: https://www.threads.com/@lift.30sec/post/DciVY70DwzX
+- Source package: `output/publish/lift-038`
+- Threads delivery: direct Threads post with Rakuten ROOM URL
+- Disclosure: Instagram and Threads AI labels enabled because the editorial background contains a generated realistic image
+- Affiliate disclosure: none; the product was purchased normally by the account owner
+- Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL and `AIコンテンツ` label
+
 ### Rakuten ROOM / Instagram / Threads - lift-033
 
 - Status: published

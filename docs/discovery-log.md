@@ -272,3 +272,25 @@
 - Confirmed benefit: the hose contracts after use and is easier to store than a long hose that must be wound up.
 - Confirmed drawback: durability is still being evaluated because negative durability comments are common; there has been no problem in the owner's second year of use so far.
 - Public copy separates the review tendency from the owner's current two-year experience.
+
+## 2026-08-27 12:00 daily run
+
+### Candidate: GARAGE COLLECTION 立体不織布マスク オールドレース×ブラック
+
+- Track: `LIFT Classic`
+- Decision: approved and published as `lift-038` on 2026-08-27
+- Intended publication slot: `2026-08-27 12:00`
+- Product page: https://item.rakuten.co.jp/weiwei/bwm8yp/?variantId=BWMU75OBX
+- Affiliate asset page: https://affiliate.rakuten.co.jp/link/pc/item?type=item&me_id=1280948&item_id=10022881&l-id=af_header_cta_link
+
+#### Verified facts
+
+- The active Rakuten listing covers the GARAGE COLLECTION nonwoven mask range, including bicolor options.
+- The account owner identified the purchased and used color as `オールドレース×ブラック`.
+- The official product image was obtained from the Rakuten Affiliate link-creation screen and kept unmodified in a separate image region.
+
+#### Owner experience and editorial treatment
+
+- Confirmed benefit: the soft beige body with black ear loops feels more stylish than a plain mask to the account owner.
+- No current drawback was identified. The standardized statement is used: `今のところ、特に惜しい点はありません。`
+- Public copy presents the style assessment as the owner's impression rather than an objective product claim.
