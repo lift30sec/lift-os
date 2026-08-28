@@ -37,6 +37,7 @@ import { ayaPorkStock } from "./aya-pork-stock.ts";
 import { tccChildSeatMat } from "./tcc-child-seat-mat.ts";
 import { garageCollectionMask } from "./garage-collection-mask.ts";
 import { ashimoriKyusuikunS } from "./ashimori-kyusuikun-s.ts";
+import { kaoHandSquishEx } from "./kao-hand-squish-ex.ts";
 
 export const products = [
   marnaFrozenRiceContainer,
@@ -77,5 +78,6 @@ export const products = [
   ayaPorkStock,
   tccChildSeatMat,
   garageCollectionMask,
-  ashimoriKyusuikunS
+  ashimoriKyusuikunS,
+  kaoHandSquishEx
 ];

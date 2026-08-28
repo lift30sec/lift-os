@@ -316,3 +316,25 @@
 - Confirmed benefit: one sheet absorbs about 3 L.
 - Confirmed drawback: at maximum absorption it weighs more than 3 kg, so placing it directly on ceiling board may damage the board.
 - Public copy advises placing it where the absorbed weight can be supported. It does not claim that recovery is difficult.
+
+## 2026-08-28 12:00 daily run
+
+### Candidate: 花王 ハンドスキッシュEX 業務用 4.5L×3本
+
+- Track: `LIFT Classic`
+- Decision: approved and published as `lift-040` on 2026-08-28
+- Intended publication slot: `2026-08-28 12:00`
+- Product page: https://item.rakuten.co.jp/k-relight/003-4901301507211cs/
+
+#### Verified facts
+
+- The active Rakuten listing identifies the item as three 4.5 L refill containers of Kao Hand Squish EX.
+- The listing describes it as a rinse-free, quick-drying rub-in hand disinfectant and a designated quasi-drug for cleansing and disinfecting hands and skin.
+- The product image was obtained from the active Rakuten product page and kept unmodified in a separate image region.
+
+#### Owner experience and editorial treatment
+
+- The account owner purchased the product and uses it for hand disinfection.
+- Confirmed benefit: three 4.5 L refill containers can be stocked together, reducing the need to buy replacements whenever the remaining amount runs low.
+- No current drawback was identified. The standardized statement is used: `今のところ、特に惜しい点はありません。`
+- Public copy avoids adding unconfirmed performance claims and focuses on keeping a daily consumable in stock.
