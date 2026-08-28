@@ -243,6 +243,26 @@ Published content is recorded here after the destination confirms that the post 
 - Affiliate disclosure: none; the product was purchased normally by the account owner
 - Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL
 
+## 2026-08-28
+
+### Rakuten ROOM / Instagram / Threads - lift-041
+
+- Status: published
+- Publication slot: 2026-08-28 20:00
+- Actual published at: 2026-08-28 21:55 JST
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: UAUU MagSafe対応カードケース・スマホスタンド
+- Experience basis: personally used after normal purchase
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700390727973140
+- Instagram: https://www.instagram.com/lift.30sec/p/DclaJtYjxdX/
+- Threads: https://www.threads.com/@lift.30sec/post/DclaKgrD39S
+- Source package: `output/publish/lift-041`
+- Threads delivery: Instagram cross-share
+- Disclosure: Instagram AI label enabled because the editorial background contains a generated realistic image; the Threads post did not expose a confirmed AI-label state after publication
+- Affiliate disclosure: none; the product was purchased normally by the account owner
+- Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL
+
 - Republishing: the original Instagram `Db-7xj2D8LX` and Threads `Db-7ybhj0Q0` posts were deleted and replaced on 2026-08-17 to remove internal verification language from the public review image
 
 - Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿がシェアされました。`; Threads exposed the new post URL

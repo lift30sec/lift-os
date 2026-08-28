@@ -8,8 +8,11 @@ import {
 
 const templateVersion = "editorial-carousel-v2";
 const templateApprovedOn = "2026-07-31";
+const requestedProducts = new Set(process.argv.slice(2));
 
-for (const product of products) {
+for (const product of products.filter(
+  (product) => !requestedProducts.size || requestedProducts.has(product.id)
+)) {
   const errors = validateProduct(product);
   if (errors.length) {
     throw new Error(`${product.id} is invalid:\n${errors.join("\n")}`);

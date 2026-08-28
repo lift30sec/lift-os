@@ -127,3 +127,13 @@
 - 背景の扱い: 実商品ではなく、家庭での水遊びを連想させるAI生成の編集用背景。
 - 背景生成モード: built-in ImageGen。実商品・人物・ブランド・文字を含めず、夏の朝の自然光が入る明るい庭として生成。
 - 背景生成指示: `Create a photorealistic editorial background image for a Japanese lifestyle Instagram carousel, portrait 4:5 (1080x1350 composition). Bright summer morning in a clean contemporary Japanese backyard terrace, soft natural daylight, pale warm stone or light wood deck, subtle green foliage, gentle water reflections and a few tasteful children's water-play cues (small bucket or towel) near the edges. Leave generous calm negative space in the upper-middle for Japanese headline text. Do NOT show any swimming pool product, brand, packaging, people, text, letters, numbers, logos, or watermarks. The image is only contextual background, not the advertised product. LIFT brand mood: refined Japanese lifestyle editorial, warm, airy, trustworthy, not glossy advertising, not dark, not overly saturated.`
+
+## UAUU MagSafe対応カードケース・スマホスタンド
+
+- 商品画像: `assets/products/uauu-magsafe-stand/official-product.jpg`
+- 出典: `https://item.rakuten.co.jp/uauu/u-1839b/?variantId=u-1839-5`
+- 公式画像URL: `https://image.rakuten.co.jp/uauu/cabinet/1800-1849/1839c1.jpg`
+- 用途: 楽天市場の商品ページで確認した公式商品素材。トリミング・文字重ねなし。
+- 取得日: 2026-08-28
+- 背景: `assets/products/oshasta-smartphone-stand/generated-phone-context-v1.png`
+- 背景の扱い: 同種商品の利用場面を表す既存のAI生成編集用背景。実商品画像とは別領域で使用。

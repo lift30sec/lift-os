@@ -38,6 +38,7 @@ import { tccChildSeatMat } from "./tcc-child-seat-mat.ts";
 import { garageCollectionMask } from "./garage-collection-mask.ts";
 import { ashimoriKyusuikunS } from "./ashimori-kyusuikun-s.ts";
 import { kaoHandSquishEx } from "./kao-hand-squish-ex.ts";
+import { uauuMagsafeStand } from "./uauu-magsafe-stand.ts";
 
 export const products = [
   marnaFrozenRiceContainer,
@@ -79,5 +80,6 @@ export const products = [
   tccChildSeatMat,
   garageCollectionMask,
   ashimoriKyusuikunS,
-  kaoHandSquishEx
+  kaoHandSquishEx,
+  uauuMagsafeStand
 ];

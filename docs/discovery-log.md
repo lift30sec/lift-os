@@ -338,3 +338,25 @@
 - Confirmed benefit: three 4.5 L refill containers can be stocked together, reducing the need to buy replacements whenever the remaining amount runs low.
 - No current drawback was identified. The standardized statement is used: `今のところ、特に惜しい点はありません。`
 - Public copy avoids adding unconfirmed performance claims and focuses on keeping a daily consumable in stock.
+
+## 2026-08-28 20:00 daily run
+
+### Candidate: UAUU MagSafe対応カードケース・スマホスタンド
+
+- Track: `LIFT Classic`
+- Decision: approved and published as `lift-041` on 2026-08-28
+- Intended publication slot: `2026-08-28 20:00`
+- Product page: https://item.rakuten.co.jp/uauu/u-1839b/?variantId=u-1839-5
+
+#### Verified facts
+
+- The active Rakuten listing identifies the item as a MagSafe-compatible card case and folding smartphone stand.
+- The product image was obtained from the active Rakuten product page and kept unmodified in a separate image region.
+- A previously published card case and smartphone stand (`lift-019`) was a different product listing and was retained as a separate comparison reference.
+
+#### Owner experience and editorial treatment
+
+- The account owner has used this product.
+- Confirmed benefit: it costs less and feels significantly lighter than the previously used product.
+- Confirmed drawback: threads have gradually appeared at the side. There is currently no effect on appearance or use, but durability remains under observation.
+- Public copy does not claim that durability is poor; it states that durability is still being checked.
