@@ -536,9 +536,9 @@ Published content is recorded here after the destination confirms that the post 
 - Threads: https://www.threads.com/@lift.30sec/post/Dcn0yH9D2wF
 - Source package: `output/publish/lift-043`
 - Threads delivery: Instagram cross-share
-- Disclosure: Threads exposed the `AIコンテンツ` label; the Instagram AI-label state requires confirmation
+- Disclosure: neither Instagram nor Threads exposed a confirmed AI label after publication
 - Affiliate disclosure: none; the product was purchased normally by the account owner
-- Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL
+- Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL; both published posts were checked again on 2026-08-30 and no AI label was displayed
 
 ## 2026-08-28
 
