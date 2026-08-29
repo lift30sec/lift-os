@@ -360,3 +360,43 @@
 - Confirmed benefit: it costs less and feels significantly lighter than the previously used product.
 - Confirmed drawback: threads have gradually appeared at the side. There is currently no effect on appearance or use, but durability remains under observation.
 - Public copy does not claim that durability is poor; it states that durability is still being checked.
+
+## 2026-08-29 12:00 daily run
+
+### Candidate: サンワダイレクト 後部座席用MagSafeスマホホルダー 200-CAR107
+
+- Track: `LIFT Classic`
+- Decision: approved and published as `lift-042` on 2026-08-29
+- Product page: https://item.rakuten.co.jp/sanwadirect/200-car107/
+
+#### Verified facts
+
+- The active Rakuten listing identifies the product as a rear-seat headrest-mounted MagSafe car holder.
+- The listing describes support for smartphones and tablets and includes a metal ring.
+
+#### Owner experience and editorial treatment
+
+- The account owner has used this product.
+- Confirmed benefit: smartphones and tablets can be fixed in the rear seat, and the magnetic strength is sufficient.
+- Confirmed drawback: the strong magnet may pull an aftermarket adhesive magnet ring away from the case when the device is removed.
+- Public copy describes this as a handling precaution rather than a product failure.
+
+## 2026-08-29 20:00 daily run
+
+### Candidate: KLOUDIC 小型除湿機 1000ml
+
+- Track: `LIFT Classic`
+- Decision: approved and published as `lift-043` on 2026-08-29
+- Product page: https://item.rakuten.co.jp/gaoye/mame-cs01-rms-1/?variantId=MK-CS01-JP-01-14
+
+#### Verified facts
+
+- The active Rakuten listing identifies the product as a compact 1000 ml dehumidifier using a Peltier system.
+- The listing describes an automatic stop function when the tank is full.
+
+#### Owner experience and editorial treatment
+
+- The account owner has used this product.
+- Confirmed benefit: the dehumidifying performance feels strong, and the collected water amount is visible in the tank.
+- No current drawback was identified. The standardized statement is used: `今のところ、特に惜しい点はありません。`
+- Public copy presents the performance assessment as the owner's experience rather than a measured specification.

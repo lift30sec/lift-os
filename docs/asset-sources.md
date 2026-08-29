@@ -137,3 +137,23 @@
 - 取得日: 2026-08-28
 - 背景: `assets/products/oshasta-smartphone-stand/generated-phone-context-v1.png`
 - 背景の扱い: 同種商品の利用場面を表す既存のAI生成編集用背景。実商品画像とは別領域で使用。
+
+## サンワダイレクト 後部座席用MagSafeスマホホルダー 200-CAR107
+
+- 商品画像: `assets/products/sanwa-rear-seat-magsafe-holder/official-product.jpg`
+- 出典: `https://item.rakuten.co.jp/sanwadirect/200-car107/`
+- 公式画像URL: `https://tshop.r10s.jp/sanwadirect/cabinet/2/200-car107.jpg?downsize=400:*`
+- 用途: 楽天市場の商品ページで確認した公式商品素材。文字重ねなし。
+- 取得日: 2026-08-29
+- 背景: `assets/products/sanwa-rear-seat-magsafe-holder/generated-car-context-v1.png`
+- 背景生成モード: built-in ImageGen。実商品・人物・ブランド・文字を含めず、後部座席とヘッドレストが分かる明るい車内として生成。
+
+## KLOUDIC 小型除湿機 1000ml
+
+- 商品画像: `assets/products/kloudic-dehumidifier/official-product.jpg`
+- 出典: `https://item.rakuten.co.jp/gaoye/mame-cs01-rms-1/?variantId=MK-CS01-JP-01-14`
+- 公式画像URL: `https://image.rakuten.co.jp/gaoye/cabinet/2023cs01/1500x1500-03.jpg`
+- 用途: 楽天市場の商品ページで確認した公式商品素材。文字重ねなし。
+- 取得日: 2026-08-29
+- 背景: `assets/products/kloudic-dehumidifier/generated-dry-room-context-v1.png`
+- 背景生成モード: built-in ImageGen。実商品・人物・ブランド・文字を含めず、除湿後の乾いた印象を伝える明るい洗面・ランドリー空間として生成。

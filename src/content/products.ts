@@ -39,6 +39,8 @@ import { garageCollectionMask } from "./garage-collection-mask.ts";
 import { ashimoriKyusuikunS } from "./ashimori-kyusuikun-s.ts";
 import { kaoHandSquishEx } from "./kao-hand-squish-ex.ts";
 import { uauuMagsafeStand } from "./uauu-magsafe-stand.ts";
+import { sanwaRearSeatMagsafeHolder } from "./sanwa-rear-seat-magsafe-holder.ts";
+import { kloudicDehumidifier } from "./kloudic-dehumidifier.ts";
 
 export const products = [
   marnaFrozenRiceContainer,
@@ -81,5 +83,7 @@ export const products = [
   garageCollectionMask,
   ashimoriKyusuikunS,
   kaoHandSquishEx,
-  uauuMagsafeStand
+  uauuMagsafeStand,
+  sanwaRearSeatMagsafeHolder,
+  kloudicDehumidifier
 ];

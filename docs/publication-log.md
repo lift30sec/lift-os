@@ -502,6 +502,44 @@ Published content is recorded here after the destination confirms that the post 
 - Affiliate disclosure: research disclosure included; no product provision, special coupon, sponsorship, or event relationship was stated
 - Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL and `AIコンテンツ` label
 
+## 2026-08-29
+
+### Rakuten ROOM / Instagram / Threads - lift-042
+
+- Status: published
+- Publication slot: 2026-08-29 12:00
+- Actual published at: 2026-08-29 20:25 JST
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: サンワダイレクト 後部座席用MagSafeスマホホルダー 200-CAR107
+- Experience basis: personally used after normal purchase
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700390829510270
+- Instagram: https://www.instagram.com/lift.30sec/p/Dcn0n9jDxfQ/
+- Threads: https://www.threads.com/@lift.30sec/post/Dcn0o9ujxpq
+- Source package: `output/publish/lift-042`
+- Threads delivery: Instagram cross-share
+- Disclosure: Instagram and Threads AI labels enabled because the editorial background contains a generated realistic image
+- Affiliate disclosure: none; the product was purchased normally by the account owner
+- Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL and `AIコンテンツ` label
+
+### Rakuten ROOM / Instagram / Threads - lift-043
+
+- Status: published
+- Publication slot: 2026-08-29 20:00
+- Actual published at: 2026-08-29 20:26 JST
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: KLOUDIC 小型除湿機 1000ml
+- Experience basis: personally used after normal purchase
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700390829631825
+- Instagram: https://www.instagram.com/lift.30sec/p/Dcn0xUYjyJL/
+- Threads: https://www.threads.com/@lift.30sec/post/Dcn0yH9D2wF
+- Source package: `output/publish/lift-043`
+- Threads delivery: Instagram cross-share
+- Disclosure: Threads exposed the `AIコンテンツ` label; the Instagram AI-label state requires confirmation
+- Affiliate disclosure: none; the product was purchased normally by the account owner
+- Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL
+
 ## 2026-08-28
 
 ### Rakuten ROOM / Instagram / Threads - lift-040
