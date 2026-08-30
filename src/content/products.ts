@@ -41,6 +41,7 @@ import { kaoHandSquishEx } from "./kao-hand-squish-ex.ts";
 import { uauuMagsafeStand } from "./uauu-magsafe-stand.ts";
 import { sanwaRearSeatMagsafeHolder } from "./sanwa-rear-seat-magsafe-holder.ts";
 import { kloudicDehumidifier } from "./kloudic-dehumidifier.ts";
+import { midoriLetterCutter } from "./midori-letter-cutter.ts";
 
 export const products = [
   marnaFrozenRiceContainer,
@@ -85,5 +86,6 @@ export const products = [
   kaoHandSquishEx,
   uauuMagsafeStand,
   sanwaRearSeatMagsafeHolder,
-  kloudicDehumidifier
+  kloudicDehumidifier,
+  midoriLetterCutter
 ];

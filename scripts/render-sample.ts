@@ -8,7 +8,8 @@ import {
   validateProduct
 } from "../src/schema/product.ts";
 
-for (const product of products) {
+const requestedProducts = new Set(process.argv.slice(2));
+for (const product of products.filter(product => !requestedProducts.size || requestedProducts.has(product.id))) {
   const errors = validateProduct(product);
   if (errors.length) {
     throw new Error(`${product.id} is invalid:\n${errors.join("\n")}`);

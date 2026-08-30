@@ -502,6 +502,24 @@ Published content is recorded here after the destination confirms that the post 
 - Affiliate disclosure: research disclosure included; no product provision, special coupon, sponsorship, or event relationship was stated
 - Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL and `AIコンテンツ` label
 
+## 2026-08-30
+
+### Rakuten ROOM / Instagram / Threads - lift-044
+
+- Status: published
+- publication_slot: 2026-08-30 12:00 JST
+- actual_published_at: 2026-08-30 17:41 JST (all three publications verified by this time)
+- Product: ミドリ マグネットレターカッター 黒 49735006
+- Experience: owner used; no offcuts is helpful; cutting requires some technique. Owner authorized publication.
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700390929209246
+- Instagram: https://www.instagram.com/lift.30sec/p/DcqGEkHD29F/
+- Threads: https://www.threads.com/@lift.30sec/post/DcqGx0tj1fR
+- Format: Instagram six-image carousel; Threads direct text and ROOM link preview. Threads image chooser timed out; no separate image carousel was published there.
+- Package: `output/publish/lift-044`
+- Verification: ROOM completion message and individual item URL; Instagram share-success message and matching profile post link; Threads matching text and individual permalink.
+- QA: six 1080x1350 images visually checked; product graphic preserved with contain/no crop/no overlay; supporting background crop adjusted to retain envelopes; final slide 03 screenshot replaced after checking missing header rendering.
+- Optional AI labels: not added, per owner's instruction. Generated background is illustrative, not an actual use photo.
+
 ## 2026-08-29
 
 ### Rakuten ROOM / Instagram / Threads - lift-042
@@ -536,7 +554,7 @@ Published content is recorded here after the destination confirms that the post 
 - Threads: https://www.threads.com/@lift.30sec/post/Dcn0yH9D2wF
 - Source package: `output/publish/lift-043`
 - Threads delivery: Instagram cross-share
-- Disclosure: Instagram AI label added on 2026-08-30; the published Instagram page displayed `AIコンテンツ` after reload. Threads still displayed no AI label after reload, and the web post menu exposed no label-editing option. Threads correction remains incomplete; no post was deleted or reposted.
+- Disclosure: Instagram AI label added on 2026-08-30; the published Instagram page displayed `AIコンテンツ` after reload. Threads still displayed no AI label after reload. On 2026-08-30 the user requested no further optional AI-label work; the Threads follow-up is closed without deleting or reposting. Existing Instagram label retained.
 - Affiliate disclosure: none; the product was purchased normally by the account owner
 - Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL; both published posts were checked again on 2026-08-30 and no AI label was displayed
 

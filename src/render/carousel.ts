@@ -18,7 +18,7 @@ function editorialImage(
   const zoom = cover.zoom ?? 1;
   const imageStyle =
     placement === "supporting"
-      ? "object-position:center;transform:scale(1.12)"
+      ? `object-position:${escapeHtml(cover.supportingObjectPosition ?? "center")}${cover.supportingObjectPosition ? " !important" : ""};transform:scale(1.12)`
       : cover.sizing === "square"
       ? `width:${Math.round(968 * zoom)}px;height:${Math.round(968 * zoom)}px;object-position:${objectPosition}`
       : `object-position:${objectPosition};transform:scale(${zoom})`;

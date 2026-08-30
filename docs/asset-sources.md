@@ -157,3 +157,14 @@
 - 取得日: 2026-08-29
 - 背景: `assets/products/kloudic-dehumidifier/generated-dry-room-context-v1.png`
 - 背景生成モード: built-in ImageGen。実商品・人物・ブランド・文字を含めず、除湿後の乾いた印象を伝える明るい洗面・ランドリー空間として生成。
+
+## ミドリ マグネットレターカッター 黒 49735006
+
+- 商品画像: `assets/products/midori-letter-cutter/affiliate-main.jpg`
+- 取得日: 2026-08-30
+- 出典: https://affiliate.rakuten.co.jp/link/pc/item?type=item&me_id=1234578&item_id=10484560&l-id=af_header_cta_link
+- 画像URL: https://thumbnail.image.rakuten.co.jp/@0_mall/nanshindo/cabinet/cabinet12/mag-letter-c-all-02.jpg?_ex=400x400
+- 楽天アフィリエイトの選択画像。全体をcontainで表示し、切り抜き・文字重ねなし。複数色を含む素材だが、紹介する使用色は黒と明記。
+- 背景: `assets/products/midori-letter-cutter/generated-envelope-context-v1.png`
+- 生成モード: built-in ImageGen。実際の使用写真ではなく、封筒のある暮らしの編集用イメージ。
+- Prompt: Use case: photorealistic-natural. Asset type: editorial lifestyle background for Japanese LIFT six-slide carousel, portrait 4:5. A quiet Japanese home entryway writing console in muted warm wood and ivory, several plain cream and white postal envelopes with no writing arranged naturally on the tabletop near the lower middle, soft side daylight and gentle leaf shadows, calm refined magazine photograph. Upper half has darker softly textured wall with generous negative space for later white headline. The envelopes are recognizable in narrow vertical crops. No people, no hands, no letter cutters, no scissors, no branded product, no logos, no text, no watermark. This is a conceptual lifestyle background, not a real customer usage photo. High photographic detail, restrained neutral colors.

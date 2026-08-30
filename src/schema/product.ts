@@ -49,6 +49,7 @@ export interface EditorialCover {
   contextImageAlt?: string;
   separateAffiliateImage?: boolean;
   objectPosition?: string;
+  supportingObjectPosition?: string;
   sizing?: "cover" | "square";
   zoom?: number;
   contrast?: number;

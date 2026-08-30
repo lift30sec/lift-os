@@ -400,3 +400,17 @@
 - Confirmed benefit: the dehumidifying performance feels strong, and the collected water amount is visible in the tank.
 - No current drawback was identified. The standardized statement is used: `今のところ、特に惜しい点はありません。`
 - Public copy presents the performance assessment as the owner's experience rather than a measured specification.
+
+## 2026-08-30 12:00 daily run
+
+### Candidate: ミドリ マグネットレターカッター 黒 49735006
+
+- Decision: owner experience confirmed, approved and published as `lift-044` on 2026-08-30.
+- Product page: https://item.rakuten.co.jp/nanshindo/midori-mag-letter-c/?variantId=midori-49735006
+- Identified in Rakuten purchase history. The active listing specifies black, model 49735006.
+- Listing describes sliding an envelope through the slot, opening without offcuts, and storage/use on a magnetic surface. These are listing claims, not confirmed owner experience.
+- Editorial fit: reducing envelope-opening and paper-offcut cleanup steps in daily life.
+- Repository search found no matching product or publication record. A my ROOM search for レターカッター returned 0 results on 2026-08-30.
+- Owner confirmed use: no offcuts is helpful; cutting requires some technique. The public drawback is based on this owner statement, not buyer reviews.
+- Another purchase-history candidate, NEODY Silicon EYE SE-0102-B, was not selected because both listed pack options were sold out.
+- Optional AI-label work is closed by owner instruction; no new SNS publication was performed during this selection.
