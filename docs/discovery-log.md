@@ -427,4 +427,3 @@
 - Repository search found no matching product or publication record.
 - Owner confirmed use: it reduces cleaning around the vehicle footwell. The passenger-side shape did not fit a 2024 Nissan Roox, but it could be adjusted with scissors. No current drawback was identified; the standardized statement is used.
 - A separately purchased rear-seat mat (`https://item.rakuten.co.jp/p-fun/gj-3331/?variantId=810`) serves the same purpose but remains a separate future candidate because it has a different product page and fit conditions.
-

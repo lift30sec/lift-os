@@ -731,4 +731,3 @@ Published content is recorded here after the destination confirms that the post 
 - Disclosure: Instagram and Threads AI labels enabled because the editorial background contains a generated realistic image
 - Affiliate disclosure: none; the product was purchased normally by the account owner
 - Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL and `AIコンテンツ` label
-
