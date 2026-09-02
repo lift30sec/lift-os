@@ -458,7 +458,7 @@ h2 {
 }
 .editorial-insight__visual {
   position: relative;
-  flex: 0 0 1000px;
+  flex: 0 0 940px;
   overflow: hidden;
   background: #59645d;
 }
@@ -765,3 +765,4 @@ h2 {
   letter-spacing: .1em;
 }
 `;
+

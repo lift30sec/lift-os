@@ -414,3 +414,17 @@
 - Owner confirmed use: no offcuts is helpful; cutting requires some technique. The public drawback is based on this owner statement, not buyer reviews.
 - Another purchase-history candidate, NEODY Silicon EYE SE-0102-B, was not selected because both listed pack options were sold out.
 - Optional AI-label work is closed by owner instruction; no new SNS publication was performed during this selection.
+
+## 2026-09-02 12:00 daily run
+
+### Candidate: 未来科学 汎用3Dフロアマット 2枚セット ECCER-31103
+
+- Decision: owner experience confirmed; adopted as `lift-045`; publication preparation in progress.
+- Product page: https://item.rakuten.co.jp/p-fun/cer-32003-2/
+- Purchase history identifies the item as the two-piece driver/passenger-seat mat set.
+- The active listing confirms black PVC, approximately 45 x 60 cm, waterproof raised construction, washable use, and incompatibility with vehicles using an organ-style accelerator pedal. These are listing claims.
+- Editorial fit: catches dirt and water before they reach the vehicle floor and can be removed for washing, potentially reducing vehicle-floor cleaning.
+- Repository search found no matching product or publication record.
+- Owner confirmed use: it reduces cleaning around the vehicle footwell. The passenger-side shape did not fit a 2024 Nissan Roox, but it could be adjusted with scissors. No current drawback was identified; the standardized statement is used.
+- A separately purchased rear-seat mat (`https://item.rakuten.co.jp/p-fun/gj-3331/?variantId=810`) serves the same purpose but remains a separate future candidate because it has a different product page and fit conditions.
+

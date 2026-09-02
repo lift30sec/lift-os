@@ -42,6 +42,7 @@ import { uauuMagsafeStand } from "./uauu-magsafe-stand.ts";
 import { sanwaRearSeatMagsafeHolder } from "./sanwa-rear-seat-magsafe-holder.ts";
 import { kloudicDehumidifier } from "./kloudic-dehumidifier.ts";
 import { midoriLetterCutter } from "./midori-letter-cutter.ts";
+import { miraiScienceFrontFloorMat } from "./mirai-science-front-floor-mat.ts";
 
 export const products = [
   marnaFrozenRiceContainer,
@@ -87,5 +88,7 @@ export const products = [
   uauuMagsafeStand,
   sanwaRearSeatMagsafeHolder,
   kloudicDehumidifier,
-  midoriLetterCutter
+  midoriLetterCutter,
+  miraiScienceFrontFloorMat
 ];
+

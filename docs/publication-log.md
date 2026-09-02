@@ -502,6 +502,26 @@ Published content is recorded here after the destination confirms that the post 
 - Affiliate disclosure: research disclosure included; no product provision, special coupon, sponsorship, or event relationship was stated
 - Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL and `AIコンテンツ` label
 
+## 2026-09-02
+
+### Rakuten ROOM / Instagram / Threads - lift-045
+
+- Status: published
+- Publication slot: 2026-09-02 12:00
+- Actual published at: 2026-09-02 09:11 JST
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: 未来科学 汎用3Dフロアマット 前席用2枚セット ECCER-31103
+- Experience basis: personally used after normal purchase
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700391249601390
+- Instagram: https://www.instagram.com/lift.30sec/p/Dcw6yYAj_PR/
+- Threads: https://www.threads.com/@lift.30sec/post/Dcw6zShj_RW
+- Source package: `output/publish/lift-045`
+- Threads delivery: Instagram cross-share
+- Disclosure: no optional AI label was enabled, following the account owner's standing instruction
+- Affiliate disclosure: none; the product was purchased normally by the account owner
+- Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Instagram showed 45 posts after publication; Threads exposed the new post URL with all six images
+
 ## 2026-08-30
 
 ### Rakuten ROOM / Instagram / Threads - lift-044
@@ -711,3 +731,4 @@ Published content is recorded here after the destination confirms that the post 
 - Disclosure: Instagram and Threads AI labels enabled because the editorial background contains a generated realistic image
 - Affiliate disclosure: none; the product was purchased normally by the account owner
 - Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL and `AIコンテンツ` label
+

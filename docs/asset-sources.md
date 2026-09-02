@@ -168,3 +168,15 @@
 - 背景: `assets/products/midori-letter-cutter/generated-envelope-context-v1.png`
 - 生成モード: built-in ImageGen。実際の使用写真ではなく、封筒のある暮らしの編集用イメージ。
 - Prompt: Use case: photorealistic-natural. Asset type: editorial lifestyle background for Japanese LIFT six-slide carousel, portrait 4:5. A quiet Japanese home entryway writing console in muted warm wood and ivory, several plain cream and white postal envelopes with no writing arranged naturally on the tabletop near the lower middle, soft side daylight and gentle leaf shadows, calm refined magazine photograph. Upper half has darker softly textured wall with generous negative space for later white headline. The envelopes are recognizable in narrow vertical crops. No people, no hands, no letter cutters, no scissors, no branded product, no logos, no text, no watermark. This is a conceptual lifestyle background, not a real customer usage photo. High photographic detail, restrained neutral colors.
+
+## 未来科学 汎用3Dフロアマット 前席用2枚セット
+
+- 商品画像: `assets/products/mirai-science-front-floor-mat/official-main.jpg`
+- 出典: https://item.rakuten.co.jp/p-fun/cer-32003-2/
+- 公式画像URL: https://image.rakuten.co.jp/p-fun/cabinet/img_floormat/05564525/10482255/cer2_2.jpg
+- 用途: 楽天市場の商品ページで確認した公式商品素材。全体をcontainで表示し、切り抜き・文字重ねなし。
+- 取得日: 2026-09-02
+- 背景: `assets/products/mirai-science-front-floor-mat/generated-front-footwell-context-v2.jpg`
+- 背景の扱い: built-in ImageGenで生成した前席足元の編集用イメージ。実際の使用写真ではなく、実商品画像とは別領域で使用。
+- Prompt: Use case: photorealistic-natural. Asset type: editorial lifestyle background for a Japanese LIFT six-slide Instagram carousel, portrait 4:5. Primary request: a clean modern Japanese compact minivan front passenger footwell, viewed from the open passenger door, showing the floor area clearly as the central subject. Scene/backdrop: light beige and charcoal car interior, uncluttered, realistic everyday family car. Subject: the empty vehicle footwell and lower dashboard; a few subtle grains of dry sand near the edge to suggest cleaning, but no floor mat product. Style/medium: refined natural editorial photograph, realistic textures. Composition/framing: portrait, footwell fills the lower and middle frame; generous calm negative space in the upper third for white Japanese headline; useful narrow vertical crops must still show the footwell. Lighting/mood: soft morning daylight, clean and trustworthy. Color palette: neutral beige, charcoal, muted green outside. Constraints: no people, no feet, no hands, no floor mats, no product, no brands, no car logos, no text, no letters, no numbers, no watermark; conceptual background only, not an actual customer usage photo.
+
