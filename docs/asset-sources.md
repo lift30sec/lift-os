@@ -179,3 +179,14 @@
 - 背景: `assets/products/mirai-science-front-floor-mat/generated-front-footwell-context-v2.jpg`
 - 背景の扱い: built-in ImageGenで生成した前席足元の編集用イメージ。実際の使用写真ではなく、実商品画像とは別領域で使用。
 - Prompt: Use case: photorealistic-natural. Asset type: editorial lifestyle background for a Japanese LIFT six-slide Instagram carousel, portrait 4:5. Primary request: a clean modern Japanese compact minivan front passenger footwell, viewed from the open passenger door, showing the floor area clearly as the central subject. Scene/backdrop: light beige and charcoal car interior, uncluttered, realistic everyday family car. Subject: the empty vehicle footwell and lower dashboard; a few subtle grains of dry sand near the edge to suggest cleaning, but no floor mat product. Style/medium: refined natural editorial photograph, realistic textures. Composition/framing: portrait, footwell fills the lower and middle frame; generous calm negative space in the upper third for white Japanese headline; useful narrow vertical crops must still show the footwell. Lighting/mood: soft morning daylight, clean and trustworthy. Color palette: neutral beige, charcoal, muted green outside. Constraints: no people, no feet, no hands, no floor mats, no product, no brands, no car logos, no text, no letters, no numbers, no watermark; conceptual background only, not an actual customer usage photo.
+
+## 未来科学 軽自動車用3Dバケットマット リア用 ECGJ-31143RAU
+
+- 商品画像: `assets/products/mirai-science-rear-floor-mat/official-main.jpg`
+- 出典: https://item.rakuten.co.jp/p-fun/gj-3331/?variantId=810
+- 公式画像URL: https://image.rakuten.co.jp/p-fun/cabinet/img_floormat/05564525/gj_s01.jpg
+- 用途: 楽天市場の商品ページで確認した公式商品素材。全体をcontainで表示し、切り抜き・文字重ねなし。
+- 取得日: 2026-09-06
+- 背景: `assets/products/mirai-science-rear-floor-mat/generated-rear-footwell-context-v2.png`
+- 背景の扱い: built-in ImageGenで生成した後部座席足元の編集用イメージ。実際の使用写真ではなく、実商品画像とは別領域で使用。
+- Prompt: Use case: photorealistic-natural. Asset type: vertical editorial background for a Japanese social-media carousel. Primary request: a clean, realistic view of the rear passenger footwell of a modern compact Japanese car, seen through an open rear door, clearly showing the flat floor area beneath the rear bench seat. Scene/backdrop: bright parked car in soft daylight, neutral light-gray and black interior, subtle everyday dust only. Subject: rear-seat footwell and lower rear bench seat; no people and no product floor mat. Style/medium: natural editorial lifestyle photography, realistic proportions and materials. Composition/framing: portrait 4:5, open rear door at the left edge, rear bench seat across the upper-right area, generous uncluttered footwell in the lower center, usable dark-to-mid-tone areas for white overlay text. Constraints: unmistakably the rear passenger area, no dashboard, no steering wheel, no front-seat footwell, no floor mat product, no logos, no brand marks, no text, no watermark.

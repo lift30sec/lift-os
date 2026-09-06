@@ -427,3 +427,15 @@
 - Repository search found no matching product or publication record.
 - Owner confirmed use: it reduces cleaning around the vehicle footwell. The passenger-side shape did not fit a 2024 Nissan Roox, but it could be adjusted with scissors. No current drawback was identified; the standardized statement is used.
 - A separately purchased rear-seat mat (`https://item.rakuten.co.jp/p-fun/gj-3331/?variantId=810`) serves the same purpose but remains a separate future candidate because it has a different product page and fit conditions.
+
+## 2026-09-06 12:00 daily run
+
+### Candidate: 未来科学 軽自動車用3Dバケットマット リア用 ECGJ-31143RAU
+
+- Decision: owner experience and separate-post treatment approved; adopted as `lift-046`; publication package prepared.
+- Product page: https://item.rakuten.co.jp/p-fun/gj-3331/?variantId=810
+- Purchase history confirms this is a separate purchase from the front-seat two-piece mat.
+- The active listing identifies model `ECGJ-31143RAU`, PVC construction, one rear-seat mat, approximately 45 x 110 cm, and washable use. These are listing claims.
+- Editorial fit: the single wide mat catches sand and food debris around the rear footwell and can be removed for washing, reducing direct vehicle-floor cleaning.
+- Owner context: used for the same cleaning purpose as the approved front-seat mat. No current drawback was identified, so the standardized statement is used.
+- Risk kept out of the owner review: the listing says it cannot be used where the rear floor has protrusions and recommends measuring first; this was not presented as the owner's drawback.

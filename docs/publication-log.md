@@ -502,6 +502,26 @@ Published content is recorded here after the destination confirms that the post 
 - Affiliate disclosure: research disclosure included; no product provision, special coupon, sponsorship, or event relationship was stated
 - Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL and `AIコンテンツ` label
 
+## 2026-09-06
+
+### Rakuten ROOM / Instagram / Threads - lift-046
+
+- Status: published
+- Publication slot: 2026-09-06 12:00
+- Actual published at: 2026-09-06 18:34 JST
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: 未来科学 軽自動車用3Dバケットマット リア用 ECGJ-31143RAU
+- Experience basis: personally used after normal purchase
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700391958717335
+- Instagram: https://www.instagram.com/lift.30sec/p/Dc8OENYD0eC/
+- Threads: https://www.threads.com/@lift.30sec/post/Dc8ObQRjyni
+- Source package: `output/publish/lift-046`
+- Threads delivery: direct Threads text post
+- Disclosure: optional AI labels were not added, following the account owner's standing instruction; the editorial background contains a generated image
+- Affiliate disclosure: none; the product was purchased normally by the account owner
+- Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Instagram and Threads exposed the new post URLs
+
 ## 2026-09-02
 
 ### Rakuten ROOM / Instagram / Threads - lift-045
