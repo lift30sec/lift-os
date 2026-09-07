@@ -45,6 +45,7 @@ import { midoriLetterCutter } from "./midori-letter-cutter.ts";
 import { miraiScienceFrontFloorMat } from "./mirai-science-front-floor-mat.ts";
 import { miraiScienceRearFloorMat } from "./mirai-science-rear-floor-mat.ts";
 import { siliconEyeMagnetHook } from "./silicon-eye-magnet-hook.ts";
+import { hubathWashbasinHairCatcher } from "./hubath-washbasin-hair-catcher.ts";
 
 export const products = [
   marnaFrozenRiceContainer,
@@ -93,5 +94,6 @@ export const products = [
   midoriLetterCutter,
   miraiScienceFrontFloorMat,
   miraiScienceRearFloorMat,
-  siliconEyeMagnetHook
+  siliconEyeMagnetHook,
+  hubathWashbasinHairCatcher
 ];

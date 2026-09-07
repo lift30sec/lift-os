@@ -504,6 +504,26 @@ Published content is recorded here after the destination confirms that the post 
 
 ## 2026-09-07
 
+### Rakuten ROOM / Instagram / Threads - lift-048
+
+- Status: published
+- Publication slot: 2026-09-07 20:00
+- Actual published at: 2026-09-07 23:00 JST
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: HUBATH 洗面台用マグネット排水口ヘアーキャッチャー SM64
+- Experience basis: personally used after normal purchase
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700392148896319
+- Instagram: https://www.instagram.com/lift.30sec/p/Dc_Rm7ZD85T/
+- Threads: https://www.threads.com/@lift.30sec/post/Dc_Rtj_j7H0
+- Source package: `output/publish/lift-048`
+- Threads delivery: direct Threads text post with Rakuten ROOM URL
+- Disclosure: no optional Instagram AI label was added, following the account owner's standing instruction
+- Affiliate disclosure: none; the product was purchased normally by the account owner
+- Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads displayed `投稿されました` and exposed the new post URL
+
+## 2026-09-07
+
 ### Rakuten ROOM / Instagram / Threads - lift-047
 
 - Status: published

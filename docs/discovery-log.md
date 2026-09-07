@@ -450,3 +450,15 @@
 - Reviews visible on the active page are dated 2025-11-12, 2026-03-24, and 2026-07-27. This shows purchases across multiple months but does not prove a fixed restock schedule.
 - Owner context: used on the entrance door to hang an insect repellent. The owner likes the appearance, strong magnetic hold, and silicone-coated finish. No current drawback was identified, so the standardized statement is used.
 - A planned sunshade use remains untested, including wind resistance, and is not presented as a verified use case.
+
+## 2026-09-07 20:00 daily run
+
+### Candidate: HUBATH 洗面台用マグネット排水口ヘアーキャッチャー SM64
+
+- Decision: owner experience confirmed; adopted and published as `lift-048` on 2026-09-07.
+- Product page: https://item.rakuten.co.jp/sinkatec/hu_shair_catcher/
+- The active listing identifies the selected size as `SM64`. It lists an approximately 64 mm stainless-steel metal part, an approximately 35 mm ferrite magnet, three polyethylene drain nets, and Japanese manufacture. These are seller-provided specifications.
+- Repository search and the account's Rakuten ROOM were checked before selection; no earlier HUBATH washbasin hair-catcher post was found.
+- Owner context: used at the washbasin. Compared with a previously used 100-yen item, clogging after gargling is less noticeable; compared with the original built-in part, upkeep is easier. The owner also prefers its appearance.
+- No current drawback was identified, so the standardized statement is used: `今のところ、特に惜しい点はありません。`
+- The first affiliate image candidate contained a time-limited point campaign. It was replaced with a non-expiring official SINKATEC image before rendering.
