@@ -190,3 +190,12 @@
 - 背景: `assets/products/mirai-science-rear-floor-mat/generated-rear-footwell-context-v2.png`
 - 背景の扱い: built-in ImageGenで生成した後部座席足元の編集用イメージ。実際の使用写真ではなく、実商品画像とは別領域で使用。
 - Prompt: Use case: photorealistic-natural. Asset type: vertical editorial background for a Japanese social-media carousel. Primary request: a clean, realistic view of the rear passenger footwell of a modern compact Japanese car, seen through an open rear door, clearly showing the flat floor area beneath the rear bench seat. Scene/backdrop: bright parked car in soft daylight, neutral light-gray and black interior, subtle everyday dust only. Subject: rear-seat footwell and lower rear bench seat; no people and no product floor mat. Style/medium: natural editorial lifestyle photography, realistic proportions and materials. Composition/framing: portrait 4:5, open rear door at the left edge, rear bench seat across the upper-right area, generous uncluttered footwell in the lower center, usable dark-to-mid-tone areas for white overlay text. Constraints: unmistakably the rear passenger area, no dashboard, no steering wheel, no front-seat footwell, no floor mat product, no logos, no brand marks, no text, no watermark.
+
+## lift-047 NEODY Silicon EYE マグネットフック
+
+- 商品ページ: https://item.rakuten.co.jp/magnet-kenkyujyo/b6-8xch-0plk/
+- 商品画像: `assets/products/silicon-eye-magnet-hook/official-main.webp`
+- 商品画像の扱い: 楽天商品ページのメイン画像を無加工で別領域へ `contain` 配置。
+- 背景: `assets/products/silicon-eye-magnet-hook/generated-entryway-context.png`
+- 背景の扱い: built-in ImageGenで生成した玄関の編集用イメージ。実際の使用写真ではない。
+- 生成プロンプト: `Create a photorealistic editorial background image for a Japanese lifestyle product carousel, square 1080x1080. Scene: a clean modern Japanese home entryway viewed from inside, with a pale gray steel entrance door and a small neutral-colored hanging insect repellent case already suspended near the upper-middle of the door. Warm natural morning light, understated beige and charcoal palette, minimal uncluttered styling, realistic but clearly generic editorial context. Leave generous clean negative space on the right and upper areas for layout. Do not show any magnetic hook product, no logos, no readable text, no brand marks, no people, no hands, no sunshade, no misleading product replica. The image is only contextual scenery, not a documentary user photo.`

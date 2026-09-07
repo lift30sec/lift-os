@@ -44,6 +44,7 @@ import { kloudicDehumidifier } from "./kloudic-dehumidifier.ts";
 import { midoriLetterCutter } from "./midori-letter-cutter.ts";
 import { miraiScienceFrontFloorMat } from "./mirai-science-front-floor-mat.ts";
 import { miraiScienceRearFloorMat } from "./mirai-science-rear-floor-mat.ts";
+import { siliconEyeMagnetHook } from "./silicon-eye-magnet-hook.ts";
 
 export const products = [
   marnaFrozenRiceContainer,
@@ -91,5 +92,6 @@ export const products = [
   kloudicDehumidifier,
   midoriLetterCutter,
   miraiScienceFrontFloorMat,
-  miraiScienceRearFloorMat
+  miraiScienceRearFloorMat,
+  siliconEyeMagnetHook
 ];

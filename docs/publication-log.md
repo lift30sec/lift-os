@@ -502,6 +502,26 @@ Published content is recorded here after the destination confirms that the post 
 - Affiliate disclosure: research disclosure included; no product provision, special coupon, sponsorship, or event relationship was stated
 - Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL and `AIコンテンツ` label
 
+## 2026-09-07
+
+### Rakuten ROOM / Instagram / Threads - lift-047
+
+- Status: published
+- Publication slot: 2026-09-07 12:00
+- Actual published at: 2026-09-07 14:10 JST
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: NEODY Silicon EYE マグネットフック
+- Experience basis: personally used on an entrance door to hang an insect repellent
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700392075343319
+- Instagram: https://www.instagram.com/lift.30sec/p/Dc-U8Fsj3jn/
+- Threads: https://www.threads.com/@lift.30sec/post/Dc-VDUQj595
+- Source package: `output/publish/lift-047`
+- Threads delivery: direct Threads post with Rakuten ROOM URL
+- Disclosure: no optional AI label added, following the owner's standing instruction
+- Affiliate disclosure: none; the product was purchased normally by the account owner
+- Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads displayed `投稿されました` and exposed the new post URL
+
 ## 2026-09-06
 
 ### Rakuten ROOM / Instagram / Threads - lift-046

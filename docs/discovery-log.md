@@ -439,3 +439,14 @@
 - Editorial fit: the single wide mat catches sand and food debris around the rear footwell and can be removed for washing, reducing direct vehicle-floor cleaning.
 - Owner context: used for the same cleaning purpose as the approved front-seat mat. No current drawback was identified, so the standardized statement is used.
 - Risk kept out of the owner review: the listing says it cannot be used where the rear floor has protrusions and recommends measuring first; this was not presented as the owner's drawback.
+
+## 2026-09-07 12:00 daily run
+
+### Candidate: NEODY Silicon EYE マグネットフック
+
+- Decision: owner experience confirmed; adopted and published as `lift-047` on 2026-09-07.
+- Product page: https://item.rakuten.co.jp/magnet-kenkyujyo/b6-8xch-0plk/
+- The active listing identifies a silicone-coated neodymium magnet eye hook and currently displays both pack options as sold out. The listing states that the coating resists cracking, rust, and scratches; these are seller claims.
+- Reviews visible on the active page are dated 2025-11-12, 2026-03-24, and 2026-07-27. This shows purchases across multiple months but does not prove a fixed restock schedule.
+- Owner context: used on the entrance door to hang an insect repellent. The owner likes the appearance, strong magnetic hold, and silicone-coated finish. No current drawback was identified, so the standardized statement is used.
+- A planned sunshade use remains untested, including wind resistance, and is not presented as a verified use case.
