@@ -502,6 +502,26 @@ Published content is recorded here after the destination confirms that the post 
 - Affiliate disclosure: research disclosure included; no product provision, special coupon, sponsorship, or event relationship was stated
 - Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL and `AIコンテンツ` label
 
+## 2026-09-09
+
+### Rakuten ROOM / Instagram / Threads - lift-049
+
+- Status: published
+- Publication slot: 2026-09-09 12:00
+- Actual published at: 2026-09-09 14:39 JST
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: ファンライフ スマホ対応軍手 TWGV02S 2組セット
+- Experience basis: personally used during winter outdoor work after normal purchase
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700392273360302
+- Instagram: https://www.instagram.com/lift.30sec/p/Dc_Rm7ZD85T/
+- Threads: https://www.threads.com/@lift.30sec/post/DdDhzF9jyVI
+- Source package: `output/publish/lift-049`
+- Threads delivery: direct Threads post using the six-image carousel
+- Disclosure: optional AI labels were not added, following the account owner's standing instruction; the editorial background contains a generated image
+- Affiliate disclosure: none; the product was purchased normally by the account owner
+- Confirmation: the existing Rakuten ROOM post was verified; Instagram displayed `投稿をシェアしました`; Threads displayed `投稿されました` and exposed the new post URL
+
 ## 2026-09-07
 
 ### Rakuten ROOM / Instagram / Threads - lift-048

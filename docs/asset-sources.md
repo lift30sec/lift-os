@@ -199,3 +199,13 @@
 - 背景: `assets/products/silicon-eye-magnet-hook/generated-entryway-context.png`
 - 背景の扱い: built-in ImageGenで生成した玄関の編集用イメージ。実際の使用写真ではない。
 - 生成プロンプト: `Create a photorealistic editorial background image for a Japanese lifestyle product carousel, square 1080x1080. Scene: a clean modern Japanese home entryway viewed from inside, with a pale gray steel entrance door and a small neutral-colored hanging insect repellent case already suspended near the upper-middle of the door. Warm natural morning light, understated beige and charcoal palette, minimal uncluttered styling, realistic but clearly generic editorial context. Leave generous clean negative space on the right and upper areas for layout. Do not show any magnetic hook product, no logos, no readable text, no brand marks, no people, no hands, no sunshade, no misleading product replica. The image is only contextual scenery, not a documentary user photo.`
+
+## lift-049 ファンライフ スマホ対応軍手 TWGV02S 2組セット
+
+- 商品画像: `assets/products/funlife-smartphone-gloves/official-main.jpg`
+- 出典: https://item.rakuten.co.jp/funlifestore/org04058/
+- 用途: 楽天市場の商品ページで確認した公式商品素材。全体を `contain` で表示し、切り抜き・文字重ねなし。
+- 取得日: 2026-09-09
+- 背景: `assets/products/funlife-smartphone-gloves/generated-winter-smartphone-context.png`
+- 背景の扱い: built-in ImageGenで生成した冬の屋外作業の編集用イメージ。実際の使用写真ではない。
+- 生成プロンプト: `Create a photorealistic natural editorial background for a Japanese lifestyle product carousel, portrait 4:5. A winter outdoor work setting near a clean modern home entrance in Japan, cool soft daylight, subtle signs of cold weather, a person’s hands holding a smartphone while wearing plain thin black knit work gloves, no identifiable face, realistic and understated, ample clean negative space for editorial layout, muted beige-gray and cool blue palette. This is a generic usage-context image, not a product packshot. No text, no letters, no logos, no brand marks, no watermark, no promotional badges.`

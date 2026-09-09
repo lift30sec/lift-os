@@ -462,3 +462,13 @@
 - Owner context: used at the washbasin. Compared with a previously used 100-yen item, clogging after gargling is less noticeable; compared with the original built-in part, upkeep is easier. The owner also prefers its appearance.
 - No current drawback was identified, so the standardized statement is used: `今のところ、特に惜しい点はありません。`
 - The first affiliate image candidate contained a time-limited point campaign. It was replaced with a non-expiring official SINKATEC image before rendering.
+
+## 2026-09-09 12:00 daily run
+
+### Candidate: ファンライフ スマホ対応軍手 TWGV02S 2組セット
+
+- Decision: owner experience confirmed; adopted and published as `lift-049` on 2026-09-09.
+- Product page: https://item.rakuten.co.jp/funlifestore/org04058/
+- The active listing identifies a two-pair set of thin work gloves with touch-panel support on all five fingertips. These are seller claims.
+- Editorial fit: reduces the need to remove work gloves when checking a smartphone during winter outdoor work.
+- Owner context: personally used and found useful in winter because it is less bulky than a conventional glove. No current drawback was identified, so the standardized statement is used.
