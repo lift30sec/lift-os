@@ -47,6 +47,7 @@ import { miraiScienceRearFloorMat } from "./mirai-science-rear-floor-mat.ts";
 import { siliconEyeMagnetHook } from "./silicon-eye-magnet-hook.ts";
 import { hubathWashbasinHairCatcher } from "./hubath-washbasin-hair-catcher.ts";
 import { funlifeSmartphoneGloves } from "./funlife-smartphone-gloves.ts";
+import { towerSiliconeSponge } from "./tower-silicone-sponge.ts";
 
 export const products = [
   marnaFrozenRiceContainer,
@@ -97,5 +98,6 @@ export const products = [
   miraiScienceRearFloorMat,
   siliconEyeMagnetHook,
   hubathWashbasinHairCatcher,
-  funlifeSmartphoneGloves
+  funlifeSmartphoneGloves,
+  towerSiliconeSponge
 ];

@@ -472,3 +472,11 @@
 - The active listing identifies a two-pair set of thin work gloves with touch-panel support on all five fingertips. These are seller claims.
 - Editorial fit: reduces the need to remove work gloves when checking a smartphone during winter outdoor work.
 - Owner context: personally used and found useful in winter because it is less bulky than a conventional glove. No current drawback was identified, so the standardized statement is used.
+# 2026-09-10
+
+### Candidate: tower マグネットハンドル付シリコーンスポンジ
+
+- Status: adopted as `lift-050`
+- Product: https://item.rakuten.co.jp/roomy/ymz24mar06h07/?variantId=YMZ5231-RQ004-0I---1886
+- Experience: 使用済み。予洗い後の食べかすが残りにくく、食洗機で洗える。柔らかい先端は食器に沿うが、深さのある食器には使いにくい。
+- Duplicate check: 商品台帳、公開履歴、楽天ROOM内検索で未公開を確認。

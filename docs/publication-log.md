@@ -514,13 +514,31 @@ Published content is recorded here after the destination confirms that the post 
 - Experience basis: personally used during winter outdoor work after normal purchase
 - Format: six-image carousel
 - Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700392273360302
-- Instagram: https://www.instagram.com/lift.30sec/p/Dc_Rm7ZD85T/
+- Instagram: https://www.instagram.com/lift.30sec/p/DdDho7qDwMj/
 - Threads: https://www.threads.com/@lift.30sec/post/DdDhzF9jyVI
 - Source package: `output/publish/lift-049`
 - Threads delivery: direct Threads post using the six-image carousel
 - Disclosure: optional AI labels were not added, following the account owner's standing instruction; the editorial background contains a generated image
 - Affiliate disclosure: none; the product was purchased normally by the account owner
 - Confirmation: the existing Rakuten ROOM post was verified; Instagram displayed `投稿をシェアしました`; Threads displayed `投稿されました` and exposed the new post URL
+
+### Rakuten ROOM / Instagram / Threads - lift-050
+
+- Status: published
+- Publication slot: 2026-09-09 20:00
+- Actual published at: 2026-09-10 08:09 JST
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: tower マグネットハンドル付シリコーンスポンジ
+- Experience basis: personally used after normal purchase
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700392474515662
+- Instagram: https://www.instagram.com/lift.30sec/p/DdFZoM5k1CP/
+- Threads: https://www.threads.com/@lift.30sec/post/DdFaATYEvNr
+- Source package: `output/publish/lift-050`
+- Threads delivery: direct Threads post using the six-image carousel after Instagram cross-share did not appear
+- Disclosure: optional AI labels were not added, following the account owner's standing instruction; the editorial background contains a generated image
+- Affiliate disclosure: none; the product was purchased normally by the account owner
+- Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL
 
 ## 2026-09-07
 

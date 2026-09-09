@@ -1,5 +1,15 @@
 # 商品画像の取得記録
 
+## lift-050 tower マグネットハンドル付シリコーンスポンジ
+
+- 商品画像: `assets/products/tower-silicone-sponge/affiliate-main.jpg`
+- 提供元: 楽天アフィリエイトの商品リンク作成画面
+- 出典: https://affiliate.rakuten.co.jp/link/pc/item?type=item&me_id=1227333&item_id=10015294
+- 取得日: 2026-09-10
+- 対応商品: インテリアショップ roomy / 商品番号 `YMZ5231-RQ004-0` / ブラック 1886
+- 扱い: 独立した画像領域へ `contain` で表示し、切り抜き・文字重ねなし
+- 背景: `assets/products/tower-silicone-sponge/generated-prerinse-context-v1.png`。商品を描いていない生成キッチン背景
+
 取得日: 2026-07-30
 
 ## SAKuRAKu 排気口カバー

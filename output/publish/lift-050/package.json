@@ -1,0 +1,41 @@
+{
+  "productId": "lift-050",
+  "productName": "tower マグネットハンドル付シリコーンスポンジ",
+  "templateVersion": "editorial-carousel-v2",
+  "templateApprovedOn": "2026-07-31",
+  "prDisclosureRequired": false,
+  "acquisitionType": "normal_purchase",
+  "approvalState": {
+    "template": "approved",
+    "content": "approved",
+    "externalPublication": "published"
+  },
+  "linkStrategy": {
+    "publishOrder": [
+      "rakuten_room",
+      "instagram",
+      "threads"
+    ],
+    "rakutenRoom": "exact_item_page_room_link",
+    "allowRoomSearchOrRepost": false,
+    "instagramFeed": "room_search_keyword",
+    "instagramStory": "room_post_permalink_link_sticker",
+    "threads": "room_post_permalink",
+    "roomPostPermalink": "https://room.rakuten.co.jp/room_09a9c355ec/1700392474515662"
+  },
+  "files": {
+    "instagramImages": [
+      "instagram/01.png",
+      "instagram/02.png",
+      "instagram/03.png",
+      "instagram/04.png",
+      "instagram/05.png",
+      "instagram/06.png"
+    ],
+    "instagramCaption": "instagram-caption.txt",
+    "threads": "threads.txt",
+    "rakutenRoom": "rakuten-room.txt",
+    "rakutenItemSource": "rakuten-item-source.txt",
+    "productLink": "product-link.txt"
+  }
+}
