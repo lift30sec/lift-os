@@ -540,6 +540,26 @@ Published content is recorded here after the destination confirms that the post 
 - Affiliate disclosure: none; the product was purchased normally by the account owner
 - Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL
 
+## 2026-09-11
+
+### Rakuten ROOM / Instagram / Threads - lift-051
+
+- Status: published
+- Publication slot: 2026-09-11 12:00
+- Actual published at: 2026-09-11 09:31 JST
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: 無印良品 やわらかポリエチレンケース
+- Experience basis: personally used after normal purchase
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700392644641605
+- Instagram: https://www.instagram.com/lift.30sec/p/DdIIE4CD0le/
+- Threads: https://www.threads.com/@lift.30sec/post/DdIIRnej4fR
+- Source package: `output/publish/lift-051`
+- Threads delivery: direct Threads post with the Rakuten ROOM URL
+- Disclosure: optional AI labels were not added, following the account owner's standing instruction; the editorial background contains a generated image
+- Affiliate disclosure: none; the product was purchased normally by the account owner
+- Confirmation: Rakuten ROOM displayed the new item as product 51; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL and matching text
+
 ## 2026-09-07
 
 ### Rakuten ROOM / Instagram / Threads - lift-048

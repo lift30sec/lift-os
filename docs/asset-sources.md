@@ -1,5 +1,15 @@
 # 商品画像の取得記録
 
+## lift-051 無印良品 やわらかポリエチレンケース
+
+- 商品画像（中）: `assets/products/muji-soft-polyethylene-case/official-medium.webp`
+- 商品画像（深）: `assets/products/muji-soft-polyethylene-case/official-deep.webp`
+- 提供元: 無印良品 楽天市場店の商品ページ
+- 出典: https://item.rakuten.co.jp/mujirushi-ryohin/4549738749479/
+- 取得日: 2026-09-11
+- 扱い: 独立した画像領域へ `contain` で表示し、切り抜き・文字重ねなし
+- 背景: `assets/products/muji-soft-polyethylene-case/generated-washroom-storage-v1.png`。商品を描いていない洗面所・収納庫の生成背景
+
 ## lift-050 tower マグネットハンドル付シリコーンスポンジ
 
 - 商品画像: `assets/products/tower-silicone-sponge/affiliate-main.jpg`

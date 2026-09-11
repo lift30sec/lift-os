@@ -48,6 +48,7 @@ import { siliconEyeMagnetHook } from "./silicon-eye-magnet-hook.ts";
 import { hubathWashbasinHairCatcher } from "./hubath-washbasin-hair-catcher.ts";
 import { funlifeSmartphoneGloves } from "./funlife-smartphone-gloves.ts";
 import { towerSiliconeSponge } from "./tower-silicone-sponge.ts";
+import { mujiSoftPolyethyleneCase } from "./muji-soft-polyethylene-case.ts";
 
 export const products = [
   marnaFrozenRiceContainer,
@@ -99,5 +100,6 @@ export const products = [
   siliconEyeMagnetHook,
   hubathWashbasinHairCatcher,
   funlifeSmartphoneGloves,
-  towerSiliconeSponge
+  towerSiliconeSponge,
+  mujiSoftPolyethyleneCase
 ];
