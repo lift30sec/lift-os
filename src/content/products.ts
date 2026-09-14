@@ -49,6 +49,7 @@ import { hubathWashbasinHairCatcher } from "./hubath-washbasin-hair-catcher.ts";
 import { funlifeSmartphoneGloves } from "./funlife-smartphone-gloves.ts";
 import { towerSiliconeSponge } from "./tower-silicone-sponge.ts";
 import { mujiSoftPolyethyleneCase } from "./muji-soft-polyethylene-case.ts";
+import { nihonikujiKidsPartition } from "./nihonikuji-kids-partition.ts";
 
 export const products = [
   marnaFrozenRiceContainer,
@@ -101,5 +102,6 @@ export const products = [
   hubathWashbasinHairCatcher,
   funlifeSmartphoneGloves,
   towerSiliconeSponge,
-  mujiSoftPolyethyleneCase
+  mujiSoftPolyethyleneCase,
+  nihonikujiKidsPartition
 ];

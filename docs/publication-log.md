@@ -502,6 +502,26 @@ Published content is recorded here after the destination confirms that the post 
 - Affiliate disclosure: research disclosure included; no product provision, special coupon, sponsorship, or event relationship was stated
 - Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL and `AIコンテンツ` label
 
+## 2026-09-15
+
+### Rakuten ROOM / Instagram / Threads - lift-052
+
+- Status: published
+- Publication slot: 2026-09-11 20:00 (backlog; published on 2026-09-15)
+- Actual published at: 2026-09-15 07:30 JST
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: 日本育児 木のキッズパーテーション
+- Experience basis: personally used after normal purchase
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700393120129130
+- Instagram: https://www.instagram.com/lift.30sec/p/DdSNjppE-NR/
+- Threads: https://www.threads.com/@lift.30sec/post/DdSNkv9k0U3
+- Source package: `output/publish/lift-052`
+- Threads delivery: Instagram cross-share
+- Disclosure: optional AI label not added per owner standing instruction
+- Affiliate disclosure: none; the product was purchased normally by the account owner
+- Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the cross-shared post URL
+
 ## 2026-09-09
 
 ### Rakuten ROOM / Instagram / Threads - lift-049
