@@ -50,6 +50,8 @@ import { funlifeSmartphoneGloves } from "./funlife-smartphone-gloves.ts";
 import { towerSiliconeSponge } from "./tower-silicone-sponge.ts";
 import { mujiSoftPolyethyleneCase } from "./muji-soft-polyethylene-case.ts";
 import { nihonikujiKidsPartition } from "./nihonikuji-kids-partition.ts";
+import { nishizarcDampDuster } from "./nishizarc-damp-duster.ts";
+import { momsmenuWinterSleeper } from "./momsmenu-winter-sleeper.ts";
 
 export const products = [
   marnaFrozenRiceContainer,
@@ -103,5 +105,7 @@ export const products = [
   funlifeSmartphoneGloves,
   towerSiliconeSponge,
   mujiSoftPolyethyleneCase,
-  nihonikujiKidsPartition
+  nihonikujiKidsPartition,
+  nishizarcDampDuster,
+  momsmenuWinterSleeper
 ];

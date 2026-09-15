@@ -1,5 +1,21 @@
 # Discovery Log
 
+## 2026-09-15 additional publications
+
+### NISHIZARC ダンプダスター (`lift-053`)
+
+- Decision: owner confirmed use and agreement with the consulted purchaser review; published after owner approval.
+- Product page: https://item.rakuten.co.jp/decori/y-584/?variantId=r-sku00000012
+- Owner experience: damp use gathers dust around baseboards and window tracks; the sponge hardens when dry and needs water before use.
+- Duplicate check: product ID `lift-053` was not in the prior publication record; the exact product was not found in the account's Rakuten ROOM before publication.
+
+### MOMSMENU 袖付き冬用スリーパー (`lift-054`)
+
+- Decision: owner confirmed use; published after owner approval.
+- Product page: https://item.rakuten.co.jp/babyschoice/1003171/?variantId=U4-2RK4-HPYQ-1
+- Owner experience: helped reduce replacing a kicked-off blanket in winter; at age two, the child refused to wear it. The latter is a growth-related change, not a product defect.
+- Duplicate check: product ID `lift-054` was not in the prior publication record; the exact product was not found in the account's Rakuten ROOM before publication.
+
 ## 2026-08-21 20:00 daily run
 
 ### Candidate: FIELDOOR アウトドアワゴン ミニ 47L（ダークブラウン）

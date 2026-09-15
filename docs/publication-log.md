@@ -504,6 +504,42 @@ Published content is recorded here after the destination confirms that the post 
 
 ## 2026-09-15
 
+### Rakuten ROOM / Instagram / Threads - lift-053
+
+- Status: published
+- Publication slot: 2026-09-15 extra post 1 (owner requested two additional posts)
+- Actual published at: 2026-09-15, confirmed by 17:50 JST (exact publication minute not exposed by UI)
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: NISHIZARC ダンプダスター
+- Experience basis: personally used after normal purchase; owner confirmed the purchaser-review description matches experience
+- Format: six-image Instagram carousel; direct text Threads post
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700393179901370
+- Instagram: https://www.instagram.com/lift.30sec/p/DdTTttuj58y/
+- Threads: https://www.threads.com/@lift.30sec/post/DdTT7XTj1r-
+- Source package: `output/publish/lift-053`
+- Threads delivery: direct text post with the ROOM permalink
+- Disclosure: Instagram AI label enabled because the generated realistic background triggers the platform's mandatory-label message; no optional Threads label was added
+- Affiliate disclosure: none; the product was purchased normally by the account owner
+- Confirmation: ROOM displayed `コレ完了!` and the exact item; Instagram displayed `投稿をシェアしました`; Threads exposed the matching text and individual post URL
+
+### Rakuten ROOM / Instagram / Threads - lift-054
+
+- Status: published
+- Publication slot: 2026-09-15 extra post 2 (owner requested two additional posts)
+- Actual published at: 2026-09-15, confirmed by 17:50 JST (exact publication minute not exposed by UI)
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: MOMSMENU 袖付き冬用スリーパー
+- Experience basis: personally used after normal purchase
+- Format: six-image Instagram carousel; direct text Threads post
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700393180419107
+- Instagram: https://www.instagram.com/lift.30sec/p/DdTUYwtD0tW/
+- Threads: https://www.threads.com/@lift.30sec/post/DdTUdrij2Gf
+- Source package: `output/publish/lift-054`
+- Threads delivery: direct text post with the ROOM permalink
+- Disclosure: Instagram AI label enabled because the generated realistic background triggers the platform's mandatory-label message; no optional Threads label was added
+- Affiliate disclosure: none; the product was purchased normally by the account owner
+- Confirmation: ROOM displayed `コレ完了!` and the exact item; Instagram displayed `投稿をシェアしました`; Threads displayed `投稿されました` and exposed the individual post URL
+
 ### Rakuten ROOM / Instagram / Threads - lift-052
 
 - Status: published
