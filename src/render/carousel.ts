@@ -88,9 +88,9 @@ function renderCompliantCover(
     </section>
     <section class="compliant-product">
       <div class="compliant-product__copy">
-        <div>${isSelect ? "調査して選んだもの" : "実際に使ってよかったもの"}</div>
+        ${isSelect ? "" : "<div>実際に使ってよかったもの</div>"}
         <h2>${label}</h2>
-        <p>${isSelect ? "公式仕様と購入者レビューを、正直にまとめます。" : "使って分かったことを、正直にまとめます。"}</p>
+        ${isSelect ? "" : "<p>使って分かったことを、正直にまとめます。</p>"}
       </div>
       <figure>${affiliateImage}</figure>
     </section>

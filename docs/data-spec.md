@@ -26,7 +26,7 @@
 - `classic`: `experienceLevel` が `owner` または `family` の商品
 - `select`: `experienceLevel` が `researched` の商品
 
-`select` には `content.researchDisclosure` を必須とし、InstagramとThreadsの本文へ同じ開示文を含めます。初期値は「公式情報とレビューを調査して選定しました。」です。
+`select` は画像内または本文で `LIFT Select` と識別します。`content.researchDisclosure` は任意とし、選定条件や調査手順を定型文としてInstagramとThreadsへ挿入しません。
 
 `acquisitionType` は次のいずれかを必須とします。
 

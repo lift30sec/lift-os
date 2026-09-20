@@ -52,6 +52,8 @@ import { mujiSoftPolyethyleneCase } from "./muji-soft-polyethylene-case.ts";
 import { nihonikujiKidsPartition } from "./nihonikuji-kids-partition.ts";
 import { nishizarcDampDuster } from "./nishizarc-damp-duster.ts";
 import { momsmenuWinterSleeper } from "./momsmenu-winter-sleeper.ts";
+import { hubathBathHairCatcher } from "./hubath-bath-hair-catcher.ts";
+import { liftSelectBatch20260920 } from "./lift-select-batch-2026-09-20.ts";
 
 export const products = [
   marnaFrozenRiceContainer,
@@ -107,5 +109,7 @@ export const products = [
   mujiSoftPolyethyleneCase,
   nihonikujiKidsPartition,
   nishizarcDampDuster,
-  momsmenuWinterSleeper
+  momsmenuWinterSleeper,
+  hubathBathHairCatcher,
+  ...liftSelectBatch20260920
 ];

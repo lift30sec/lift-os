@@ -161,15 +161,6 @@ export function validateProduct(product: ProductRecord): string[] {
     if (product.experienceLevel !== "researched") {
       errors.push("select products must use the researched experience level");
     }
-    if (!product.content.researchDisclosure?.trim()) {
-      errors.push("select products require a research disclosure");
-    }
-    if (!product.content.instagramCaption.includes(product.content.researchDisclosure ?? "")) {
-      errors.push("Instagram copy must include the research disclosure");
-    }
-    if (!product.content.threads.includes(product.content.researchDisclosure ?? "")) {
-      errors.push("Threads copy must include the research disclosure");
-    }
   }
   if (product.productImage) {
     if (

@@ -1,5 +1,44 @@
 # Publication Log
 
+## 2026-09-20
+
+The nine LIFT Select items below were published separately to Rakuten ROOM, Instagram, and Threads. Rakuten ROOM confirmed all nine with `コレ完了!`; the account list shows 64 products. Instagram confirmed all nine and the profile shows 64 posts. Threads confirmed each direct text post. The Rakuten ROOM profile URL is recorded where the individual permalink still needs to be copied from the confirmed profile entry.
+
+| ID | Product | Rakuten ROOM | Instagram | Threads |
+| --- | --- | --- | --- | --- |
+| lift-056 | Yunth 生ビタミンC美白美容液 | https://room.rakuten.co.jp/room_09a9c355ec/items | https://www.instagram.com/lift.30sec/p/Ddgv2O0j01Z/ | https://www.threads.com/@lift.30sec/post/Ddgz6U7D7Lc |
+| lift-057 | MYTREX EMS HEAD SPA PRO | https://room.rakuten.co.jp/room_09a9c355ec/items | https://www.instagram.com/lift.30sec/p/DdgwBFrD5On/ | https://www.threads.com/@lift.30sec/post/Ddgz9Z2D6D5 |
+| lift-058 | ALLNA ORGANIC シートマスク | https://room.rakuten.co.jp/room_09a9c355ec/items | https://www.instagram.com/lift.30sec/p/Ddgw1M9j37c/ | https://www.threads.com/@lift.30sec/post/Ddg0FqRDyko |
+| lift-059 | CAROTE Try Free フライパンセット | https://room.rakuten.co.jp/room_09a9c355ec/items | https://www.instagram.com/lift.30sec/p/DdgxAG2D8c3/ | https://www.threads.com/@lift.30sec/post/Ddg0Ieuj53n |
+| lift-060 | GREENPAN クリックシェフ 8点セット | https://room.rakuten.co.jp/room_09a9c355ec/items | https://www.instagram.com/lift.30sec/p/DdgxHO1D5tR/ | https://www.threads.com/@lift.30sec/post/Ddg0JAwD1mq |
+| lift-061 | アイリスオーヤマ フライパンセット MEGI | https://room.rakuten.co.jp/room_09a9c355ec/items | https://www.instagram.com/lift.30sec/p/DdgxThPjyb0/ | https://www.threads.com/@lift.30sec/post/Ddg0JjoD7Qo |
+| lift-062 | タンパクオトメ | https://room.rakuten.co.jp/room_09a9c355ec/items | https://www.instagram.com/lift.30sec/p/Ddgxb0wj5mI/ | https://www.threads.com/@lift.30sec/post/Ddg0MyYD5Eu |
+| lift-063 | VALX ホエイプロテイン WPC 1kg | https://room.rakuten.co.jp/room_09a9c355ec/1700393870515508 | https://www.instagram.com/lift.30sec/p/DdgxiKuDy9E/ | https://www.threads.com/@lift.30sec/post/Ddg0NUsD0zo |
+| lift-064 | GronG ホエイプロテイン 1kg スタンダード | https://room.rakuten.co.jp/room_09a9c355ec/items | https://www.instagram.com/lift.30sec/p/DdgxoXmD0Bo/ | https://www.threads.com/@lift.30sec/post/Ddg0N31Dwsl |
+
+- Format: nine separate six-image carousels on Instagram; separate text posts on Rakuten ROOM and Threads.
+- Experience basis: LIFT Select research, not owner-use claims.
+- Disclosure: no AI-content label added, following the owner's standing instruction.
+- Source packages: `output/publish/lift-056` through `output/publish/lift-064`.
+- Cleanup: the accidental duplicate ALLNA Threads post (`Ddg0DMEj43K`) was deleted after owner confirmation; the retained post is `Ddg0FqRDyko`.
+
+## 2026-09-18
+
+### Rakuten ROOM / Instagram / Threads - lift-055
+
+- Status: published
+- Publication slot: 2026-09-18 12:00
+- Actual published at: 2026-09-18 10:40 JST (all three confirmed by this minute)
+- Product: HUBATH お風呂用マグネット排水口ヘアーキャッチャー STD140
+- Experience basis: owner confirmed use and approved the comparison with the previous catcher.
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700393512398311
+- Instagram: https://www.instagram.com/lift.30sec/p/DdaRpAlDyRl/
+- Threads: https://www.threads.com/@lift.30sec/post/DdaRrOCDz6V
+- Source package: `output/publish/lift-055`; six 1080x1350 images visually checked.
+- Asset: affiliate white-background fmh_white, provided locally by owner; unchanged contain placement. Generated bathroom context is editorial, not a real use photo.
+- Disclosure: Instagram required AI toggle enabled following the visible mandatory notice. Threads is a direct text post with ROOM permalink.
+- Confirmation: ROOM コレ完了; Instagram 投稿をシェアしました; Threads new profile entry with exact product copy and permalink.
+
 Published content is recorded here after the destination confirms that the post was shared successfully.
 
 ## 2026-07-31
