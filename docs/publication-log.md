@@ -541,6 +541,163 @@ Published content is recorded here after the destination confirms that the post 
 - Affiliate disclosure: research disclosure included; no product provision, special coupon, sponsorship, or event relationship was stated
 - Confirmation: Rakuten ROOM displayed `コレ完了!`; Instagram displayed `投稿をシェアしました`; Threads exposed the new post URL and `AIコンテンツ` label
 
+
+## 2026-09-26
+
+### Rakuten ROOM / Instagram / Threads - lift-065
+
+- Status: published
+- Publication slot: 2026-09-26 LIFT Select batch
+- Actual published at: 2026-09-26 14:32 JST
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: アテニア スキンクリア クレンズ オイル 350mL
+- Experience basis: LIFT Select; official product information and review trend
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700394573234455
+- Instagram: https://www.instagram.com/lift.30sec/p/DdvOxK_D5ec/
+- Threads: https://www.threads.com/@lift.30sec/post/DdvPezZD3CE
+- Source package: `output/publish/lift-065`
+- Threads delivery: direct Threads text post
+- Disclosure: no optional AI label added under the approved daily-operations rule
+- Confirmation: Rakuten ROOM, Instagram, and Threads public pages were verified
+
+### Rakuten ROOM / Instagram / Threads - lift-066
+
+- Status: published
+- Publication slot: 2026-09-26 LIFT Select batch
+- Actual published at: 2026-09-26 14:32 JST
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: ラ ロッシュ ポゼ トーンアップUV
+- Experience basis: LIFT Select; official product information and review trend
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700394573316192
+- Instagram: https://www.instagram.com/lift.30sec/p/DdvO6svj1_8/
+- Threads: https://www.threads.com/@lift.30sec/post/DdvSLHbj-Tn
+- Source package: `output/publish/lift-066`
+- Threads delivery: direct Threads text post
+- Disclosure: no optional AI label added under the approved daily-operations rule
+- Confirmation: Rakuten ROOM, Instagram, and Threads public pages were verified
+
+### Rakuten ROOM / Instagram / Threads - lift-067
+
+- Status: published
+- Publication slot: 2026-09-26 LIFT Select batch
+- Actual published at: 2026-09-26 14:32 JST
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: シュウ ウエムラ アルティム8∞
+- Experience basis: LIFT Select; official product information and review trend
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700394573378348
+- Instagram: https://www.instagram.com/lift.30sec/p/DdvPF0cjzOH/
+- Threads: https://www.threads.com/@lift.30sec/post/DdvPinED-jW
+- Source package: `output/publish/lift-067`
+- Threads delivery: direct Threads text post
+- Disclosure: no optional AI label added under the approved daily-operations rule
+- Confirmation: Rakuten ROOM, Instagram, and Threads public pages were verified
+
+### Rakuten ROOM / Instagram / Threads - lift-068
+
+- Status: published
+- Publication slot: 2026-09-26 LIFT Select batch
+- Actual published at: 2026-09-26 14:32 JST
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: SAKuRAKu L字型キッチンマット
+- Experience basis: LIFT Select; official product information and review trend
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700394573384307
+- Instagram: https://www.instagram.com/lift.30sec/p/DdvPMwBD47i/
+- Threads: https://www.threads.com/@lift.30sec/post/DdvSOoWj3tm
+- Source package: `output/publish/lift-068`
+- Threads delivery: direct Threads text post
+- Disclosure: no optional AI label added under the approved daily-operations rule
+- Confirmation: Rakuten ROOM, Instagram, and Threads public pages were verified
+
+### Rakuten ROOM / Instagram / Threads - lift-069
+
+- Status: published
+- Publication slot: 2026-09-26 LIFT Select batch
+- Actual published at: 2026-09-26 14:32 JST
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: OoBLE 自動真空米びつ
+- Experience basis: LIFT Select; official product information and review trend
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700394573385199
+- Instagram: https://www.instagram.com/lift.30sec/p/DdvPPSHD1i5/
+- Threads: https://www.threads.com/@lift.30sec/post/DdvSPksDwxu
+- Source package: `output/publish/lift-069`
+- Threads delivery: direct Threads text post
+- Disclosure: no optional AI label added under the approved daily-operations rule
+- Confirmation: Rakuten ROOM, Instagram, and Threads public pages were verified
+
+### Rakuten ROOM / Instagram / Threads - lift-070
+
+- Status: published
+- Publication slot: 2026-09-26 LIFT Select batch
+- Actual published at: 2026-09-26 14:32 JST
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: iwaki パック＆レンジ 7点
+- Experience basis: LIFT Select; official product information and review trend
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700394573389209
+- Instagram: https://www.instagram.com/lift.30sec/p/DdvPR1jD4t1/
+- Threads: https://www.threads.com/@lift.30sec/post/DdvSQYBD4VZ
+- Source package: `output/publish/lift-070`
+- Threads delivery: direct Threads text post
+- Disclosure: no optional AI label added under the approved daily-operations rule
+- Confirmation: Rakuten ROOM, Instagram, and Threads public pages were verified
+
+### Rakuten ROOM / Instagram / Threads - lift-071
+
+- Status: published
+- Publication slot: 2026-09-26 LIFT Select batch
+- Actual published at: 2026-09-26 14:32 JST
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: 大塚製薬 エクエル 3袋
+- Experience basis: LIFT Select; official product information and review trend
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700394573395397
+- Instagram: https://www.instagram.com/lift.30sec/p/DdvPVEOD55U/
+- Threads: https://www.threads.com/@lift.30sec/post/DdvPku8DxDS
+- Source package: `output/publish/lift-071`
+- Threads delivery: direct Threads text post
+- Disclosure: no optional AI label added under the approved daily-operations rule
+- Confirmation: Rakuten ROOM, Instagram, and Threads public pages were verified
+
+### Rakuten ROOM / Instagram / Threads - lift-072
+
+- Status: published
+- Publication slot: 2026-09-26 LIFT Select batch
+- Actual published at: 2026-09-26 14:32 JST
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: VITAS WPCプロテイン
+- Experience basis: LIFT Select; official product information and review trend
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700394573399387
+- Instagram: https://www.instagram.com/lift.30sec/p/DdvPYOzD6Bx/
+- Threads: https://www.threads.com/@lift.30sec/post/DdvPlQkj6Rr
+- Source package: `output/publish/lift-072`
+- Threads delivery: direct Threads text post
+- Disclosure: no optional AI label added under the approved daily-operations rule
+- Confirmation: Rakuten ROOM, Instagram, and Threads public pages were verified
+
+### Rakuten ROOM / Instagram / Threads - lift-073
+
+- Status: published
+- Publication slot: 2026-09-26 LIFT Select batch
+- Actual published at: 2026-09-26 14:32 JST
+- Account: `room_09a9c355ec` / `lift.30sec`
+- Product: Lypo-C 28包
+- Experience basis: LIFT Select; official product information and review trend
+- Format: six-image carousel
+- Rakuten ROOM: https://room.rakuten.co.jp/room_09a9c355ec/1700394573402618
+- Instagram: https://www.instagram.com/lift.30sec/p/DdvPaxuj1bK/
+- Threads: https://www.threads.com/@lift.30sec/post/DdvSRIgj2O_
+- Source package: `output/publish/lift-073`
+- Threads delivery: direct Threads text post
+- Disclosure: no optional AI label added under the approved daily-operations rule
+- Confirmation: Rakuten ROOM, Instagram, and Threads public pages were verified
+
+
 ## 2026-09-15
 
 ### Rakuten ROOM / Instagram / Threads - lift-053

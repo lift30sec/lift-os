@@ -54,6 +54,7 @@ import { nishizarcDampDuster } from "./nishizarc-damp-duster.ts";
 import { momsmenuWinterSleeper } from "./momsmenu-winter-sleeper.ts";
 import { hubathBathHairCatcher } from "./hubath-bath-hair-catcher.ts";
 import { liftSelectBatch20260920 } from "./lift-select-batch-2026-09-20.ts";
+import { liftSelectBatch20260926 } from "./lift-select-batch-2026-09-26.ts";
 
 export const products = [
   marnaFrozenRiceContainer,
@@ -111,5 +112,6 @@ export const products = [
   nishizarcDampDuster,
   momsmenuWinterSleeper,
   hubathBathHairCatcher,
-  ...liftSelectBatch20260920
+  ...liftSelectBatch20260920,
+  ...liftSelectBatch20260926
 ];
